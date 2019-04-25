@@ -1,0 +1,1868 @@
+,cast_id,character,credit_id,gender,id,name,order,movie_id
+0,42,Ted the Bellhop,52fe420dc3a36847f80001b7,2,3129,Tim Roth,0,5
+1,31,Man,52fe420dc3a36847f800018b,2,3131,Antonio Banderas,1,5
+2,29,Angela,52fe420dc3a36847f8000183,1,3130,Jennifer Beals,2,5
+3,25,Elspeth,52fe420dc3a36847f8000173,1,3125,Madonna,3,5
+4,41,Margaret,52fe420dc3a36847f80001b3,1,3141,Marisa Tomei,4,5
+5,43,Leo,52fe420dc3a36847f80001bb,2,62,Bruce Willis,5,5
+6,38,Chester Rush,52fe420dc3a36847f80001a7,2,138,Quentin Tarantino,6,5
+7,22,Jezebel,52fe420dc3a36847f8000167,1,3122,Sammi Davis,7,5
+8,23,Diana,52fe420dc3a36847f800016b,1,3123,Amanda de Cadenet,8,5
+9,24,Athena,52fe420dc3a36847f800016f,1,3124,Valeria Golino,9,5
+10,27,Raven,52fe420dc3a36847f800017b,1,3127,Lili Taylor,10,5
+11,39,Long Hair Yuppy Scum,52fe420dc3a36847f80001ab,2,2545,Lawrence Bender,11,5
+12,26,Eva,52fe420dc3a36847f8000177,1,3126,Ione Skye,12,5
+13,28,Kiva,52fe420dc3a36847f800017f,1,3128,Alicia Witt,13,5
+14,30,Siegfried,52fe420dc3a36847f8000187,2,2555,David Proval,14,5
+15,32,Sarah,52fe420dc3a36847f800018f,1,3132,Lana McKissack,15,5
+16,34,Wife,52fe420dc3a36847f8000197,1,3134,Tamlyn Tomita,16,5
+17,40,Betty,52fe420dc3a36847f80001af,1,3138,Kathy Griffin,17,5
+18,37,Norman,52fe420dc3a36847f80001a3,2,3137,Paul Calderon,18,5
+19,36,TV Dancing Girl,52fe420dc3a36847f800019f,1,3136,Salma Hayek,19,5
+20,33,Corpse,52fe420dc3a36847f8000193,1,3133,Patricia Vonne,20,5
+21,35,Juancho,52fe420dc3a36847f800019b,0,3135,Danny Verduzco,21,5
+22,44,Hooker,52fe420dc3a36847f80001bf,0,37336,Kimberly Blair,22,5
+23,45,Sam the Bellhop,52fe420dc3a36847f80001c3,2,3140,Marc Lawrence,23,5
+0,3,Luke Skywalker,52fe420dc3a36847f8000441,2,2,Mark Hamill,0,11
+1,4,Han Solo,52fe420dc3a36847f8000445,2,3,Harrison Ford,1,11
+2,5,Princess Leia Organa,52fe420dc3a36847f8000449,1,4,Carrie Fisher,2,11
+3,6,Grand Moff Tarkin,52fe420dc3a36847f800044d,2,5,Peter Cushing,3,11
+4,14,"Obi-Wan ""Ben"" Kenobi",52fe420dc3a36847f8000477,2,12248,Alec Guinness,4,11
+5,7,See Threepio (C-3PO),52fe420dc3a36847f8000451,2,6,Anthony Daniels,5,11
+6,8,Artoo-Detoo (R2-D2),52fe420dc3a36847f8000455,2,130,Kenny Baker,6,11
+7,15,Chewbacca,52fe420dc3a36847f800047b,2,24343,Peter Mayhew,7,11
+8,16,Darth Vader,52fe420dc3a36847f800047f,2,24342,David Prowse,8,11
+9,17,Voice of Darth Vader (voice),52fe420dc3a36847f8000483,0,15152,James Earl Jones,9,11
+10,18,Uncle Owen,52fe420dc3a36847f8000487,2,33032,Phil Brown,10,11
+11,19,Aunt Beru,52fe420dc3a36847f800048b,1,131625,Shelagh Fraser,11,11
+12,24,Chief Jawa,52fe420dc3a36847f800049f,2,132538,Jack Purvis,12,11
+13,26,General Willard,52fe420dc3a36847f80004a7,2,69249,Eddie Byrne,13,11
+14,27,Red Two (Wedge),52fe420dc3a36847f80004ab,2,47698,Denis Lawson,14,11
+15,28,Red Three (Biggs),52fe420dc3a36847f80004af,2,17356,Garrick Hagon,15,11
+16,33,General Taggi,52fe420dc3a36847f80004c3,2,42570,Don Henderson,16,11
+17,35,Commander #1,52fe420dc3a36847f80004cb,2,79489,Leslie Schofield,17,11
+18,34,General Motti,52fe420dc3a36847f80004c7,2,12829,Richard LeParmentier,18,11
+19,128,Stormtrooper,586570c7c3a36852d201e865,2,1729623,Michael Leader,19,11
+20,25,General Dodonna,52fe420dc3a36847f80004a3,2,216087,Alex McCrindle,20,11
+21,23,Red Leader,52fe420dc3a36847f800049b,2,47401,Drewe Henley,21,11
+22,29,"Red Four (John ""D"")",52fe420dc3a36847f80004b3,2,162432,Jack Klaff,22,11
+23,21,Red Six (Porkins),52fe420dc3a36847f8000493,2,663,William Hootkins,23,11
+24,30,Gold Leader,52fe420dc3a36847f80004b7,2,58475,Angus MacInnes,24,11
+25,126,Gold Two,569792c4c3a3683b040021fc,2,151819,Jeremy Sinden,25,11
+26,32,Gold Five,52fe420dc3a36847f80004bf,2,202276,Graham Ashley,26,11
+27,36,Red Two (voice) (uncredited),52fe420dc3a36847f80004cf,2,1216947,David Ankrum,27,11
+28,37,Boba Fett (special edition) (uncredited),52fe420dc3a36847f80004d3,2,1271058,Mark Austin,28,11
+29,38,Stormtrooper (voice) (uncredited),52fe420dc3a36847f80004d7,2,3044,Scott Beach,29,11
+30,39,Stormtrooper (uncredited),52fe420ec3a36847f80004db,2,1271059,Lightning Bear,30,11
+31,40,Cantina Alien (uncredited),52fe420ec3a36847f80004df,2,1271060,Jon Berg,31,11
+32,41,Cantina Alien (uncredited),52fe420ec3a36847f80004e3,0,1271061,Doug Beswick,32,11
+33,42,Greedo (uncredited),52fe420ec3a36847f80004e7,2,199356,Paul Blake,33,11
+34,43,Nabrun Leids (uncredited),52fe420ec3a36847f80004eb,0,1271062,Janice Burchette,34,11
+35,44,Wuher (uncredited),52fe420ec3a36847f80004ef,2,1271063,Ted Burnett,35,11
+36,45,Drifter (Red 12) (uncredited),52fe420ec3a36847f80004f3,2,1271064,John Chapman,36,11
+37,46,Cantina Patron (uncredited),52fe420ec3a36847f80004f7,2,1271065,Gilda Cohen,37,11
+38,47,Stormtrooper (uncredited),52fe420ec3a36847f80004fb,2,1178140,Tim Condren,38,11
+39,48,Wioslea (uncredited),52fe420ec3a36847f80004ff,0,186229,Barry Copping,39,11
+40,49,Dr. Evazan (uncredited),52fe420ec3a36847f8000503,2,1271066,Alfie Curtis,40,11
+41,50,Cantina Patron (uncredited),52fe420ec3a36847f8000507,0,1271067,Robert Davies,41,11
+42,51,Greedo (uncredited),52fe420ec3a36847f800050b,1,104149,Maria De Aragon,42,11
+43,52,Hrchek Kal Fas (uncredited),52fe420ec3a36847f800050f,0,1271068,Robert A. Denham,43,11
+44,53,Jawa (uncredited),52fe420ec3a36847f8000513,0,1271069,Frazer Diamond,44,11
+45,54,Stormtrooper / Tusken Raider / Death Star Trooper / Garouf Lafoe (uncredited),52fe420ec3a36847f8000517,2,53587,Peter Diamond,45,11
+46,55,Jawa (uncredited),52fe420ec3a36847f800051b,0,1271070,Warwick Diamond,46,11
+47,56,Garindan (uncredited),52fe420ec3a36847f800051f,0,1271071,Sadie Eden,47,11
+48,57,Djas Puhr (uncredited),52fe420ec3a36847f8000523,0,1271072,Kim Falkinburg,48,11
+49,58,Death Star Trooper (uncredited),52fe420ec3a36847f8000527,2,202402,Harry Fielder,49,11
+50,59,Stormtrooper with Binoculars (uncredited),52fe420ec3a36847f800052b,0,1271073,Ted Gagliano,50,11
+51,60,Cantina Patron (uncredited),52fe420ec3a36847f800052f,0,1271074,Salo Gardner,51,11
+52,61,Death Star Trooper (uncredited),52fe420ec3a36847f8000533,0,1195602,Steve Gawley,52,11
+53,62,Kabe (uncredited),52fe420ec3a36847f8000537,0,1271075,Barry Gnome,53,11
+54,63,Kabe / Jawa / GONK Droid (uncredited),52fe420ec3a36847f800053b,0,252527,Rusty Goffe,54,11
+55,64,Cantina Patron (uncredited),52fe420ec3a36847f800053f,0,1271076,Isaac Grand,55,11
+56,65,Stormtrooper (special edition) (uncredited),52fe420ec3a36847f8000543,0,1271077,Nelson Hall,56,11
+57,66,Stormtrooper (uncredited),52fe420ec3a36847f8000547,0,1271078,Reg Harding,57,11
+58,67,Leia's Rebel Escort (uncredited),52fe420ec3a36847f800054b,2,964699,Alan Harris,58,11
+59,68,Stormtrooper (uncredited),52fe420ec3a36847f800054f,0,1271079,Frank Henson,59,11
+60,69,Brea Tonnika (uncredited),52fe420ec3a36847f8000553,0,1271080,Christine Hewett,60,11
+61,70,Stormtrooper (uncredited),52fe420ec3a36847f8000557,0,1271081,Arthur Howell,61,11
+62,71,Ponda Baba (uncredited),52fe420ec3a36847f800055b,0,1271082,Tommy Ilsley,62,11
+63,72,Death Star Trooper (uncredited),52fe420ec3a36847f800055f,2,4945,Joe Johnston,63,11
+64,73,Mosep (uncredited),52fe420ec3a36847f8000563,0,1271083,Annette Jones,64,11
+65,74,Chall Bekan (uncredited),52fe420ec3a36847f8000567,0,1148750,Linda Jones,65,11
+66,75,Solomohal (uncredited),52fe420ec3a36847f800056b,0,201344,Joe Kaye,66,11
+67,76,Stormtrooper (voice) (uncredited),52fe420ec3a36847f800056f,0,1271085,Colin Michael Kitchens,67,11
+68,77,Jawa (uncredited),52fe420ec3a36847f8000573,0,1271086,Melissa Kurtz,68,11
+69,78,Jawa (uncredited),52fe420ec3a36847f8000577,0,1190780,Tiffany L. Kurtz,69,11
+70,79,Daine Jir (uncredited),52fe420ec3a36847f800057b,0,190453,Al Lampert,70,11
+71,80,BoShek (uncredited),52fe420ec3a36847f800057f,0,1012562,Anthony Lang,71,11
+72,81,Muftak / Cantina Band Member (uncredited),52fe420ec3a36847f8000583,0,1271091,Laine Liska,72,11
+73,82,Temple Guard / Medal Bearer (uncredited),52fe420ec3a36847f8000587,2,1271092,Derek Lyons,73,11
+74,83,Jawa (uncredited),52fe420ec3a36847f800058b,0,1271095,Mahjoub,74,11
+75,84,Takeel (uncredited),52fe420ec3a36847f800058f,0,1271096,Alf Mangan,75,11
+76,85,Stormtrooper (special edition) (uncredited),52fe420ec3a36847f8000593,0,19801,Rick McCallum,76,11
+77,86,Death Star Gunner (uncredited),52fe420ec3a36847f8000597,0,1271102,Grant McCune,77,11
+78,87,Cantina Patron (uncredited),52fe420ec3a36847f800059b,0,1271104,Geoffrey Moon,78,11
+79,88,Swilla Corey (uncredited),52fe420ec3a36847f800059f,0,1271106,Mandy Morton,79,11
+80,89,Massassi Base Rebel Scout (uncredited),52fe420ec3a36847f80005a3,0,1271107,Lorne Peterson,80,11
+81,90,Rycar Ryjerd (uncredited),52fe420ec3a36847f80005a7,0,1183443,Marcus Powell,81,11
+82,91,InCom Engineer (uncredited),52fe420ec3a36847f80005ab,2,10657,Shane Rimmer,82,11
+83,92,Leesub Sirln (uncredited),52fe420ec3a36847f80005af,0,1271116,Pam Rose,83,11
+84,93,Cmdr. Praji (Imperial Officer #2 on rebel ship) (uncredited),52fe420ec3a36847f80005b3,2,110319,George Roubicek,84,11
+85,94,Tawss Khaa (uncredited),52fe420ec3a36847f80005b7,0,1271121,Erica Simmons,85,11
+86,95,Senni Tonnika (uncredited),52fe420ec3a36847f80005bb,0,1271122,Angela Staines,86,11
+87,96,Cantina Patron (uncredited),52fe420ec3a36847f80005bf,0,1271123,George Stock,87,11
+88,97,Cantina Patron (uncredited),52fe420ec3a36847f80005c3,0,1271124,Roy Straite,88,11
+89,98,Sai'torr Kal Fas (uncredited),52fe420ec3a36847f80005c7,0,1271125,Peter Sturgeon,89,11
+90,99,Lt. Pol Treidum (uncredited),52fe420ec3a36847f80005cb,0,187398,Peter Sumner,90,11
+91,100,Cantina Voices (voice) (uncredited),52fe420ec3a36847f80005cf,0,1271126,John Sylla,91,11
+92,101,Massassi Outpost Announcer / Various Voices (voice) (uncredited),52fe420ec3a36847f80005d3,0,390158,Tom Sylla,92,11
+93,22,Lt. Shann Childsen (uncredited),52fe420dc3a36847f8000497,2,166258,Malcolm Tierney,93,11
+94,102,Cantina Alien (uncredited),52fe420ec3a36847f80005d7,2,7727,Phil Tippett,94,11
+95,103,Del Goren (uncredited),52fe420ec3a36847f80005db,0,184980,Burnell Tucker,95,11
+96,104,Stormtrooper (voice) (uncredited),52fe420ec3a36847f80005df,0,160947,Morgan Upton,96,11
+97,105,Stormtrooper (voice) (uncredited),52fe420ec3a36847f80005e3,0,161301,Jerry Walter,97,11
+98,106,Jawa (uncredited),52fe420ec3a36847f80005e7,0,1271127,Hal Wamsley,98,11
+99,107,Greedo (voice) (uncredited),52fe420ec3a36847f80005eb,2,159108,Larry Ward,99,11
+100,108,Thuku (uncredited),52fe420ec3a36847f80005ef,0,1271128,Diana Sadley Way,100,11
+101,109,Ketwol / Melas (uncredited),52fe420ec3a36847f80005f3,0,1271129,Harold Weed,101,11
+102,110,Stormtrooper (uncredited),52fe420ec3a36847f80005f7,2,24278,Bill Weston,102,11
+103,111,Mos Eisley Citizen (special edition) (uncredited),52fe420ec3a36847f80005fb,0,60207,Steve 'Spaz' Williams,103,11
+104,112,Cantina Patron (uncredited),52fe420ec3a36847f80005ff,0,1271131,Fred Wood,104,11
+105,129,Rebel Pilot (uncredited),588f15b4c3a36860ce00562c,0,301657,Colin Higgins,105,11
+0,8,Marlin (voice),52fe420ec3a36847f8000679,2,13,Albert Brooks,0,12
+1,9,Dory (voice),52fe420ec3a36847f800067d,1,14,Ellen DeGeneres,1,12
+2,7,Nemo (voice),52fe420ec3a36847f8000675,2,12,Alexander Gould,2,12
+3,16,Gill (voice),52fe420ec3a36847f8000699,2,5293,Willem Dafoe,3,12
+4,10,Bloat (voice),52fe420ec3a36847f8000681,2,18,Brad Garrett,4,12
+5,11,Peach (voice),52fe420ec3a36847f8000685,1,19,Allison Janney,5,12
+6,23,Gurgle (voice),52fe420ec3a36847f80006c1,2,6168,Austin Pendleton,6,12
+7,24,Bubbles (voice),52fe420ec3a36847f80006c5,2,17401,Stephen Root,7,12
+8,25,Deb / Flo (voice),52fe420ec3a36847f80006c9,1,14723,Vicki Lewis,8,12
+9,26,Jacques (voice),52fe420ec3a36847f80006cd,0,7911,Joe Ranft,9,12
+10,27,Nigel (voice),52fe420ec3a36847f80006d1,2,118,Geoffrey Rush,10,12
+11,12,Crush (voice),52fe420ec3a36847f8000689,2,7,Andrew Stanton,11,12
+12,13,Coral (voice),52fe420ec3a36847f800068d,1,20,Elizabeth Perkins,12,12
+13,28,Squirt (voice),52fe420ec3a36847f80006d5,2,981048,Nicholas Bird,13,12
+14,29,Mr. Ray (voice),52fe420ec3a36847f80006d9,2,10,Bob Peterson,14,12
+15,14,Bruce (voice),52fe420ec3a36847f8000691,2,22,Barry Humphries,15,12
+16,33,Anchor (voice),52fe420ec3a36847f80006e9,2,8783,Eric Bana,16,12
+17,34,Chum (voice),52fe420ec3a36847f80006ed,2,27752,Bruce Spence,17,12
+18,15,Dentist (voice),52fe420ec3a36847f8000695,2,23,Bill Hunter,18,12
+19,35,Darla (voice),52fe420ec3a36847f80006f1,1,981049,LuLu Ebeling,19,12
+20,36,Tad (voice),52fe420ec3a36847f80006f5,0,1211731,Jordan Ranft,20,12
+21,39,Pearl (voice),5438598cc3a36825ba001f32,0,1372790,Erica Beck,21,12
+22,37,Sheldon (voice),52fe420ec3a36847f80006f9,2,17190,Erik Per Sullivan,22,12
+23,150,Fish School (voice),593a590f9251411ef8009e8a,2,7907,John Ratzenberger,33,12
+0,7,Forrest Gump,52fe420ec3a36847f800074f,2,31,Tom Hanks,0,13
+1,8,Jenny Curran,52fe420ec3a36847f8000753,1,32,Robin Wright,1,13
+2,9,Lt. Dan Taylor,52fe420ec3a36847f8000757,2,33,Gary Sinise,2,13
+3,10,Pvt. Benjamin Buford 'Bubba' Blue,52fe420ec3a36847f800075b,2,34,Mykelti Williamson,3,13
+4,11,Mrs. Gump,52fe420ec3a36847f800075f,1,35,Sally Field,4,13
+5,38,Young Forrest Gump,540b61f0c3a368799f001e2b,2,37821,Michael Conner Humphreys,5,13
+6,33,Young Jenny Curran,52fe420ec3a36847f8000785,1,204997,Hanna Hall,6,13
+7,25,Forrest Gump Jr.,52fe420ec3a36847f8000775,2,9640,Haley Joel Osment,7,13
+8,34,School Bus Driver,52fe420ec3a36847f8000789,1,6751,Siobhan Fallon,8,13
+9,35,Drill Sergeant,52fe420ec3a36847f800078d,2,37825,Afemo Omilami,9,13
+10,105,Young Elvis Presley,5517d886c3a36862ff003646,2,37822,Peter Dobson,10,13
+11,106,College Football Coach,5517d8dd9251412c1e001eb4,2,37823,Sonny Shroyer,11,13
+12,109,Barber,55d0c1f9c3a3681bf9008562,2,951881,George Kelly,12,13
+13,110,Principal,55d0c22bc3a36877570013ec,2,36221,Sam Anderson,13,13
+14,111,Louise,55d0c25c9251413193007a8c,0,1215432,Margo Moorer,14,13
+15,112,Boy with cross,55d0c33bc3a3681bf900857d,2,1019727,Christopher Jones,15,13
+16,113,Jenny's Father,55d0c375c3a3685875004bfe,0,37832,Kevin Mangan,16,13
+17,114,High School Football Coach,55d0c3f19251412e51006c2c,2,29934,Brett Rice,17,13
+18,115,Recruiter,55d0c41cc3a3681567007ae7,2,14526,Daniel C. Striepeke,18,13
+19,116,Newscaster,55d0c44f92514131a5007b43,0,6310,David Brisbin,19,13
+20,117,Earl,55d0c46b9251413196007bab,2,154697,Kirk Ward,20,13
+21,180,Bubba's Mother,586b9a9e9251415d240050cc,0,37831,Marlena Smalls,21,13
+22,179,Bubba's Great Grandmother,586b9997c3a3685e99005614,1,37830,Kitty K. Green,22,13
+23,118,Jenny's date,55d0c4ba9251413198007f86,2,975108,Mark Matheisen,23,13
+24,119,Local Anchor #1,55d0c4e8c3a3685875004c1e,2,129725,Al Harrington,24,13
+25,120,President Kennedy (voice),55d0c51bc3a3681bee007a2f,0,37824,Jed Gillin,25,13
+26,121,Army Recruiter,55d0c5479251413196007bbc,2,1346510,Don Fischer,26,13
+27,122,Barracks Recruit,55d0c5b7c3a3681bee007a45,0,1088274,Matt Wallace,27,13
+28,123,Club patron,55d0c61dc3a3681bf90085ca,2,114326,Mike Jolly,28,13
+29,124,Club patron,55d0c642c3a3681bf90085ce,2,170051,Michael Kemmerling,29,13
+30,125,Club patron,55d0c672c3a3681bff007de9,0,95140,John Voldstad,30,13
+31,126,Helicopter gunman,55d0c6c69251412e51006c77,0,1446990,Daniel J. Gillooly,31,13
+32,127,Cleveland,55d0c7119251413198007faa,0,1401994,Michael Burgess,32,13
+33,128,Tex,55d0c72d9251413196007bec,0,1235787,Steven Griffith,33,13
+34,129,Army Hospital Male Nurse,55d0c777925141319f0081b0,2,163441,Michael McFall,34,13
+35,130,Wounded soldier,55d0c7c192514131a2007d80,2,163441,Michael McFall,35,13
+36,131,Wounded soldier,55d0c7dd92514142b40050ca,2,92658,Byron Minns,36,13
+37,132,Hospital Officer,55d0c807c3a3681567007b3f,2,81692,Stephen Bridgewater,37,13
+38,133,President Johnson (voice),55d0c850c3a3681bee007a87,2,37827,John William Galt,38,13
+39,134,Isabel,55d0c872c3a3681567007b4f,0,1313819,Isabel Rose,39,13
+40,135,Abbie Hoffman,55d0c8ad9251413198007fca,0,1409948,Richard D'Alessandro,40,13
+41,136,Black Panther,55d0c8f592514142b40050e8,2,46921,Michael Jace,41,13
+42,137,Wesley,55d0c90d9251412e51006cb5,2,148122,Geoffrey Blake,42,13
+43,138,Hollywood Boulevard Girlfriend,55d0c94ac3a3685875004c80,1,406976,Vanessa Roth,43,13
+44,139,Dick Cavett,55d0c986c3a36877570014ac,2,10565,Dick Cavett,44,13
+45,140,Carla,55d0c9b99251413198007ff5,0,1405338,Tiffany Salerno,45,13
+46,141,Lenore,55d0c9db92514131a5007bdd,0,1405338,Tiffany Salerno,46,13
+47,142,President Nixon (voice),55d0ca079251413193007b52,2,86434,Joe Alaskey,47,13
+48,143,Discharge Officer,55d0ca3a925141319f0081fe,0,1465241,Lazarus Jackson,48,13
+49,144,Drugged Out Boyfriend,55d0ca79925141319800800d,0,1465241,Lazarus Jackson,49,13
+50,145,Elderly Southern Woman,55d0caafc3a3684453006715,0,37828,Nora Dunfee,50,13
+51,146,Waitress in cafe,55d0caf1925141319f008210,0,1327149,Hallie D'Amore,51,13
+52,147,Taxi Driver,55d0cb2692514131a2007e06,2,37829,Michael Mattison,52,13
+53,148,Aging Hippie,55d0cb52c3a3681bf900865e,2,176329,Charles Boswell,53,13
+54,149,Wild eyed man,55d0cb769251413193007b8b,2,169643,Timothy McNeil,54,13
+55,178,Crony,57d2dfcdc3a3684297000c72,2,196855,Bob Penny,55,13
+56,150,Football Player (uncredited),55d0cbfcc3a3681bff007e78,0,98873,Greg Brown,56,13
+57,151,Cheerleader (uncredited),55d0cc289251413196007c9a,2,13204,Troy Christian,57,13
+58,152,Football Coach (uncredited),55d0cc6cc3a3681567007bdc,2,84901,Bryan Hanna,58,13
+59,153,Barracks Recruit (uncredited),55d0cc86c3a3685875004cda,0,1392671,Zach Hanner,59,13
+60,154,National Guardsman (uncredited),55d0cca19251413193007bc1,0,1273540,Aaron Michael Lacey,60,13
+61,155,Football Fan (uncredited),55d0ccbac3a3684453006766,1,42961,Jacqueline Lovell,61,13
+62,157,Football Player (uncredited),55d0ccf292514142b400514f,0,1150593,Brendan Shanahan,63,13
+63,158,Black Panther (uncredited),55d0cd07c3a3681bf00070ca,0,567126,William Shipman,64,13
+64,159,Nicholas Katzenbach (uncredited),55d0cd2fc3a3681bf900869a,2,173277,Robb Skyler,65,13
+65,160,Jenny's Babysitter (uncredited),55d0cd4bc3a368445300677a,0,23967,Mary Ellen Trainor,66,13
+0,6,Lester Burnham,52fe420ec3a36847f80007db,2,1979,Kevin Spacey,0,14
+1,3,Carolyn Burnham,52fe420ec3a36847f80007cf,1,516,Annette Bening,1,14
+2,5,Jane Burnham,52fe420ec3a36847f80007d7,1,2155,Thora Birch,2,14
+3,7,Ricky Fitts,52fe420ec3a36847f80007df,2,8210,Wes Bentley,3,14
+4,8,Angela Hayes,52fe420ec3a36847f80007e3,1,8211,Mena Suvari,4,14
+5,9,Colonel Frank Fitts,52fe420ec3a36847f80007e7,2,2955,Chris Cooper,5,14
+6,4,Jim Olmeyer,52fe420ec3a36847f80007d3,2,2154,Scott Bakula,6,14
+7,10,Buddy Kane,52fe420ec3a36847f80007eb,2,8212,Peter Gallagher,7,14
+8,11,Barbara Fitts,52fe420ec3a36847f80007ef,1,19,Allison Janney,8,14
+9,12,Jim Berkley,52fe420ec3a36847f80007f3,2,8213,Sam Robards,9,14
+10,13,Brad Dupree,52fe420ec3a36847f80007f7,2,8214,Barry Del Sherman,10,14
+11,29,Sale House Man #1,55c23f1b9251413df1000167,2,68842,John Cho,11,14
+12,117,Sale House Man #2,579b6c6dc3a36811610030c1,2,1658382,Hal Fort Atkinson,12,14
+13,32,Sale House Man #3,55c23f6e9251413de80001a6,2,9634,Kent Faulcon,13,14
+14,25,Sale House Woman #1,549729c6c3a3686ae9006c28,1,64189,Ara Celi,14,14
+15,31,Sale House Woman #2,55c23f589251413de100019e,1,166961,Sue Casey,15,14
+16,33,Sale House Woman #3,55c23fc1c3a36842dd000190,1,1397945,Brenda Wehle,16,14
+17,34,Sale House Woman #4,55c23fe2c3a36842e90001d9,1,152796,Lisa Cloud,17,14
+18,36,Christy Kane,55c2407c9251413dee00018e,1,42715,Amber Smith,18,14
+19,37,Catering Boss,55c240bcc3a36842f3000204,2,12223,Joel McCrary,19,14
+20,38,Mr. Smiley's Counter Girl (Janine),55c240ddc3a36842e3000182,1,76742,Marissa Jaret Winokur,20,14
+21,39,Mr. Smiley's Manager,55c240f6c3a36842f300020a,0,1441804,Dennis Anderson,21,14
+22,40,Firing Range Attendant,55c24111c3a36842f50001e2,2,177623,Matthew Kimbrough,22,14
+23,26,Young Jane,551cbac99251416a21001742,0,1448568,Erin Cathryn Strubbe,23,14
+24,35,Spartanette #1,55c240029251413de80001c5,1,101687,Alison Faulk,25,14
+25,42,Spartanette #2,55e52dcc92514137970010b7,0,1503019,Krista Goodsitt,26,14
+26,43,Spartanette #3,55e52dccc3a36813f2001196,1,1503020,Lily Houtkin,27,14
+27,44,Spartanette #4,55e52dcc92514137a8001157,1,1503021,Carolina Lancaster,28,14
+28,45,Spartanette #5,55e52dcdc3a36813eb001157,1,1503022,Mona Leah,29,14
+29,46,Spartanette #6,55e52dcdc3a36813f6000f1f,1,1503023,Chekesha Van Putten,30,14
+30,47,Spartanette #7,55e52dcdc3a36813eb00115c,1,1503024,Emily Zachary,31,14
+31,56,Spartanette #8,55e52e10c3a36813f20011af,1,1503030,Nancy Anderson,32,14
+32,48,Spartanette #9,55e52dce92514137a00011ec,1,568656,Reshma Gajjar,33,14
+33,49,Spartanette #10,55e52dcec3a36813f6000f24,1,1503025,Stephanie Rizzo,34,14
+34,50,Playground Girl #1,55e52dce92514137a600112b,1,1503026,Heather Joy Sher,35,14
+35,51,Playground Girl #2,55e52dcfc3a36814080012c3,1,1219143,Chelsea Hertford,36,14
+36,52,Newscaster (uncredited),55e52dcf925141379d001124,1,1503027,Elaine Corral Kendall,37,14
+37,53,Wedding Guest (uncredited),55e52dcfc3a36813f200119b,2,1503028,David C. Fisher,38,14
+38,54,Advertising Executive (uncredited),55e52dcf92514137a800115c,2,1503029,Tom Miller,39,14
+39,118,Bartender (uncredited),579b736b9251414779002262,2,8215,Bruce Cohen,41,14
+0,33,Selma Jezkova,52fe420fc3a36847f8000a17,1,47,Björk,0,16
+1,2,Kathy,52fe420ec3a36847f8000985,1,50,Catherine Deneuve,1,16
+2,3,Bill Houston,52fe420ec3a36847f8000989,2,52,David Morse,2,16
+3,4,Jeff,52fe420ec3a36847f800098d,2,53,Peter Stormare,3,16
+4,7,Oldrich Novy,52fe420ec3a36847f800099d,2,6748,Joel Grey,4,16
+5,8,Linda Houston,52fe420ec3a36847f80009a1,1,2617,Cara Seymour,5,16
+6,9,Gene Jezkova,52fe420ec3a36847f80009a5,0,6749,Vladica Kostic,6,16
+7,10,Norman,52fe420ec3a36847f80009a9,2,1642,Jean-Marc Barr,7,16
+8,11,Samuel,52fe420ec3a36847f80009ad,0,6750,Vincent Paterson,8,16
+9,12,Brenda,52fe420ec3a36847f80009b1,1,6751,Siobhan Fallon,9,16
+10,13,District Attorney,52fe420ec3a36847f80009b5,2,6752,Zeljko Ivanek,10,16
+11,14,Dr. Porkorny,52fe420ec3a36847f80009b9,2,1646,Udo Kier,11,16
+12,15,Morty,52fe420ec3a36847f80009bd,2,6121,Jens Albinus,12,16
+13,16,Judge,52fe420ec3a36847f80009c1,0,6753,Reathel Bean,13,16
+14,17,Receptionist,52fe420ec3a36847f80009c5,0,6754,Mette Berggreen,14,16
+15,18,Defense Attorney,52fe420ec3a36847f80009c9,0,6755,Lars Michael Dinesen,15,16
+16,19,Suzan,52fe420ec3a36847f80009cd,1,6756,Katrine Falkenberg,16,16
+17,20,Angry Man,52fe420ec3a36847f80009d1,0,6757,Michael Flessas,17,16
+18,21,Detective,52fe420ec3a36847f80009d5,2,6758,John Randolph Jones,18,16
+19,22,Doctor,52fe420ec3a36847f80009d9,2,1640,Stellan Skarsgård,19,16
+20,23,Woman on Night Shift,52fe420ec3a36847f80009dd,0,4458,Paprika Steen,20,16
+21,56,Officer of the Court / Dancer,565b40ec9251416920002f82,0,1439629,Noah Lazarus,21,16
+22,57,Chairman / Dancer,565b4136c3a3685079002ec5,2,6135,John Martinus,22,16
+23,58,New Defense Council,565b4177925141692b002e91,0,1507755,Luke Reilly,23,16
+24,59,Person in Doorway,565b41c9925141691b002f2c,2,1190848,Sean-Michael Smith,24,16
+25,60,Dancer,565c8e71c3a3680a4100039b,0,1445063,Al Agami,25,16
+26,61,Dancer,565c8f1f925141583d00002e,0,148629,Anna Norberg,26,16
+27,62,Dancer (uncredited),565c900e925141583a00006f,0,1151162,Troels Asmussen,27,16
+28,63,Prison Guard - Serving Selma Jezkova's last meal (uncredited),565c903dc3a368236a000073,0,1335599,Caroline Sascha Cogez,28,16
+0,5,Korben Dallas,52fe420fc3a36847f8000b53,2,62,Bruce Willis,0,18
+1,7,Jean-Baptiste Emmanuel Zorg,52fe420fc3a36847f8000b5b,2,64,Gary Oldman,1,18
+2,8,Father Vito Cornelius,52fe420fc3a36847f8000b5f,2,65,Ian Holm,2,18
+3,6,Leeloo,52fe420fc3a36847f8000b57,1,63,Milla Jovovich,3,18
+4,36,Ruby Rhod,52fe420fc3a36847f8000bcf,2,66,Chris Tucker,4,18
+5,37,Billy,52fe420fc3a36847f8000bd3,2,8395,Luke Perry,5,18
+6,38,General Munro,52fe420fc3a36847f8000bd7,2,591,Brion James,6,18
+7,39,President Lindberg,52fe420fc3a36847f8000bdb,2,8396,Tom Lister Jr.,7,18
+8,119,Finger (voice),59766e6a92514157dd0184ba,2,12835,Vin Diesel,8,18
+9,40,Fog,52fe420fc3a36847f8000bdf,2,7400,Lee Evans,9,18
+10,41,David,52fe420fc3a36847f8000be3,2,8397,Charlie Creed-Miles,10,18
+11,46,Right Arm,52fe420fc3a36847f8000bf7,2,183500,Tricky,11,18
+12,48,General Staedert,52fe420fc3a36847f8000bff,2,12642,John Neville,12,18
+13,42,Professor Pacoli,52fe420fc3a36847f8000be7,2,8398,John Bluthal,13,18
+14,43,Mugger,52fe420fc3a36847f8000beb,2,2406,Mathieu Kassovitz,14,18
+15,44,Mactilburgh,52fe420fc3a36847f8000bef,2,8399,Christopher Fairbank,15,18
+16,45,Mr. Kim,52fe420fc3a36847f8000bf3,0,8400,Kim Chan,16,18
+17,108,Major Iceborg,5506e966c3a36805810035c6,1,28897,Julie T. Wallace,17,18
+18,107,General Tudor,5506e93b92514179fb00200e,2,10208,Al Matthews,18,18
+19,49,Diva Plavalaguna,52fe420fc3a36847f8000c03,1,64210,Maïwenn,19,18
+20,109,Flying Cop,550c90c49251414691003fae,2,33403,Mac McDonald,20,18
+21,47,VIP Stewardess,52fe420fc3a36847f8000bfb,0,232174,Indra Ové,21,18
+22,114,Stewardess,56e2121ac3a3686ff90007aa,1,1588721,Genevieve Maylam,22,18
+23,115,Cop,579150c8c3a368357000249c,2,53246,Jason Salkey,23,18
+24,116,Hefty Man,5880553dc3a368312c00567a,2,8445,Michael Culkin,24,18
+25,117,Munro's Captain,596f96e09251412a730195b9,2,1202628,Hon Ping Tang,25,18
+26,118,Ground Crew,5972277ec3a36813d7010160,2,1818315,Vincenzo Pellegrino,26,18
+27,120,Neighbour,5976707292514147a30195c4,2,16792,Richard Leaf,27,18
+28,122,Left Arm,597670b292514157f7038c54,0,1776773,Ivan Heng,29,18
+29,123,President's Aide,597670bac3a3680d2b01bd1b,1,963257,Sonita Henry,30,18
+30,124,Scientist's Aide,597670e29251417aa4015e6a,2,15740,Tim McMullan,31,18
+31,125,Head Scientist,597670f692514157fb0380c2,0,1857410,George Khan,32,18
+32,126,Head of Military,5976711292514106a803025e,0,1857411,John Hughes,33,18
+33,127,Omar,59767121c3a3680d2b01bdb3,0,1857412,Roberto Bryce,34,18
+34,128,Aziz,5976712992514157fb03810c,0,1857413,Said Talidi,35,18
+35,129,Mondoshawan / Mangalore Aknot / Airport Guard,59767136c3a3685da40373db,0,240745,Clifton Lloyd Bryan,36,18
+36,130,Mondoshawan,5976714092514147a30196af,0,1857414,Justin Lee Burrows,37,18
+37,131,Mondoshawan,5976714a92514157f7038d22,2,179771,Richard Ashton,38,18
+38,132,Mondoshawan,59767153c3a3680cb70195a0,0,1857415,Jerome St. John Blake,39,18
+39,133,Mondoshawan / Ground Crew,5976715a92514157f7038d32,0,1857416,Kevin Molloy,40,18
+40,134,Mactilburgh's Assistant,59767161c3a3685da4037409,0,1402694,Bill Reimbold,41,18
+41,135,Staedert's Captain,5976716892514157f7038d4d,0,1857418,Colin Brooks,42,18
+42,136,Mactilburgh's Technician,5976716fc3a3685d7f037313,0,1211876,Anthony Chinn,43,18
+43,137,Chief NY Cop,597671b6c3a3685dba031e92,0,17072,Sam Douglas,44,18
+44,138,NY Cop,597671cac3a3685d7f03736f,0,1395429,Derek Ezenagu,45,18
+45,139,Flying Cop,597671d5c3a368221c0168b9,2,62498,David Kennedy,46,18
+46,140,Flying Cop,5976720492514157ec038e7e,0,45438,David Barrass,47,18
+47,141,Flying Cop / Military Technician,5976721892514157fb03821b,0,126316,Roger Monk,48,18
+48,142,Flying Cop,59767252c3a3685ded038435,0,1857422,Mark Seaton,49,18
+49,143,Flying Cop,5976725bc3a3685d7f03741e,0,1338974,Jean-Luc Caron,50,18
+50,144,Flying Cop,59767263c3a36821db019412,0,1162833,Riz Meedin,51,18
+51,145,Flying Cop,5976726bc3a3680d2b01bf63,0,1857423,Jerry Ezekiel,52,18
+52,146,Stewardess,5976728292514157ec038f08,0,1857424,Rachel Willis,53,18
+53,147,Stewardess,59767292c3a3680d2b01bf9e,0,1857425,Natasha Brice,54,18
+54,148,Check-in Attendant,5976729ac3a3680d2b01bfab,0,1857427,Sophia Goth,55,18
+55,149,Warship Captain,597672a592514157dd0189a5,2,36901,Martin McDougall,56,18
+56,150,Diva's Manager,597672bb92514106a8030447,0,1768180,Pete Dunwell,57,18
+57,151,Cop,597672c492514157fb0382cb,0,1857429,Paul Priestley,58,18
+58,152,Ruby Rhod Assistant,597672d792514157fb0382f2,2,1600365,Stewart Harvey-Wilson,59,18
+59,153,Ruby Rhod Assistant,597672ecc3a3680d2b01bff3,0,1735717,David Fishley,60,18
+60,154,Ruby Rhod Assistant,597672ffc3a368221c0169b0,0,1364322,Carlton Chance,61,18
+61,155,Diva's Assistant,5976730692514157f7038f24,0,1427818,Gin Clarke,62,18
+62,156,Human Aknot,5976730d92514157fb038354,0,1857430,Vladimir McCrary,63,18
+63,157,Mangalore Akanit,59767314c3a3685ded0384d7,0,1857431,Aron Paramor,64,18
+64,158,Mangalore Kino,5976731e92514157ec038fd4,0,33186,Alan Ruscoe,65,18
+65,159,Airport Cop,5976732692514147a30198e9,2,64102,Christopher Adamson,66,18
+66,160,Tawdry Girl,5976732f9251417aa4016117,0,937052,Ève Salvail,67,18
+67,161,Shuttle Pilot,5976733692514157f7038f6a,0,1857432,Kaleem Janjua,68,18
+68,162,Shuttle Co-Pilot,5976733ec3a3685dba031fe3,0,1857433,Tyrone Tyrell,69,18
+69,163,Shuttle Mechanic,59767354c3a3680d2b01c035,0,1435006,Kevin Brewerton,70,18
+70,164,Baby Ray,59767367c3a36821db0194fc,0,1857434,Ian Beckett,71,18
+71,165,Emperor Kodar Japhet,5976736e9251417aa4016193,0,1230490,Sonny Caldinez,72,18
+72,166,Princess Achen,5976737692514157f7038fbf,0,1563988,Zeta Graff,73,18
+73,167,Roy von Bacon,5976737dc3a3685d7f0374f3,0,1857435,Eddie Ellwood,74,18
+74,168,Fhloston Hostess,5976739992514157ec03907f,0,1857436,Yui,75,18
+75,169,Fhloston Hostess,597673a2c3a3685da403764e,0,1857437,Laura De Palma,76,18
+76,170,Police Chief,597673be92514157dd018b3d,2,987,Lenny McLean,77,18
+77,171,Fhloston Commander,597673d5c3a3685d7f037555,0,192895,Robert Oates,78,18
+78,172,Fhloston Captain,597673e292514157ec0390d5,2,36900,John Sharian,79,18
+79,173,Hotel Manager,597673f7c3a3685dba03207d,0,1857438,Fred Williams,80,18
+80,174,Zorg's Secretary,597674009251417aa401623a,0,1857439,Sibyl Buck,81,18
+81,175,Scientist,5976740892514106e202d867,0,1857440,Sarah Carrington,82,18
+82,176,Scientist,597674109251417aa401624b,0,213392,Ali Yassine,83,18
+83,177,Scientist,5976741ec3a3685da40376e1,0,202759,Sean Buckley,84,18
+84,178,Military Technician,59767427c3a3680d2b01c132,0,1857441,Dane Messam,85,18
+85,179,Military Technician,5976742d9251417aa401626b,0,1857442,Nathan Hamlett,86,18
+86,180,Military Technician,5976743692514106a803063b,0,554284,Cecil Cheng,87,18
+87,181,Lab Guard,5976744792514157f70390c8,0,1857443,Scott Woods,88,18
+88,182,Lab Guard,5976744f92514157dd018bc2,0,1857444,Leon Dekker,89,18
+89,183,Staedert's Technician,59767456c3a3685da4037714,0,1857445,David Garvey,90,18
+90,184,Staedert's Technician,5976745e9251417aa40162aa,0,1857446,Stanley Kowalski,91,18
+91,185,Staedert's Technician,5976748392514106a8030683,0,1857449,Omar Williams,92,18
+92,186,Robot Barman,5976748cc3a3685dba032102,0,1857450,Robert Clapperton,93,18
+93,187,Warship Technician,597674b3c3a3680cb70198f8,0,1857451,Robert Alexander,94,18
+94,188,TV Stewardess,597674bbc3a3685ded038690,0,234685,Mia Frye,95,18
+95,189,Power Operator,597674cdc3a3680d2b01c1f7,0,1857452,Leo Williams,96,18
+96,190,Power Operator,597674d8c3a3685dba032149,0,1857453,C. Keith Martin,97,18
+97,191,Zorg's Man,597674e1c3a3685ded0386c6,0,1857454,J.D. Dawodu,98,18
+98,192,Zorg's Man,597674e9c3a3680cb701993d,0,1857455,Patrick Nicholls,99,18
+99,193,Zorg's Man,597674f392514157ec03921b,0,1857456,Shaun Davis,100,18
+100,194,Zorg's Man,597674ff92514106e202d981,0,1857457,Roy Garcia,101,18
+101,195,Zorg's Man,59767508c3a36821db0196ce,0,1857458,Alex Georgijev,102,18
+102,196,Burger Assistant,597675129251417aa4016389,1,84440,Marie Guillard,103,18
+103,197,Burger Assistant,5976751a92514106a803072c,1,1596096,Renee Montemayor,104,18
+104,198,Burger Assistant,597675219251417aa401639b,0,1857459,Stina Richardson,105,18
+105,199,Glamorous Alien Diva at Event,5976753992514147a3019b63,1,1748085,Kristen Fick,106,18
+106,200,Mondoshawan #3,5976755d92514106a8030769,0,19375,François Guillaume,107,18
+107,201,Japanese Hostess,5976756992514106e202d9d6,0,1467173,Anita Koh,108,18
+108,202,Glamorous Japanese Girl,59767572c3a368221c016c27,0,1857460,Kamay Lau,109,18
+109,203,Stewardess,5976757ac3a36821db019777,0,1857461,Tracy Redington,110,18
+110,204,VIP Lounge Worker,5976758292514106a8030795,0,1857462,Gito Santana,111,18
+111,205,Bodyguard,5976758b9251417aa40163d6,2,138401,Frank Senger,112,18
+112,206,Mangalor alien,5976759492514157f7039229,0,1551797,Joss Skottowe,113,18
+113,207,Afro Scott,5976759dc3a368221c016c5a,0,1857463,Roger Wright,114,18
+114,227,Priest,599308f59251417c420122bd,2,47547,John Bennett,115,18
+0,10,Maria,52fe420fc3a36847f8000c87,1,75,Brigitte Helm,0,19
+1,28,Johann 'Joh' Fredersen,52fe420fc3a36847f8000cdb,2,73,Alfred Abel,1,19
+2,9,Freder Fredersen,52fe420fc3a36847f8000c83,2,74,Gustav Fröhlich,2,19
+3,11,"C.A. Rotwang, the inventor",52fe420fc3a36847f8000c8b,2,77,Rudolf Klein-Rogge,3,19
+4,12,Der Schmale,52fe420fc3a36847f8000c8f,2,78,Fritz Rasp,4,19
+5,13,Josaphat - Joseph,52fe420fc3a36847f8000c93,0,79,Theodor Loos,5,19
+6,14,No. 11811 - Georgy,52fe420fc3a36847f8000c97,2,80,Erwin Biswanger,6,19
+7,15,Grot,52fe420fc3a36847f8000c9b,2,81,Heinrich George,7,19
+8,16,Jan,52fe420fc3a36847f8000c9f,2,82,Olaf Storm,8,19
+9,19,Arbeiterfrau,52fe420fc3a36847f8000cad,2,2350,Helene Weigel,9,19
+10,21,Frau im Wagen,52fe420fc3a36847f8000cb5,1,20534,Margarete Lanner,10,19
+11,17,Marinus,52fe420fc3a36847f8000ca3,0,83,Hanns Leo Reich,11,19
+12,22,Kreativer Mensch,52fe420fc3a36847f8000cb9,0,20535,Fritz Alberti,12,19
+13,20,Zeremonienmeister,52fe420fc3a36847f8000cb1,2,20533,Heinrich Gotho,13,19
+14,30,Working Woman (uncredited),56b2a655c3a36806ee000328,1,47173,Grete Berger,14,19
+15,33,Working Man (uncredited),56b2a7d9c3a36806f80002f8,2,5028,Curt Siodmak,15,19
+16,34,Son in Eternal Gardens (uncredited),56b2a80f92514114eb00033e,0,50893,Rolf von Goth,16,19
+17,35,Woman of Eternal Gardens (uncredited),56b2a83d92514114e800033a,1,1288145,Helen von Münchofen,17,19
+18,31,Working Man Who Causes Explosion of M-Machine (uncredited),56b2a75f92514114e8000311,0,29129,Georg John,18,19
+19,36,Working Man (uncredited),56b2a89c92514114e5000363,0,1531781,Arthur Reinhardt,19,19
+20,44,Working Woman (uncredited),57f54434c3a36831cb00017e,0,1689706,Henrietta Siodmak,20,19
+0,5,Ann,52fe420fc3a36847f8000d33,1,98,Sarah Polley,0,20
+1,6,Laurie,52fe420fc3a36847f8000d37,1,99,Amanda Plummer,1,20
+2,7,Don,52fe420fc3a36847f8000d3b,2,100,Scott Speedman,2,20
+3,8,Neighbor Ann,52fe420fc3a36847f8000d3f,1,101,Leonor Watling,3,20
+4,9,Ann's Mother,52fe420fc3a36847f8000d43,1,102,Deborah Harry,4,20
+5,10,Lee,52fe420fc3a36847f8000d47,2,103,Mark Ruffalo,5,20
+6,14,Hairdresser,52fe420fc3a36847f8000d5d,1,2319,Maria de Medeiros,6,20
+7,15,Dr. Thompson,52fe420fc3a36847f8000d61,2,2320,Julian Richings,7,20
+8,16,Penny,52fe420fc3a36847f8000d65,1,2321,Jessica Amlee,8,20
+9,17,Patsy,52fe420fc3a36847f8000d69,0,2322,Kenya Jo Kennedy,9,20
+10,18,Camille Martínez,52fe420fc3a36847f8000d6d,0,2323,Camille Martinez,10,20
+11,19,Ann's Father,52fe420fc3a36847f8000d71,2,658,Alfred Molina,11,20
+0,12,Captain Jack Sparrow,52fe420fc3a36847f8000ecb,2,85,Johnny Depp,0,22
+1,5,Captain Hector Barbossa,52fe420fc3a36847f8000ea3,2,118,Geoffrey Rush,1,22
+2,1,Will Turner,52fe420fc3a36847f8000e8f,2,114,Orlando Bloom,2,22
+3,4,Elizabeth Swann,52fe420fc3a36847f8000e9f,1,116,Keira Knightley,3,22
+4,13,Commodore James Norrington,52fe420fc3a36847f8000ecf,2,1709,Jack Davenport,4,22
+5,14,Governor Weatherby Swann,52fe420fc3a36847f8000ed3,2,378,Jonathan Pryce,5,22
+6,36,Joshamee Gibbs,52fe4210c3a36847f8000f33,2,2449,Kevin McNally,6,22
+7,31,Anamaria,52fe4210c3a36847f8000f1b,1,8691,Zoe Saldana,7,22
+8,15,Pintel,52fe420fc3a36847f8000ed7,2,1710,Lee Arenberg,8,22
+9,16,Ragetti,52fe420fc3a36847f8000edb,2,1711,Mackenzie Crook,9,22
+10,17,Lieutenant Gillette,52fe420fc3a36847f8000edf,0,1712,Damian O'Hare,10,22
+11,38,Koehler,52fe4210c3a36847f8000f3b,2,12802,Treva Etienne,11,22
+12,21,Twigg,52fe420fc3a36847f8000eef,0,1716,Michael Berry Jr.,12,22
+13,20,Cotton,52fe420fc3a36847f8000eeb,2,1715,David Bailie,13,22
+14,83,Cotton's Parrot (voice),52fe4210c3a36847f8000fef,2,21700,Christopher S. Capp,14,22
+15,61,Marty,52fe4210c3a36847f8000f97,2,4030,Martin Klebba,15,22
+16,22,Bo'sun,52fe420fc3a36847f8000ef3,2,1717,Isaac C. Singleton Jr.,16,22
+17,18,Murtogg,52fe420fc3a36847f8000ee3,0,1713,Giles New,17,22
+18,19,Mullroy,52fe420fc3a36847f8000ee7,2,1714,Angus Barnett,18,22
+19,44,Lieutenant Theodore Groves,52fe4210c3a36847f8000f53,2,4031,Greg Ellis,19,22
+20,39,Harbormaster,52fe4210c3a36847f8000f3f,2,9298,Guy Siner,20,22
+21,40,Mr. Brown,52fe4210c3a36847f8000f43,2,155955,Ralph P. Martin,21,22
+22,41,Estrella,52fe4210c3a36847f8000f47,0,59056,Paula J. Newman,22,22
+23,42,Butler,52fe4210c3a36847f8000f4b,0,116234,Paul Keith,23,22
+24,37,Young Will,52fe4210c3a36847f8000f37,2,1172661,Dylan Smith,24,22
+25,35,Young Elizabeth,52fe4210c3a36847f8000f2f,1,82143,Lucinda Dryzek,25,22
+26,52,Scarlett,52fe4210c3a36847f8000f73,1,2450,Lauren Maher,26,22
+27,58,Giselle,52fe4210c3a36847f8000f8b,1,2452,Vanessa Branch,27,22
+28,32,Frightened Sailor,52fe4210c3a36847f8000f1f,2,82636,Luke de Woolfson,28,22
+29,43,Seedy Looking Prisoner,52fe4210c3a36847f8000f4f,2,74578,Michael Sean Tighe,29,22
+30,45,Sentry,52fe4210c3a36847f8000f57,0,106514,Dustin Seavey,30,22
+31,46,Steersman,52fe4210c3a36847f8000f5b,0,1269546,Christian Martin,31,22
+32,48,Grapple,52fe4210c3a36847f8000f63,2,57252,Trevor Goddard,32,22
+33,49,Jacoby,52fe4210c3a36847f8000f67,2,88032,Vince Lozano,33,22
+34,53,Sailor / Edinburgh,52fe4210c3a36847f8000f77,0,1077834,Matthew Bowyer,34,22
+35,54,Mallot,52fe4210c3a36847f8000f7b,2,931645,Brye Cooper,35,22
+36,50,Seedy Prisoner #2,52fe4210c3a36847f8000f6b,2,60941,Ben Wilson,36,22
+37,51,Seedy Prisoner #3,52fe4210c3a36847f8000f6f,0,1269548,Antonio Valentino,37,22
+38,55,Seedy Prisoner #4,52fe4210c3a36847f8000f7f,0,1269549,Mike Babcock,38,22
+39,56,Town Clerk,52fe4210c3a36847f8000f83,0,1269550,Owen Finnegan,39,22
+40,57,Sailor,52fe4210c3a36847f8000f87,0,1269551,Ian McIntyre,40,22
+41,90,Crippled Man,53091444c3a3687b57000f41,2,67147,Israel Aduramo,41,22
+42,59,Crying Boy,52fe4210c3a36847f8000f8f,0,1269553,Sam Roberts,42,22
+43,60,Crying Boy,52fe4210c3a36847f8000f93,0,1269554,Ben Roberts,43,22
+44,62,Moises: Jack's Crew,52fe4210c3a36847f8000f9b,0,1269555,Félix Castro,44,22
+45,63,Kursar: Jack's Crew,52fe4210c3a36847f8000f9f,0,1269556,Mike Haberecht,45,22
+46,64,Matelot: Jack's Crew,52fe4210c3a36847f8000fa3,0,1269557,Rudolph McCollum,46,22
+47,65,Tearlach: Jack's Crew (as Gerard Reyes),52fe4210c3a36847f8000fa7,0,1269559,Gerard J. Reyes,47,22
+48,66,Duncan: Jack's Crew,52fe4210c3a36847f8000fab,0,1269560,M. Scott Shields,48,22
+49,67,Ladbroc: Jack's Crew (as Chris 'Sully' Sullivan),52fe4210c3a36847f8000faf,0,1269561,Christopher Sullivan,49,22
+50,68,Crimp: Jack's Crew,52fe4210c3a36847f8000fb3,0,1269562,Craig Thomson,50,22
+51,69,Quartetto: Jack's Crew,52fe4210c3a36847f8000fb7,0,1269602,Fred Toft,51,22
+52,71,Ketchum: Barbossa's Crew,52fe4210c3a36847f8000fbf,0,1269604,Jerry Gauny,52,22
+53,72,Maximo: Barbossa's Crew,52fe4210c3a36847f8000fc3,2,145555,Maxie J. Santillan Jr.,53,22
+54,73,Monk: Barbossa's Crew (as Michael Lane),52fe4210c3a36847f8000fc7,0,1269605,Michael Earl Lane,54,22
+55,75,Clubba: Barbossa's Crew,52fe4210c3a36847f8000fcf,0,1269607,David Patykewich,55,22
+56,76,Scarus: Barbossa's Crew,52fe4210c3a36847f8000fd3,0,1269608,Tommy Schooler,56,22
+57,80,Scratch: Barbossa's Crew,52fe4210c3a36847f8000fe3,2,182212,Finneus Egan,57,22
+58,70,Weatherby: Barbossa's Crew,52fe4210c3a36847f8000fbb,0,1269603,D.P. FitzGerald,58,22
+59,74,Dog Ear: Barbossa's Crew,52fe4210c3a36847f8000fcb,0,1269606,Tobias McKinney,59,22
+60,77,Simbakka: Barbossa's Crew,52fe4210c3a36847f8000fd7,0,1269609,Michael A. Thompson,60,22
+61,78,Hawksmoor: Barbossa's Crew,52fe4210c3a36847f8000fdb,2,1196317,Michael W. Williams,61,22
+62,79,Katracho: Barbossa's Crew,52fe4210c3a36847f8000fdf,0,180394,Jose Zelaya,62,22
+63,81,Nipperkin: Barbossa's Crew,52fe4210c3a36847f8000fe7,0,1269610,Don LaDaga,63,22
+64,82,Lejon,52fe4210c3a36847f8000feb,2,1269611,LeJon,64,22
+65,84,Pirate (uncredited),52fe4210c3a36847f8000ff3,0,1269612,Gregory Alosio,65,22
+66,85,Pirate (uncredited),52fe4210c3a36847f8000ff7,2,59215,Jordi Caballero,66,22
+67,86,Sailor (uncredited),52fe4210c3a36847f8000ffb,0,74666,Paul Gagné,67,22
+68,87,Marine (uncredited),52fe4210c3a36847f8000fff,0,1146942,Joe Grisaffi,68,22
+69,88,Barbossa's Crew (uncredited),52fe4210c3a36847f8001003,0,1269613,James McAuley,69,22
+0,3,Beatrix 'The Bride' Kiddo,52fe4210c3a36847f800104d,1,139,Uma Thurman,0,24
+1,4,O-Ren Ishii,52fe4210c3a36847f8001051,1,140,Lucy Liu,1,24
+2,10,Vernita Green,52fe4210c3a36847f800106d,1,2535,Vivica A. Fox,2,24
+3,9,Elle Driver,52fe4210c3a36847f8001069,1,589,Daryl Hannah,3,24
+4,5,Bill,52fe4210c3a36847f8001055,2,141,David Carradine,4,24
+5,6,Budd,52fe4210c3a36847f8001059,2,147,Michael Madsen,5,24
+6,14,Sofie Fatale,52fe4210c3a36847f800107d,1,2539,Julie Dreyfus,6,24
+7,12,Gogo Yubari,52fe4210c3a36847f8001075,1,2538,Chiaki Kuriyama,7,24
+8,13,Hattori Hanzo,52fe4210c3a36847f8001079,2,2537,Sonny Chiba,8,24
+9,35,Johnny Mo,52fe4210c3a36847f80010c3,0,240171,Gordon Liu Chia-Hui,9,24
+10,11,Earl McGraw,52fe4210c3a36847f8001071,2,2536,Michael Parks,10,24
+11,38,Buck,53adbe460e0a265986002691,2,2234,Michael Bowen,11,24
+12,40,Tanaka,53e23f3a0e0a262b9100123a,2,2541,Jun Kunimura,12,24
+13,110,Bald Guy (Sushi Shop),56a3c840c3a368389b003892,0,138435,Kenji Ohba,13,24
+14,111,Proprietor,56a3c8c09251417214003464,1,545394,Yuki Kazamatsuri,14,24
+15,39,Edgar McGraw,53adbf1f0e0a26597500281c,0,87312,James Parks,15,24
+16,30,Charlie Brown,52fe4210c3a36847f80010af,0,58616,Sakichi Satô,16,24
+17,112,Trucker,56a3c90d9251417202003831,0,58477,Jonathan Loughran,17,24
+18,113,Tokyo Business Man,56a3c9c2925141720200384d,0,79458,Yoshiyuki Morishita,18,24
+19,130,Crazy 88 #1 (Miki),56f2b6e192514126a50000d2,2,1594799,Tetsuro Shimaguchi,19,24
+20,85,Crazy 88,5475dc75c3a368764e000ff3,2,2542,Kazuki Kitamura,20,24
+21,86,Crazy 88,5475dc8d92514152730028f1,2,115659,Yôji Tanaka,21,24
+22,88,Crazy 88,5475dcb7c3a368364c002e02,0,121751,Sô Yamanaka,23,24
+23,132,Crazy 88 #6 (Girl),56f2c0b192514134eb0000ac,1,1594815,Julie Manase,24,24
+24,56,Boss Ozawah,5475b93bc3a36859b90018da,0,2544,Akaji Maro,25,24
+25,57,Boss Honda,5475b970c3a368364c0028ad,0,1369182,Goro Daimon,26,24
+26,58,Boss Benta,5475b98bc3a368364c0028b6,2,9193,Shun Sugata,27,24
+27,59,Boss Orgami,5475b9cfc3a3684df2000487,0,1389612,Zhang Jin Zhan,28,24
+28,205,Young 88 (Spanked Boy),5741afb19251417179002500,0,1624147,Hu Xiaohui,29,24
+29,25,Nikki Bell,52fe4210c3a36847f80010a5,0,4026,Ambrosia Kelley,30,24
+30,84,"The 5, 6, 7, 8's",5475dc2992514166ba0009b1,0,1314989,Sachiko Fujii,31,24
+31,114,Okinawa Airline Ticket Agent,56a3cabf925141720b0036dd,0,209417,Shu Lan Tuan,32,24
+32,115,O-Ren (anime sequence) (voice),56a3cb01925141720b0036e3,0,31082,Ai Maeda,33,24
+33,116,Boss Matsumoto (anime sequence) (voice),56a3cb27c3a368389e0035d7,0,1243811,Naomi Kusumi,34,24
+34,117,Pretty Riki (anime sequence) (voice),56a3cb6ac3a36838960037a3,0,122726,Hikaru Midorikawa,35,24
+35,208,Crazy 88,592e3daec3a368611b00407d,2,87662,Issei Takahashi,36,24
+0,1,Staff Sgt. Sykes,52fe4210c3a36847f8001103,2,134,Jamie Foxx,0,25
+1,2,Anthony Swofford,52fe4210c3a36847f8001107,2,131,Jake Gyllenhaal,1,25
+2,3,D.I. Fitch,52fe4210c3a36847f800110b,2,132,Scott MacDonald,1,25
+3,15,Kruger,52fe4210c3a36847f800114f,2,155,Lucas Black,3,25
+4,4,Alan Troy,52fe4210c3a36847f800110f,2,133,Peter Sarsgaard,4,25
+5,16,Ramon Escobar,52fe4210c3a36847f8001153,2,10964,Laz Alonso,5,25
+6,17,Lt. Col. Kazinski,52fe4210c3a36847f8001157,2,2955,Chris Cooper,6,25
+7,18,Fergus O'Donnell,52fe4210c3a36847f800115b,2,49271,Brian Geraghty,7,25
+8,19,Poitier,52fe4210c3a36847f800115f,2,150194,Damion Poitier,8,25
+9,20,Corporal Harrigan,52fe4210c3a36847f8001163,2,17697,John Krasinski,9,25
+10,21,Julius,52fe4210c3a36847f8001167,2,107939,Jocko Sims,10,25
+11,23,Branded Marine,52fe4210c3a36847f800116f,2,95698,Kevin Foster,12,25
+12,24,Nurse,52fe4210c3a36847f8001173,0,1291645,Riad Galayini,13,25
+13,25,Young Mr. Swofford,52fe4210c3a36847f8001177,0,1172840,Craig Coyne,14,25
+14,26,Young Mrs. Swofford,52fe4210c3a36847f800117b,0,557545,Katherine Randolph,15,25
+15,27,Swoff's Sister,52fe4210c3a36847f800117f,0,1291646,Honorine Bell,16,25
+16,28,Mrs. Swofford,52fe4210c3a36847f8001183,1,81462,Dendrie Taylor,17,25
+17,29,Mr. Swofford,53262c0e925141143900245a,2,62003,James Morrison,18,25
+18,30,Bored Gunny,55d2db15c3a3684635000795,2,945062,Ming Lo,19,25
+19,31,Major Lincoln,580cf06b925141701a01099f,2,352,Dennis Haysbert,20,25
+0,29,Captain Benjamin L. Willard,52fe4210c3a36847f800135b,2,8349,Martin Sheen,0,28
+1,30,Colonel Walter E. Kurtz,52fe4210c3a36847f800135f,2,3084,Marlon Brando,1,28
+2,31,Lieutenant Colonel Bill Kilgore,52fe4210c3a36847f8001363,2,3087,Robert Duvall,2,28
+3,34,Jay 'Chef' Hicks,52fe4210c3a36847f800136f,2,8351,Frederic Forrest,3,28
+4,33,Lance B. Johnson,52fe4210c3a36847f800136b,2,8350,Sam Bottoms,4,28
+5,32,Tyrone 'Clean' Miller,52fe4210c3a36847f8001367,2,2975,Laurence Fishburne,5,28
+6,35,Chief Phillips,52fe4210c3a36847f8001373,2,8354,Albert Hall,6,28
+7,36,Colonel Lucas,52fe4210c3a36847f8001377,2,3,Harrison Ford,7,28
+8,38,Photojournalist,52fe4210c3a36847f800137b,2,2778,Dennis Hopper,8,28
+9,39,General Corman,52fe4210c3a36847f800137f,2,3173,G. D. Spradlin,9,28
+10,40,"Jerry, Civilian",52fe4210c3a36847f8001383,2,8346,Jerry Ziesmer,10,28
+11,44,Lieutenant Richard M. Colby,52fe4210c3a36847f8001395,2,349,Scott Glenn,11,28
+12,47,Kilgore's Gunner,570d23e3c3a36850810003d5,2,1739,James Keane,12,28
+13,48,Mike from San Diego,570d2411c3a368508c0004da,2,1402117,Kerry Rossall,13,28
+14,46,Miss May,52fe4211c3a36847f800139f,1,13023,Colleen Camp,14,28
+15,50,Playmate of the Year,570d2470c3a3687e00000002,1,550106,Cynthia Wood,15,28
+16,86,Playmate,57accb1ec3a3681f2e001317,1,1664821,Linda Carpenter,16,28
+17,51,Soldier in Trench,570d24a0c3a3687e1100000a,2,14320,Jack Thibeau,17,28
+18,43,Supply Sergeant,52fe4210c3a36847f8001391,2,80874,Tom Mason,18,28
+19,53,Machine Gunner,570d24fc9251413982000015,2,159948,Damien Leake,19,28
+20,54,AFRS Announcer,570d2560c3a3687e02000020,2,103853,Marc Coppola,20,28
+21,52,Lieutenant Carlsen,570d24bfc3a3687e0600000d,0,1532851,Glenn Walken,21,28
+22,55,Agent,570d258ec3a3687dfc000023,2,65553,Bill Graham,22,28
+23,56,Johnny from Malibu / Mike from San Diego,570d2618925141398400003a,2,1391387,Jerry Ross,23,28
+24,65,Soldier with Colby (uncredited),570d280e9251413991000066,2,43524,Charles Robinson,24,28
+25,64,Soldier (uncredited),570d27dbc3a3687dfa000088,0,107323,Nick Nicholson,25,28
+26,62,Soldier (uncredited),570d2796c3a3687dfc000086,0,1073850,Don Gordon Bell,26,28
+27,63,Soldier (uncredited),570d27c1c3a3687dfc00008c,2,57925,Evan A. Lottman,27,28
+28,66,Eagle Thrust Seven Helicopter Pilot (uncredited),570d28449251413993000099,2,8655,R. Lee Ermey,28,28
+29,67,Extra (uncredited),570d287792514139930000a3,2,45581,Jim Gaines,29,28
+30,68,Extra (uncredited),570d288ec3a3687e020000b3,2,6952,Charlie Sheen,30,28
+31,69,TV Photographer (uncredited),570d28f0925141398c0000c7,2,7202,Vittorio Storaro,31,28
+32,87,Director of TV Crew (uncredited),57accf25c3a368646c002279,2,1776,Francis Ford Coppola,32,28
+33,70,Bit Part (uncredited),570d291c925141399100008e,0,107322,Henry Strzalkowski,33,28
+34,71,Helicopter Skid Marine (uncredited),570d295992514139960000cf,0,1604873,Lonnie Woodley,34,28
+35,90,Roxanne Sarrault,599370ba925141543300566a,1,9893,Aurore Clément,35,28
+0,4,Bill Munny,52fe4211c3a36847f8001447,2,190,Clint Eastwood,0,33
+1,6,Little Bill Daggett,52fe4211c3a36847f800144b,2,193,Gene Hackman,1,33
+2,25,Ned Logan,52fe4211c3a36847f80014a5,2,192,Morgan Freeman,2,33
+3,7,English Bob,52fe4211c3a36847f800144f,2,194,Richard Harris,3,33
+4,9,The Schofield Kid,52fe4211c3a36847f8001459,2,3710,Jaimz Woolvett,4,33
+5,10,Delilah Fitzgerald,52fe4211c3a36847f800145d,1,3711,Anna Levine,5,33
+6,11,W.W. Beauchamp,52fe4211c3a36847f8001461,2,3712,Saul Rubinek,6,33
+7,12,Strawberry Alice,52fe4211c3a36847f8001465,1,3713,Frances Fisher,7,33
+8,13,Quick Mike,52fe4211c3a36847f8001469,2,3714,David Mucci,8,33
+9,14,Davey Bunting,52fe4211c3a36847f800146d,0,2843,Rob Campbell,9,33
+10,15,Skinny Dubois,52fe4211c3a36847f8001471,2,3715,Anthony James,10,33
+11,28,Clyde Ledbetter,5468f5b4eaeb816b4f001312,2,1242148,Ron White,11,33
+12,29,Fatty Rossiter,56610e9b925141791800584d,2,185111,Jefferson Mappin,12,33
+13,30,Deputy Andy Russell,56610ed5c3a36875e2005ce9,2,44205,Jeremy Ratchford,13,33
+14,31,Lippy MacGregor,56e5cec2c3a36807b2000f48,2,976171,Philip Maurice Hayes,14,33
+15,32,Little Sue,56f6d937c3a3686a6b003ec5,1,188960,Tara Frederick,15,33
+16,33,Silky,56f708af9251417621000c8b,1,1055157,Beverley Elliott,16,33
+17,34,Faith,56f811e6c3a3686a59007042,1,5481,Liisa Repo-Martell,17,33
+18,35,Will Munny,56f812269251410a310006d5,0,130935,Shane Meier,18,33
+19,36,Crocker,56f81255c3a3686a5900705e,0,87210,Robert Koons,19,33
+20,37,Muddy Chandler,56f812809251410a310006e0,0,43555,Mina E. Mina,20,33
+21,38,Charley Hecker,56f812a9c3a3686a5e007ab5,2,95638,John Pyper-Ferguson,21,33
+22,39,Barber,56f812d492514120f8001412,2,1219890,Walter Marsh,22,33
+23,40,Tom Luckinbill,56f81302c3a3686a61006ec5,0,1814,Larry Reese,23,33
+24,41,Paddy McGee,56f8132c92514123cb00038b,0,1499017,Blair Haynes,24,33
+25,42,Fuzzy,56f813629251412fdd00308b,2,61167,Frank C. Turner,25,33
+26,43,Texas Slim,56f813979251410a310006fb,2,58058,Lochlyn Munro,26,33
+27,44,Johnny Foley,56f813bbc3a3686a670078cd,2,60433,Ben Cardinal,27,33
+28,45,Wiggens,56f813fbc3a3686a5e007ad6,0,1366825,Michael Charrois,28,33
+29,46,Train Person,56f814859251410c1700156d,0,168769,Michael Maurer,29,33
+30,48,Bucky,56f81520c3a3686a590070ba,2,21380,Larry Joshua,30,33
+31,49,The Shadow,56f81548c3a3686a670078fd,0,175871,George Orrison,31,33
+32,51,Fighter,56f8159f9251417105000937,0,91839,Greg Goossen,32,33
+0,2,Homer / Itchy / Barney / Grampa / Stage Manager / Krusty the Clown / Mayor Quimby / Mayor's Aide / Multi-Eyed Squirrel / Panicky Man / Sideshow Mel / Mr. Teeny / EPA Official / Kissing Cop / Bear / Boy on Phone / NSA Worker / Officer / Santa's Little Helper / Squeaky-Voiced Teen (voice),52fe4211c3a36847f8001525,2,198,Dan Castellaneta,0,35
+1,3,Marge Simpson / Selma / Patty (voice),52fe4211c3a36847f8001529,1,199,Julie Kavner,1,35
+2,4,Bart Simpson / Maggie Simpson / Ralph / Nelson / Todd Flanders / TV Daughter / Woman on Phone (voice),52fe4211c3a36847f800152d,1,200,Nancy Cartwright,2,35
+3,5,Lisa Simpson (voice),52fe4211c3a36847f8001531,1,5586,Yeardley Smith,3,35
+4,10,Professor Frink / Comic Book Guy / Moe / Chief Wiggum / Lou / Carl / Cletus / Bumblebee Man / Male EPA Worker / Dome Depot Announcer / Kissing Cop / Carnival Barker / Counter Man / Apu / Drederick Tatum / Sea Captain / EPA Passenger / Robot / Dr. Nick / Wise Guy (voice),52fe4211c3a36847f8001535,2,5587,Hank Azaria,4,35
+5,13,Scratchy / Mr. Burns / Rev. Lovejoy / Ned Flanders / Lenny / Skull / President Arnold Schwarzenegger / Kent Brockman / Principal Skinner / Dr. Hibbert / Smithers / Toll Booth Man / Guard / Otto / Kang (voice),52fe4211c3a36847f8001539,2,6008,Harry Shearer,5,35
+6,15,Sideshow Bob (voice),52fe4211c3a36847f800153d,2,7090,Kelsey Grammer,6,35
+7,16,Colin (voice),52fe4211c3a36847f8001541,0,23211,Maile Flanagan,7,35
+8,17,Milhouse Van Houten / Jimbo Jones / Rod Flanders (voice),52fe4211c3a36847f8001545,1,6009,Pamela Hayden,8,35
+9,20,Mrs. Krabappel (voice),52fe4211c3a36847f8001549,1,6036,Marcia Wallace,9,35
+10,21,Fat Tony (voice),52fe4211c3a36847f800154d,2,3266,Joe Mantegna,10,35
+11,22,Himself (voice),52fe4211c3a36847f8001551,2,31,Tom Hanks,11,35
+12,60,Green Day (voice),52fe4211c3a36847f800160f,2,95866,Billie Joe Armstrong,12,35
+13,126,Green Day (voice),58d409adc3a368126f01606b,0,95867,Mike Dirnt,13,35
+14,61,Green Day (voice),52fe4211c3a36847f8001613,0,95868,Tre Cool,14,35
+15,62,Sweet Old Lady / Colin / Mrs. Skinner / Nelson's Mother / Pig / Cat Lady / Female EPA Worker / G.P.S. Woman / Cookie Kwan / Lindsey Naegle / TV Son / Medicine Woman / Girl on Phone (voice),52fe4211c3a36847f8001617,1,34983,Tress MacNeille,15,35
+16,63,Russ Cargill (voice),52fe4211c3a36847f800161b,2,13,Albert Brooks,16,35
+17,64,Martin (voice),52fe4211c3a36847f800161f,1,6035,Russi Taylor,17,35
+18,65,Man / EPA Driver (voice),52fe4211c3a36847f8001623,2,156910,Karl Wiedergott,18,35
+19,66,Helen Lovejoy (voice),52fe4211c3a36847f8001627,0,6007,Maggie Roswell,19,35
+20,67,TV Dad (voice),52fe4211c3a36847f800162b,0,179632,Philip Rosenthal,20,35
+0,5,Joel Barish,52fe4211c3a36847f800167f,2,206,Jim Carrey,0,38
+1,2,Clementine Kruczynski,52fe4211c3a36847f8001673,1,204,Kate Winslet,1,38
+2,6,Mary Svevo,52fe4211c3a36847f8001683,1,205,Kirsten Dunst,2,38
+3,4,Stan Fink,52fe4211c3a36847f800167b,2,103,Mark Ruffalo,3,38
+4,3,Patrick,52fe4211c3a36847f8001677,2,109,Elijah Wood,4,38
+5,7,Dr. Howard Mierzwiak,52fe4211c3a36847f8001687,2,207,Tom Wilkinson,5,38
+6,9,Carrie Eakin,52fe4211c3a36847f800168f,1,209,Jane Adams,6,38
+7,11,Rob Eakin,52fe4211c3a36847f8001697,2,212,David Cross,7,38
+8,29,Hollis Mierzwiak,52fe4211c3a36847f80016ed,1,77013,Deirdre O'Connell,8,38
+9,43,Frank,591bd71f92514149f3003838,2,130840,Thomas Jay Ryan,9,38
+10,8,Young Joel,52fe4211c3a36847f800168b,0,208,Ryan Whitney,10,38
+11,17,Young Clementine,52fe4211c3a36847f80016ab,0,220,Lola Daehler,11,38
+12,10,Joel's Mother,52fe4211c3a36847f8001693,1,211,Debbon Ayer,12,38
+13,12,Train Conducter,52fe4211c3a36847f800169b,2,213,Gerry Robert Byrne,13,38
+14,13,Young Bully,52fe4211c3a36847f800169f,0,214,Brian Price,14,38
+15,14,Young Bully,52fe4211c3a36847f80016a3,2,216,Josh Flitter,15,38
+16,15,Young Bully,52fe4211c3a36847f80016a7,2,217,Paul Litowsky,16,38
+17,18,Young Bully,52fe4211c3a36847f80016af,2,210,Amir Ali Said,17,38
+18,19,Rollerblader,52fe4211c3a36847f80016b3,1,221,Lauren Adler,18,38
+0,2,Octavio,52fe4211c3a36847f8001741,2,258,Gael García Bernal,0,55
+1,3,Susana,52fe4211c3a36847f8001745,1,259,Vanessa Bauche,1,55
+2,4,Valeria,52fe4211c3a36847f8001749,1,261,Goya Toledo,2,55
+3,5,Daniel,52fe4211c3a36847f800174d,0,262,Alvaro Guerrero,3,55
+4,6,El Chivo,52fe4211c3a36847f8001751,2,263,Emilio Echevarría,4,55
+5,7,Luis,52fe4211c3a36847f8001755,2,264,Jorge Salinas,5,55
+6,8,Gustavo,52fe4211c3a36847f8001759,0,265,Rodrigo Murray,6,55
+7,9,Jorge,52fe4211c3a36847f800175d,2,266,Humberto Busto,7,55
+8,10,Mauricio,52fe4211c3a36847f8001761,0,267,Gerardo Campbell,8,55
+9,11,Tía Luisa,52fe4211c3a36847f8001765,0,268,Rosa María Bianchi,9,55
+10,12,Mama Susana,52fe4211c3a36847f8001769,1,269,Dunia Saldívar,10,55
+11,13,Mama Octavio,52fe4211c3a36847f800176d,1,270,Adriana Barraza,11,55
+12,14,Leonardo,52fe4211c3a36847f8001771,0,271,José Sefami,12,55
+13,15,Maru,52fe4211c3a36847f8001775,1,272,Lourdes Echevarría,13,55
+14,24,Ramiro,52fe4211c3a36847f80017a9,2,260,Marco Pérez,14,55
+15,31,Julieta,55fc3ec7c3a3686187000088,1,553140,Laura Almela,15,55
+16,32,Jarocho,55fc3f30c3a368619700008c,0,18468,Gustavo Sánchez Parra,16,55
+17,33,Alvaro,55fc3fb3925141706b0000b1,0,127825,Dagoberto Gama,17,55
+18,34,El jaibo,55fc3ff292514170780000b6,2,1197402,Rodrigo Ostap,18,55
+19,35,Doctor,55fc401ec3a36861870000b2,0,23875,Patricio Castillo,19,55
+20,36,Conductor de T.V.,55fc4074c3a36861970000b4,2,174434,Roberto Medina,20,55
+21,37,Hombre deshuesadero,55fc40ba92514170720000d7,0,1044057,Carlos Samperio,21,55
+22,38,Judicial,55fc4141c3a368618f0000ec,2,132018,Mauricio Martínez,22,55
+23,84,Andrés Salgado,57a1079b925141024600059c,2,1234762,Ricardo Dalmacci,23,55
+24,85,El Chispas,57a10a50c3a368798d0001e6,2,1660431,Gustavo Muñoz,24,55
+0,37,Captain Jack Sparrow,52fe4212c3a36847f80018c3,2,85,Johnny Depp,0,58
+1,3,Will Turner,52fe4211c3a36847f8001823,2,114,Orlando Bloom,1,58
+2,2,Elizabeth Swann,52fe4211c3a36847f800181f,1,116,Keira Knightley,2,58
+3,7,"William ""Bootstrap Bill"" Turner",52fe4211c3a36847f8001835,2,1640,Stellan Skarsgård,3,58
+4,6,Captain Davy Jones,52fe4211c3a36847f8001831,2,2440,Bill Nighy,4,58
+5,4,James Norrington,52fe4211c3a36847f8001827,2,1709,Jack Davenport,5,58
+6,27,Joshamee Gibbs,52fe4212c3a36847f800189f,2,2449,Kevin McNally,6,58
+7,36,Governor Weatherby Swann,52fe4212c3a36847f80018bf,2,378,Jonathan Pryce,7,58
+8,29,Pintel,52fe4212c3a36847f80018a3,2,1710,Lee Arenberg,8,58
+9,30,Ragetti,52fe4212c3a36847f80018a7,2,1711,Mackenzie Crook,9,58
+10,8,Lord Cutler Beckett,52fe4211c3a36847f8001839,2,2441,Tom Hollander,10,58
+11,9,Tia Dalma,52fe4211c3a36847f800183d,1,2038,Naomie Harris,11,58
+12,31,Cotton,52fe4212c3a36847f80018ab,2,1715,David Bailie,12,58
+13,48,Marty,57e28ae2c3a3680a110052cf,2,4030,Martin Klebba,13,58
+14,49,Ian Mercer,57e28b12925141253a0052e7,0,939,David Schofield,14,58
+15,33,Captain Bellamy,52fe4212c3a36847f80018b3,2,2451,Alex Norton,15,58
+16,26,Captain Hector Barbossa,52fe4212c3a36847f800189b,2,118,Geoffrey Rush,16,58
+17,54,Maccus,591d3b61c3a368799b018dad,2,191751,Dermot Keaney,17,58
+18,55,Clanker,591d3b6cc3a3687a8e018f23,0,1123,Andy Beckwith,18,58
+19,56,Koleniko,591d3b7e925141482f019d8e,2,11283,Clive Ashborn,19,58
+20,53,Headless,58bc2926c3a368664d03ac1c,2,22075,Reggie Lee,20,58
+21,57,Jimmy Legs,591d3b939251414add01991a,2,64102,Christopher Adamson,21,58
+22,58,Ogilvey,591d3bb2c3a368723d01aada,0,1229277,Jonathan Linsley,22,58
+23,59,Burser,591d3bc1c3a36878fe018162,0,140452,John Boswall,23,58
+24,51,Burser - Edinburgh,58bc28fbc3a36851cd01ed0e,2,10960,Max Baker,24,58
+25,52,Quartermaster - Edinburgh,58bc2907925141609e039f72,2,25441,Steve Speirs,25,58
+26,32,Scarlet,52fe4212c3a36847f80018af,1,2450,Lauren Maher,26,58
+27,34,Giselle,52fe4212c3a36847f80018b7,1,2452,Vanessa Branch,27,58
+28,35,Frightened Sailor,52fe4212c3a36847f80018bb,2,82636,Luke de Woolfson,28,58
+29,40,Black Pearl Pirate,52fe4212c3a36847f80018d3,2,1254626,Jonathan Kite,29,58
+30,45,Ho-Kwan,56d187539251413402004815,2,429401,Ho-Kwan Tse,30,58
+31,46,Penrod (uncredited),56ec8c82c3a3682251003f6c,2,1056117,Peter Donald Badalamenti II,31,58
+32,50,Cotton's Parrot (voice),57e2907ec3a3681aa1005c15,2,21700,Christopher S. Capp,32,58
+0,2,Tom Stall,52fe4212c3a36847f8001927,2,110,Viggo Mortensen,0,59
+1,3,Edie Stall,52fe4212c3a36847f800192b,1,49,Maria Bello,1,59
+2,4,Sarah Stall,52fe4212c3a36847f800192f,0,226,Heidi Hayes,2,59
+3,5,Jack Stall,52fe4212c3a36847f8001933,2,225,Ashton Holmes,3,59
+4,6,Richie Cusack,52fe4212c3a36847f8001937,2,227,William Hurt,4,59
+5,7,Carl Fogerty,52fe4212c3a36847f800193b,2,228,Ed Harris,5,59
+6,8,Sheriff Sam Carney,52fe4212c3a36847f800193f,2,229,Peter MacNeill,6,59
+7,9,Leland,52fe4212c3a36847f8001943,2,230,Stephen McHattie,7,59
+8,10,Billy,52fe4212c3a36847f8001947,2,231,Greg Bryk,8,59
+9,11,Bobby,52fe4212c3a36847f800194b,2,232,Kyle Schmid,9,59
+10,12,Judy Danvers,52fe4212c3a36847f800194f,1,233,Sumela Kay,10,59
+11,13,Mick,52fe4212c3a36847f8001953,2,234,Gerry Quigley,11,59
+12,14,Charlotte,52fe4212c3a36847f8001957,0,235,Deborah Drakeford,12,59
+13,15,Frank Mulligan,52fe4212c3a36847f800195b,2,236,Bill MacDonald,13,59
+14,16,Charlie Roarke,52fe4212c3a36847f800195f,2,237,Aidan Devine,14,59
+0,6,Dr. Dave Bowman,52fe4212c3a36847f8001a1b,2,245,Keir Dullea,0,62
+1,7,Dr. Frank Poole,52fe4212c3a36847f8001a1f,2,246,Gary Lockwood,1,62
+2,8,Dr. Heywood R. Floyd,52fe4212c3a36847f8001a23,2,247,William Sylvester,2,62
+3,14,HAL 9000 (voice),52fe4212c3a36847f8001a3b,2,253,Douglas Rain,3,62
+4,9,Moon-Watcher,52fe4212c3a36847f8001a27,0,248,Daniel Richter,4,62
+5,10,Dr. Andrei Smyslov,52fe4212c3a36847f8001a2b,2,249,Leonard Rossiter,5,62
+6,11,Elena,52fe4212c3a36847f8001a2f,1,250,Margaret Tyzack,6,62
+7,12,Dr. Ralph Halvorsen,52fe4212c3a36847f8001a33,2,251,Robert Beatty,7,62
+8,13,Dr. Bill Michaels,52fe4212c3a36847f8001a37,2,252,Sean Sullivan,8,62
+9,30,Mission Controller (voice),52fe4212c3a36847f8001a83,2,102573,Frank Miller,9,62
+10,25,Aries-1B Lunar Shuttle Captain,52fe4212c3a36847f8001a73,0,108277,Ed Bishop,10,62
+11,29,Aries-1B Stewardess,52fe4212c3a36847f8001a7f,1,117540,Edwina Carroll,11,62
+12,39,Stewardess,539d3d53c3a3683b2a002a98,0,127363,Penny Brahms,12,62
+13,40,Stewardess,539d3d76c3a3683b50002997,0,1102076,Heather Downham,13,62
+14,82,stewardess,591e5bccc3a3687a8e028c10,0,1819434,Maggie d'Abo,14,62
+15,83,stewardess,591e5be29251414add0291a1,0,1819435,Chela Matthison,15,62
+16,84,Voiceprint identification girl,591e5bfac3a3687912026cc5,0,1819436,Judy Kiern,16,62
+17,27,Poole's Father,52fe4212c3a36847f8001a77,0,93948,Alan Gifford,17,62
+18,28,Poole's Mother,52fe4212c3a36847f8001a7b,1,107445,Ann Gillis,18,62
+19,70,Squirt - Floyd's Daughter (uncredited),539d41d2c3a3683b41002bee,1,8645,Vivian Kubrick,19,62
+20,69,BBC-12 Announcer (uncredited),539d41b9c3a3683b50002b1f,0,1330813,Kenneth Kendall,20,62
+21,24,Astronaut,52fe4212c3a36847f8001a6f,2,24278,Bill Weston,21,62
+22,31,Astronaut,52fe4212c3a36847f8001a87,2,948173,Glenn Beck,22,62
+23,41,Astronaut,539d3da9c3a3683b500029a3,0,1330785,Mike Lovell,23,62
+24,42,Ape,539d3df0c3a3683b37002a8b,0,1330786,John Ashley,24,62
+25,43,Ape,539d3e13c3a3683b37002a92,0,1330787,Jimmy Bell,25,62
+26,44,Ape,539d3e2ec3a3683b590029db,0,1330788,David Charkham,26,62
+27,45,Ape,539d3e44c3a3683b41002a7e,0,1330789,Simon Davis,27,62
+28,46,Ape,539d3e6ac3a3683b23002b57,0,1330790,Jonathan Daw,28,62
+29,47,Ape,539d3e80c3a3683b310029ff,0,1330791,Péter Delmár,29,62
+30,48,Ape Attacked by Leopard,539d3ec4c3a3683b23002b81,0,1330792,Terry Duggan,30,62
+31,49,Ape,539d3eeac3a3683b23002b88,0,1330793,David Fleetwood,31,62
+32,50,Ape,539d3f04c3a3683b2a002ad4,0,1330794,Danny Grover,32,62
+33,51,Ape,539d3f25c3a3683b23002ba3,0,1330795,Brian Hawley,33,62
+34,52,Ape,539d3f42c3a3683b50002a01,0,1330796,David Hines,34,62
+35,53,Ape,539d3f81c3a3683b50002a27,0,1330797,Tony Jackson,35,62
+36,54,Ape,539d3f9ec3a3683b31002a89,0,1330798,John Jordan,36,62
+37,55,Ape,539d3fb4c3a3683b41002b14,0,1330799,Scott MacKee,37,62
+38,56,Ape,539d3fcbc3a3683b59002a74,0,1330800,Laurence Marchant,38,62
+39,57,Ape,539d3fe5c3a3683b31002ab7,0,1330801,Darryl Paes,39,62
+40,58,Ape,539d3fffc3a3683b50002a65,0,1330802,Joe Refalo,40,62
+41,59,Ape,539d4011c3a3683b48002a0b,0,1330803,Andy Wallace,41,62
+42,60,Ape,539d4024c3a3683b23002c27,0,1330804,Bob Wilyman,42,62
+43,61,Ape Killed by Moon-Watcher,539d4048c3a3683b50002a82,0,1330805,Richard Woods,43,62
+44,62,Interviewer (uncredited),539d4069c3a3683b48002a28,0,1330806,Martin Amor,44,62
+45,63,Young Man (uncredited),539d407ec3a3683b41002b55,0,1330807,S. Newton Anderson,45,62
+46,64,(uncredited),539d4092c3a3683b50002a8b,0,1330808,Sheraton Blount,46,62
+47,65,(uncredited),539d40a6c3a3683b41002b5c,0,1330809,Ann Bormann,47,62
+48,67,(uncredited),539d4177c3a3683b48002a75,0,1330811,Julie Croft,48,62
+49,68,(uncredited),539d418fc3a3683b41002baf,0,1330812,Penny Francis,49,62
+50,71,(uncredited),539d41e5c3a3683b23002ce1,1,1330814,Marcella Markham,50,62
+51,72,Russian Scientist (uncredited),539d41f9c3a3683b50002b54,0,1330815,Irena Marr,51,62
+52,73,Russian Scientist (uncredited),539d420bc3a3683b23002d11,0,1330816,Krystyna Marr,52,62
+53,74,(uncredited),539d421ec3a3683b59002b72,0,1330817,Kim Neil,53,62
+54,75,(uncredited),539d4230c3a3683b37002c2f,0,1330818,Jane Pearl,54,62
+55,76,(uncredited),539d4244c3a3683b48002b19,0,1330819,Penny Pearl,55,62
+56,77,Miller (uncredited),539d427dc3a3683b23002d36,0,1330820,Kevin Scott,56,62
+57,78,TMA-1 Site Technician #1 (uncredited),539d42bfc3a3683b23002d3e,2,1330821,John Swindells,57,62
+58,79,TMA-1 Site Photographer (uncredited),539d43ea0e0a261328003623,0,184980,Burnell Tucker,58,62
+59,81,TMA-1 Site Technician #2 (uncredited),57a3958d9251410c7d00377f,2,1208787,John Clifford,59,62
+0,3,"Jimmy B. ""Rabbit"" Smith",52fe4212c3a36847f8001c53,2,325,Eminem,0,65
+1,4,"David ""Future"" Porter",52fe4212c3a36847f8001c57,2,327,Mekhi Phifer,1,65
+2,6,Alex,52fe4212c3a36847f8001c5f,1,328,Brittany Murphy,2,65
+3,5,Stephanie Smith,52fe4212c3a36847f8001c5b,1,326,Kim Basinger,3,65
+4,13,Greg Buehl,52fe4212c3a36847f8001c7b,2,335,Michael Shannon,4,65
+5,21,Janeane,52fe4212c3a36847f8001c8b,1,343,Taryn Manning,5,65
+6,22,Papa Doc,52fe4212c3a36847f8001c8f,2,53650,Anthony Mackie,6,65
+7,26,DJ IZ,54ebba54c3a3686d64000057,2,341,De'Angelo Wilson,7,65
+8,23,Cheddar Bob,53615f92c3a368394e00031c,2,333,Evan Jones,8,65
+9,28,Sol George,54ebba71925141796500005e,0,334,Omar Benson Miller,9,65
+10,29,Wink,54ebba7a925141795f000044,2,342,Eugene Byrd,10,65
+11,24,Shorty Mike,536161d2c3a368395d000326,0,217173,Mike Bell,11,65
+12,30,Mike,54ebba899251417971000050,2,336,Xzibit,12,65
+13,25,Lil'Tic,53616364c3a368397600034f,0,1069291,Proof,13,65
+14,39,Lyckety-Splyt,565e35ff9251416db4003970,0,1543461,Strike,14,65
+15,40,Lotto,565e37359251416da4004a8e,0,1543462,Nashawn 'Ox' Breedlove,15,65
+16,41,Female Lunch Truck Rapper,5664daa892514128140005c9,0,1545768,Miz-Korona,16,65
+17,42,Paul,5664e34d925141281a00075b,0,1545774,Craig Chandler,17,65
+18,106,Bouncer,576d251fc3a36830b8006b5e,0,344,Larry Hudson,18,65
+0,5,Luther Whitney,52fe4212c3a36847f8001ce1,2,190,Clint Eastwood,0,66
+1,6,President Allen Richmond,52fe4212c3a36847f8001ce5,2,193,Gene Hackman,1,66
+2,7,Seth Frank,52fe4212c3a36847f8001ce9,2,228,Ed Harris,2,66
+3,8,Bill Burton,52fe4212c3a36847f8001ced,2,349,Scott Glenn,3,66
+4,9,Kate Whitney,52fe4212c3a36847f8001cf1,1,350,Laura Linney,4,66
+5,10,Gloria Russell,52fe4212c3a36847f8001cf5,1,351,Judy Davis,5,66
+6,11,Tim Collin,52fe4212c3a36847f8001cf9,2,352,Dennis Haysbert,6,66
+7,24,Art Student,52fe4212c3a36847f8001d45,1,389,Alison Eastwood,7,66
+8,25,Christy Sullivan,52fe4212c3a36847f8001d49,1,404,Melora Hardin,8,66
+9,27,Walter Sullivan,52fe4212c3a36847f8001d53,2,5249,E.G. Marshall,9,66
+10,32,Michael McCarty,57bb5f19c3a3685480000975,2,28633,Richard Jenkins,10,66
+0,7,Sam Lowry,52fe4213c3a36847f8001e8f,2,378,Jonathan Pryce,0,68
+1,8,Archibald 'Harry' Tuttle,52fe4213c3a36847f8001e93,2,380,Robert De Niro,1,68
+2,9,Mrs. Ida Lowry,52fe4213c3a36847f8001e97,1,381,Katherine Helmond,2,68
+3,10,Mr. M. Kurtzmann,52fe4213c3a36847f8001e9b,2,65,Ian Holm,3,68
+4,11,Spoor,52fe4213c3a36847f8001e9f,2,382,Bob Hoskins,4,68
+5,12,Jack Lint,52fe4213c3a36847f8001ea3,2,383,Michael Palin,5,68
+6,13,Mr. Warrenn,52fe4213c3a36847f8001ea7,2,385,Ian Richardson,6,68
+7,17,Smoking Man (uncredited),52fe4213c3a36847f8001eb7,2,280,Terry Gilliam,7,68
+8,14,Mr. Helpmann,52fe4213c3a36847f8001eab,2,386,Peter Vaughan,8,68
+9,15,Jill Layton,52fe4213c3a36847f8001eaf,1,387,Kim Greist,9,68
+10,16,Dr. Jaffe,52fe4213c3a36847f8001eb3,2,388,Jim Broadbent,10,68
+11,29,Dowser,52fe4213c3a36847f8001eed,2,14325,Derrick O'Connor,11,68
+12,50,Priest,5677fed192514179d20090a6,2,20243,Roger Ashton-Griffiths,12,68
+13,51,Basement Guard,57ac45afc3a3685341000b03,2,141537,John Pierce Jones,13,68
+14,27,Mrs. Alma Terrain,52fe4213c3a36847f8001ee5,1,97167,Barbara Hicks,14,68
+15,28,Harvey Lime,52fe4213c3a36847f8001ee9,0,374,Charles McKeown,15,68
+16,30,Shirley,52fe4213c3a36847f8001ef1,0,177594,Kathryn Pogson,16,68
+17,31,Spiro,52fe4213c3a36847f8001ef5,0,22171,Bryan Pringle,17,68
+18,52,Charlie--Dept. of Works,588579bfc3a3684d7000168d,2,117555,Nigel Planer,18,68
+19,53,T.V. Commercial Presenter,588579f7c3a3684d5a0018d6,0,10732,Terence Bayler,19,68
+20,54,M.O.I. Lobby Porter,58857a11925141321e00163a,0,1215892,Gorden Kaye,20,68
+21,55,Dr. Chapman,58857a1ec3a3684d5d0014bf,2,132538,Jack Purvis,21,68
+0,2,Johnny Cash,52fe4213c3a36847f8001f43,2,73421,Joaquin Phoenix,0,69
+1,3,June Carter,52fe4213c3a36847f8001f47,1,368,Reese Witherspoon,1,69
+2,10,Vivian,52fe4213c3a36847f8001f63,1,417,Ginnifer Goodwin,2,69
+3,11,Ray Cash,52fe4213c3a36847f8001f67,2,418,Robert Patrick,3,69
+4,12,Elvis Presley,52fe4213c3a36847f8001f6b,2,419,Tyler Hilton,4,69
+5,13,Roy Orbison,52fe4213c3a36847f8001f6f,2,420,Johnathan Rice,5,69
+6,14,Waylon Jennings,52fe4213c3a36847f8001f73,2,421,Shooter Jennings,6,69
+7,15,Jerry Lee Lewis,52fe4213c3a36847f8001f77,2,422,Waylon Payne,7,69
+8,16,Sam Phillips,52fe4213c3a36847f8001f7b,0,424,Dallas Roberts,8,69
+9,17,Luther Perkins,52fe4213c3a36847f8001f7f,2,425,Dan John Miller,9,69
+10,18,Marshall Grant,52fe4213c3a36847f8001f83,2,426,Larry Bagby,10,69
+11,19,Maybelle Carter,52fe4213c3a36847f8001f87,1,427,Sandra Ellis Lafferty,11,69
+12,20,Ezra Carter,52fe4213c3a36847f8001f8b,2,428,Dan Beene,12,69
+13,21,Young Johnny Cash,52fe4213c3a36847f8001f8f,2,429,Lucas Till,13,69
+14,22,Carlene Carter,52fe4213c3a36847f8001f93,1,431,Victoria Hester,14,69
+15,23,Rosanne Cash,52fe4213c3a36847f8001f97,1,430,Hailey Anne Nelson,15,69
+16,89,Carrie Cash,580ba42dc3a368259f003f95,0,1231850,Shelby Lynne,16,69
+17,90,W.S. 'Fluke' Holland,580ba482c3a368259f003fd3,2,589756,Clay Steakley,17,69
+18,91,Young J.R.,580ba4ebc3a368258f003ee6,2,77332,Ridge Canipe,18,69
+19,92,Kathy Cash,580ba581c3a368258f003f36,1,220064,Kerris Dorsey,19,69
+20,93,Diner Waitress,580ba5e3c3a36824130043e4,1,1215995,Deborah Rawlings,20,69
+21,94,Inmate,580ba613c3a368249d003888,0,1400931,James DeForest Parker,21,69
+22,95,Warden,580ba642c3a368249d003897,2,408,James Keach,22,69
+23,96,Texarkana MC,580ba68592514170d10042cc,0,1074187,Danny Vinson,23,69
+24,97,Lady in the Aisle,580ba71dc3a368296400cdbe,1,71886,Natalie Canerday,24,69
+25,98,Five and Dime Manager,580ba749c3a368249d00391f,1,51456,Rhoda Griffis,25,69
+26,99,El Paso Taxi Driver,580ba776925141712c004460,0,1336845,Jeff Bailey,26,69
+27,100,F.B.I. Man,580ba7acc3a36823df004257,2,129868,J.D. Evermore,27,69
+28,101,A & R Man #1,580ba81cc3a368260d004442,2,86938,Tim Ware,28,69
+29,102,A & R Man #2,580ba84092514170d10043ec,0,1106263,Dolan Wilson,29,69
+30,103,Lissome Girl,580ba899c3a368259f0041f9,1,53266,Clare Grant,30,69
+31,104,Neighbor Woman,580ba8f0c3a368258f004126,0,71887,Glenda Pannell,31,69
+32,105,Wanda,580ba94392514171760044c6,0,53265,Amy Lavere,32,69
+33,106,Bob Neal (uncredited),580cf8c7c3a36823df00fcf5,2,410,John Carter Cash,33,69
+34,107,Bass player in Lewis's band (uncredited),580cf907c3a36823df00fd21,0,1485107,Aaron Covington,34,69
+35,108,Folsom Prison Assistant Warden (uncredited),580cf9a1c3a368249d00de83,0,1509778,Geoff Falk,35,69
+36,109,Lady at the Five & Dime (uncredited),580cf9d69251416efe00f865,0,1509779,Jan Falk,36,69
+37,110,Ferlin (uncredited),580cfa1a925141713b0100f7,0,1381675,Marc Farley,37,69
+38,111,Tommy Cash Age 9 (uncredited),580cfa90925141713801029f,0,77518,Cody Hanford,38,69
+39,112,Record Company Executive (uncredited),580cfb3f92514171a3010ac9,0,1698468,Donald Meyers,39,69
+40,113,Man in Aisle (uncredited),580cfb6ec3a368259f00f936,0,1571910,Mike Montgomery,40,69
+41,114,Etta Grant (uncredited),580cfc089251416efe00f9e9,1,1386222,Brit Shaw,41,69
+42,115,Flight Attendant (uncredited),580cfc3292514171a3010b70,0,1462583,Melissa Goodwin Shepherd,42,69
+43,116,Jack the Drunk (uncredited),580cfc9ac3a368258f00fa33,2,150094,Ben Taylor,43,69
+44,117,Passionate Preacher (uncredited),580cfdbbc3a368260d010139,2,77522,Frank Hoyt Taylor,44,69
+0,4,Frankie Dunn,52fe4213c3a36847f8002015,2,190,Clint Eastwood,0,70
+1,24,Maggie Fitzgerald,52fe4213c3a36847f8002079,1,448,Hilary Swank,1,70
+2,26,Eddie Scrap-Iron Dupris,52fe4213c3a36847f8002083,2,192,Morgan Freeman,2,70
+3,6,Danger Barch,52fe4213c3a36847f8002019,2,449,Jay Baruchel,3,70
+4,7,Big Willie Little,52fe4213c3a36847f800201d,2,450,Mike Colter,4,70
+5,8,Billie 'The Blue Bear',52fe4213c3a36847f8002021,0,451,Lucia Rijker,5,70
+6,30,Father Horvak,52fe4213c3a36847f8002091,2,31713,Brían F. O'Byrne,6,70
+7,28,Shawrelle Berry,52fe4213c3a36847f8002087,2,53650,Anthony Mackie,7,70
+8,9,Earline Fitzgerald,52fe4213c3a36847f8002025,1,452,Margo Martindale,8,70
+9,10,Mardell Fitzgerald,52fe4213c3a36847f8002029,1,453,Riki Lindhome,9,70
+10,11,Omar,52fe4213c3a36847f800202d,2,454,Michael Peña,10,70
+11,34,Billie's Manager,56da1d49c3a3687caf000060,2,2137,Benito Martinez,11,70
+12,35,Mickey Mack,56da1d5e9251413b4100005c,0,155576,Bruce MacVittie,12,70
+13,36,Counterman at Diner,56da1d6ec3a3687caf000067,0,170123,David Powledge,13,70
+14,37,Cut Man,56da1d7e9251413b43000068,2,120257,Joe D'Angerio,14,70
+15,38,J.D. Fitzgerald,56da21639251414669000009,0,154950,Marcus Chait,15,70
+16,39,Lawyer,56da217dc3a3680c93000006,0,154727,Tom McCleister,16,70
+17,40,Nurse,56da218dc3a3680caf000016,0,1569711,Erica Grant,17,70
+18,44,Pakistani,56da254cc3a3680caf000186,0,1586436,Naveen,18,70
+19,42,Little Girl in Truck,56da21b3c3a3680ca7000026,0,1569718,Morgan Eastwood,19,70
+20,43,Paramedic,56da21c89251414669000031,2,154551,Jamison Yang,20,70
+21,45,Rehab Nurse,573c4b5ac3a3687d12000f6d,1,156617,Susan Krebs,21,70
+22,46,Ref #3,57d74842c3a3682a87000595,0,122596,V.J. Foster,22,70
+23,47,Ref #6,57d7487bc3a3682b9900051f,0,1226344,Steven M. Porter,23,70
+24,48,Rehab Doctor,57d748acc3a3682abe0005d3,2,945062,Ming Lo,24,70
+25,49,Restaurant Owner,57d748d3c3a3682b9900054a,0,34840,Miguel Pérez,25,70
+26,50,Ring Doctor,57d748f7c3a368023c00354c,2,1498427,Jim Cantafio,26,70
+27,51,Ring Doctor,57d74915c3a3682b54000575,0,8591,Ted Grossman,27,70
+28,52,Sally Mendoza,57d7493ec3a368023c003574,2,137529,Ned Eisenberg,28,70
+29,53,Second at Vegas Fight,57d74966c3a3682b0b000563,2,73132,Marco Rodríguez,29,70
+30,54,Radio Commentator,57d749bec3a3682c6d00056a,0,1530544,Mark Thomason,30,70
+31,56,Irish Fan,57d74a139251412222000594,2,1612130,Brian T. Finney,31,70
+32,57,Irish Fan,57d74a34c3a3682b0b0005bb,1,77740,Spice Williams-Crosby,32,70
+33,58,Irish Fan,57d74a73c3a3682b0b0005d0,2,1231315,Kim Strauss,33,70
+34,59,Irish Fan,57d74aa2925141229f000628,1,62097,Kirsten Berman,34,70
+35,60,Las Vegas Fight Fan (uncredited),57d74b02c3a3682b5400065c,0,1309077,Jimmy Alioto,35,70
+36,61,Las Vegas Fight Fan (uncredited),57d74b679251412222000634,2,1578275,Jason Williams,36,70
+37,62,VIP Girl (uncredited),57d74bb092514120430032d4,1,1482411,Nina Avetisova,37,70
+38,63,Boxer (uncredited),57d74bdbc3a3682b0b00069e,2,90449,Michael Bentt,38,70
+39,64,Boxer (uncredited),57d74c09c3a3682a87000793,0,1397907,Bruce Gerard Brown,39,70
+40,65,Sparring Boxer (uncredited),57d74c5a9251412041003425,0,1429651,McKay Stewart,40,70
+41,66,Hogan (uncredited),57d74c96c3a368023c003794,2,8693,Jude Ciccolella,41,70
+42,67,Perez (uncredited),57d74ce0c3a3682b990007b9,0,1243132,Kimberly Estrada,42,70
+43,68,Fight Fan (uncredited),57d74d69c3a368023c00381c,0,1303212,Sean LoGrasso,43,70
+44,69,Irish Fan (uncredited),57d74d99c3a3682cab000842,0,1435775,Maher McClung,44,70
+45,70,Boxing Fan (uncredited),57d74dc9925141226f000859,0,1209723,Robert McMurrer,45,70
+46,71,Fan (uncredited),57d74df1c3a3682a870008bd,0,1275524,Michael Saglimbeni,46,70
+47,72,Additional Voices (voice) (uncredited),57d74e2c92514120430034b1,2,1245674,Sean O'Kane,47,70
+48,73,Yugoslavian Judge (uncredited),57d74e569251412222000828,0,122768,Vladimir Rajcic,48,70
+0,16,Billy Elliot,52fe4213c3a36847f800211d,2,478,Jamie Bell,0,71
+1,15,Mrs. Wilkinson,52fe4213c3a36847f8002119,1,477,Julie Walters,1,71
+2,19,Grandmother,52fe4213c3a36847f8002129,1,481,Jean Heywood,2,71
+3,17,Tony Elliot,52fe4213c3a36847f8002121,2,479,Jamie Draven,3,71
+4,18,Jackie Elliot,52fe4213c3a36847f8002125,2,480,Gary Lewis,4,71
+5,30,Ballet Doctor,5880b7f492514134ca00b79d,2,21345,Stephen Mangan,5,71
+6,31,Principal,5880b80192514134be00ad96,2,8979,Patrick Malahide,6,71
+7,20,Michael Caffrey,52fe4213c3a36847f800212d,2,482,Stuart Wells,7,71
+8,34,Geography Teacher,5880b833c3a3683114009fe3,1,195254,Tracey Wilkinson,8,71
+9,33,Sandra,5880b82392514134b800b5da,1,20494,Zoë Bell,9,71
+10,21,Debbie Wilkinson,52fe4213c3a36847f8002131,0,483,Nicola Blackwell,10,71
+11,22,Billy's mother,52fe4213c3a36847f8002135,0,487,Janine Birkett,11,71
+12,24,Gary Poulson,536910720e0a2647c400865d,0,107381,Joe Renton,12,71
+13,25,Mr. Tom Wilkinson,536910820e0a2647c80086a5,2,116991,Colin MacLachlan,13,71
+14,26,PC Jeff Peverly,536910960e0a2647d1008161,0,938824,Trevor Fox,14,71
+15,27,Sheila Briggs,536910a40e0a2647d4008162,0,1041491,Charlie Hardwick,15,71
+16,32,Vice-Principal,5880b81792514134ca00b7bc,1,8228,Barbara Leigh-Hunt,16,71
+0,4,Derek Vinyard,52fe4213c3a36847f8002187,2,819,Edward Norton,0,73
+1,5,Danny Vinyard,52fe4213c3a36847f800218b,2,820,Edward Furlong,1,73
+2,6,Doris Vinyard,52fe4213c3a36847f800218f,1,821,Beverly D'Angelo,2,73
+3,7,Dr. Bob Sweeney,52fe4213c3a36847f8002193,2,822,Avery Brooks,3,73
+4,8,Davina Vinyard,52fe4213c3a36847f8002197,1,823,Jennifer Lien,4,73
+5,9,Seth Ryan,52fe4213c3a36847f800219b,2,824,Ethan Suplee,5,73
+6,10,Cameron Alexander,52fe4213c3a36847f800219f,2,825,Stacy Keach,6,73
+7,11,Stacey,52fe4213c3a36847f80021a3,1,826,Fairuza Balk,7,73
+8,12,Murray,52fe4213c3a36847f80021a7,2,827,Elliott Gould,8,73
+9,13,Lamont,52fe4213c3a36847f80021ab,2,828,Guy Torry,9,73
+10,14,Dennis Vinyard,52fe4213c3a36847f80021af,2,829,William Russ,10,73
+11,15,Rasmussen,52fe4213c3a36847f80021b3,2,830,Joe Cortese,11,73
+12,16,Little Henry,52fe4213c3a36847f80021b7,2,831,Jason Bose Smith,12,73
+13,17,Lawrence,52fe4213c3a36847f80021bb,2,832,Antonio David Lyons,13,73
+14,18,Mitch McCormick,52fe4213c3a36847f80021bf,2,833,Alex Sol,14,73
+15,24,Jason,52fe4213c3a36847f80021e1,2,4133,Giuseppe Andrews,15,73
+16,25,Chris,52fe4213c3a36847f80021e5,2,4134,Keram Malicki-Sánchez,16,73
+17,77,Lizzy,56180c8e9251413752000145,0,1520755,Michelle Christine White,17,73
+18,28,Jerome,53a422590e0a2667c6001314,0,1332231,Jonathan Fowler Jr.,18,73
+19,29,Daryl Dawson,53a422710e0a2667cd001388,2,35769,Christopher Masterson,19,73
+20,76,Curtis,5611c9bdc3a36868140147e1,2,1236020,Jordan Marder,20,73
+21,30,Huge Aryan,53a422840e0a2667c200131e,0,1332233,Nicholas R. Oleson,21,73
+22,32,McMahon,53a422c40e0a2667d000124f,2,12406,Paul Le Mat,22,73
+23,33,Cop,53a422d80e0a2667d9001289,2,1280435,Thomas L. Bellissimo,23,73
+24,34,Kammi,53a422ec0e0a2667d0001252,0,112997,Cherish Lee,24,73
+25,35,Dr. Aguilar,53a423000e0a2667c90012c6,2,157567,Sam Vlahos,25,73
+26,36,Ally Vinyard,53a423160e0a2667c90012c9,1,1332235,Tara Blanchard,26,73
+27,37,Cassandra,53a423250e0a2667c6001322,1,40310,Anne Lambton,27,73
+28,38,Reporter,53a423360e0a2667c90012cf,2,1332236,Steve Wolford,28,73
+29,39,Desk Sergeant,53a4234c0e0a2667d50012f0,2,1332238,Richard Noyce,29,73
+30,40,Buddy,53a4235f0e0a2667d50012f6,2,67453,Danso Gordon,30,73
+31,42,Guard,53a4239c0e0a2667d9001299,2,170730,David Basulto,31,73
+32,43,Young Ally Vinyard,53a423ae0e0a2667bf00126d,0,1332240,Alexis Rose Coen,32,73
+33,44,Lawrence's Partner,53a423c20e0a2667d5001303,2,1332241,Kiante Elam,33,73
+34,45,Student,53a423d80e0a2667bf00127f,2,102853,Paul Hopkins,34,73
+35,46,Random Skinhead,53a423ee0e0a2667d0001263,2,1332242,Keith Odett,35,73
+36,64,Randy,53a43c84c3a3682a3f001146,2,14950,Jim Norton,36,73
+37,47,Stocky Buddy,53a424040e0a2667d0001267,2,1331794,Paul E. Short,37,73
+38,65,Basketball Player,53a43d59c3a3682a4b001111,2,134770,Nigel Miguel,38,73
+39,49,White Supremicist (uncredited),53a424580e0a2667cd0013ae,0,1332243,Darrell Britt,39,73
+40,50,Skinhead (uncredited),53a4246a0e0a2667c90012eb,0,1332244,Robert 'Duckie' Carpenter,40,73
+41,51,Prison Gang Leader (uncredited),53a4247c0e0a2667c90012ef,2,202080,Sydney 'Big Dawg' Colston,41,73
+42,52,Police officer (uncredited),53a424920e0a2667d500131a,0,1332246,Hans Cozzens,42,73
+43,53,Parking Lot Skinhead (uncredited),53a424a80e0a2667cd0013ba,0,1332247,John Embry,43,73
+44,54,Young Danny Vinyard (uncredited),53a424bc0e0a2667d000127c,0,1332248,Maximillian Kesmodel,44,73
+45,55,Student (uncredited),53a424ce0e0a2667c90012f8,0,40072,Barbie Marie,45,73
+46,56,Skinhead Girlfriend (uncredited),53a424df0e0a2667c90012fb,1,104619,Allie Moss,46,73
+47,59,Jail Inmate (uncredited),53a425280e0a2667d90012bb,0,1332249,Louis E. Rosas,47,73
+48,66,Jail Inmate (uncredited),53a43e92c3a3682a4e000fcd,2,146008,Sam Sarpong,48,73
+49,62,Skinhead (uncredited),53a425980e0a2667bf0012aa,0,1332252,Jeremy Sweet,49,73
+50,63,High School Student Leaving Bathroom (uncredited),53a425af0e0a2667d90012c7,2,1229751,Selwyn Ward,50,73
+51,57,Arresting Officer (uncredited),53a424f20e0a2667d90012b5,2,159264,Denney Pierce,51,73
+52,67,Deputy Sheriff (uncredited),53a43ed8c3a3682a420011d4,2,1274297,Glendon Rich,52,73
+0,13,Ray Ferrier,52fe4213c3a36847f800226b,2,500,Tom Cruise,0,74
+1,14,Rachel Ferrier,52fe4213c3a36847f800226f,1,501,Dakota Fanning,1,74
+2,15,Mary-Ann,52fe4213c3a36847f8002273,1,502,Miranda Otto,2,74
+3,16,Robbie Ferrier,52fe4213c3a36847f8002277,2,503,Justin Chatwin,3,74
+4,17,Harlan Ogilvy,52fe4213c3a36847f800227b,2,504,Tim Robbins,4,74
+5,18,News Producer,52fe4213c3a36847f800227f,1,505,Camillia Sanes,5,74
+6,19,Ferry Captain,52fe4213c3a36847f8002283,2,506,John Scurti,6,74
+7,20,Narrator (Voice),52fe4213c3a36847f8002287,2,192,Morgan Freeman,7,74
+8,24,Older Woman,52fe4214c3a36847f800229d,1,33500,Takayo Fischer,8,74
+9,25,Julio,52fe4214c3a36847f80022a1,2,75604,Yul Vazquez,9,74
+10,27,Grandmother,530a66539251411108003d2a,0,103079,Ann Robinson,10,74
+11,26,Grandfather,530a66419251411111003f15,2,56442,Gene Barry,11,74
+12,105,Conspiracy Buff,56b72cf4c3a36806fc00b961,0,182280,Daniel Eric Gold,12,74
+13,106,Boy in Church (uncredited),56c0c53c925141083f00038d,2,38673,Channing Tatum,13,74
+14,107,Man in Basket,56fda9c19251412a4b000016,2,167756,Dempsey Pappion,14,74
+15,108,Bartender,56fda9eec3a36821ab000016,1,4494,Lisa Ann Walter,15,74
+16,109,Manny the Mechanic,56fdaa38c3a368219d00001b,0,37157,Lenny Venito,16,74
+17,110,Vincent,56fdaa849251412a45000035,2,53184,Rick Gonzalez,17,74
+18,111,Tim,56fdaace9251412a4200002c,2,59690,David Alan Basche,18,74
+19,112,Herself,56fea81a9251414c7a000438,1,1599519,Roz Abrams,19,74
+20,113,News Cameraman,56fea9239251412a42002e75,2,167109,Marlon Young,20,74
+21,114,News Van Driver,56fea947c3a36821a0002cca,2,1391612,John Eddins,21,74
+22,116,Neighbor With Toddler,5947200f9251413fc20308df,1,39388,Amy Ryan,22,74
+23,117,Bus Driver,59472049c3a368111501f388,0,1215988,Jim Hanna,23,74
+24,118,Well-Meaning Father,594720b7c3a368265f011aeb,2,97446,James DuMont,24,74
+25,119,Soldier,594720e0c3a368265f011b23,2,89375,Travis Aaron Wade,25,74
+26,120,Soldier,5947210ac3a368265f011b4a,2,31132,Columbus Short,26,74
+27,121,SpongeBob SquarePants (voice),59472162c3a368265f011b9c,2,78798,Tom Kenny,27,74
+28,122,3 Year Old Boy,5969c7dcc3a3683b7d00bba3,2,17181,Ty Simpkins,28,74
+0,6,President James Dale / Art Land,52fe4214c3a36847f8002301,2,514,Jack Nicholson,0,75
+1,7,First Lady Marsha Dale,52fe4214c3a36847f8002305,1,515,Glenn Close,1,75
+2,8,Barbara Land,52fe4214c3a36847f8002309,1,516,Annette Bening,2,75
+3,9,Professor Donald Kessler,52fe4214c3a36847f800230d,2,517,Pierce Brosnan,3,75
+4,10,Rude Gambler,52fe4214c3a36847f8002311,2,518,Danny DeVito,4,75
+5,11,Press Secretary Jerry Ross,52fe4214c3a36847f8002315,2,519,Martin Short,5,75
+6,12,Nathalie Lake,52fe4214c3a36847f8002319,1,520,Sarah Jessica Parker,6,75
+7,13,Jason Stone,52fe4214c3a36847f800231d,2,521,Michael J. Fox,7,75
+8,14,General Decker,52fe4214c3a36847f8002321,2,522,Rod Steiger,8,75
+9,15,Himself,52fe4214c3a36847f8002325,2,523,Tom Jones,9,75
+10,16,Taffy Dale,52fe4214c3a36847f8002329,1,524,Natalie Portman,10,75
+11,17,Richie Norris,52fe4214c3a36847f800232d,2,526,Lukas Haas,11,75
+12,18,Grandma Florence Norris,52fe4214c3a36847f8002331,1,528,Sylvia Sidney,12,75
+13,30,Martian Girl,52fe4214c3a36847f8002377,1,4452,Lisa Marie,13,75
+14,31,Byron Williams,52fe4214c3a36847f800237b,2,4774,Jim Brown,14,75
+15,32,Louise Williams,52fe4214c3a36847f800237f,1,2230,Pam Grier,15,75
+16,37,Billy Glenn Norris,564626ec9251413ade0001d2,2,70851,Jack Black,16,75
+17,38,Richie's Dad,564627b3c3a368261400023a,2,10671,Joe Don Baker,17,75
+18,39,Sue Ann Norris,564627c4c3a368261400023d,1,1912,O-Lan Jones,18,75
+19,40,Sharona,56462917c3a3682605000260,1,18979,Christina Applegate,19,75
+20,41,Stranger,56d1f88f9251413e59009af6,2,1583720,Joseph Moynihan,20,75
+21,44,Hillbilly,58ffdea6c3a3680ffd00395f,2,1786577,Tommy Bush,21,75
+0,4,Jesse,52fe4214c3a36847f80023e5,2,569,Ethan Hawke,0,76
+1,16,Céline,52fe4214c3a36847f800241b,1,1146,Julie Delpy,1,76
+2,5,Wife on Train,52fe4214c3a36847f80023e9,1,571,Andrea Eckert,2,76
+3,6,Husband on Train,52fe4214c3a36847f80023ed,0,572,Hanno Pöschl,3,76
+4,7,Guy on Bridge,52fe4214c3a36847f80023f1,2,573,Karl Bruckschwaiger,4,76
+5,8,Guy on Bridge,52fe4214c3a36847f80023f5,0,574,Tex Rubinowitz,5,76
+6,28,Palm Reader,52fe4214c3a36847f8002457,1,146859,Erni Mangold,6,76
+7,21,Street Poet,52fe4214c3a36847f8002437,0,3735,Dominik Castell,7,76
+8,24,Bartender,52fe4214c3a36847f8002443,0,3738,Haymon Maria Buttinger,8,76
+9,23,Guitar Player in Club,52fe4214c3a36847f800243f,0,3737,Harold Waiglein,9,76
+10,22,Belly Dancer,52fe4214c3a36847f800243b,0,3736,Bilge Jeschim,10,76
+11,25,Percussionist,52fe4214c3a36847f8002447,0,3739,Kurti,11,76
+12,15,Cafe Patron,52fe4214c3a36847f8002417,2,3722,Hans Weingartner,12,76
+13,29,Cafe Patron,52fe4214c3a36847f800245b,0,1265413,Liese Lyon,13,76
+14,30,Cafe Patron,52fe4214c3a36847f800245f,0,1265414,Peter Ily Huemer,14,76
+15,31,Cafe Patron,52fe4214c3a36847f8002463,0,1265415,Otto Reiter,15,76
+16,32,Cafe Patron,52fe4214c3a36847f8002467,0,1265416,Hubert Fabian Kulterer,16,76
+17,33,Cafe Patron,52fe4214c3a36847f800246b,0,1265417,Branko Andric,17,76
+18,34,Cafe Patron,52fe4214c3a36847f800246f,0,1265418,Constanze Schweiger,18,76
+19,35,Cafe Patron,52fe4214c3a36847f8002473,2,3727,John Sloss,19,76
+20,36,Cafe Patron,52fe4214c3a36847f8002477,0,1265419,Alexandra Seibel,20,76
+21,37,Cafe Patron,52fe4214c3a36847f800247b,0,1265420,Georg Schöllhammer,21,76
+22,38,Cafe Patron,52fe4214c3a36847f800247f,0,1265421,Christian Ankowitsch,22,76
+23,39,Cafe Patron,52fe4214c3a36847f8002483,0,1265422,Wilbirg Reiter,23,76
+24,40,Musician on Boat,52fe4214c3a36847f8002487,0,1265423,Barbara Klebel,24,76
+25,41,Musician on Boat,52fe4214c3a36847f800248b,0,1265424,Wolfgang Staribacher,25,76
+26,42,Harpsichord Player,52fe4214c3a36847f800248f,0,1265425,Wolfgang Glüxam,26,76
+0,4,Leonard,52fe4214c3a36847f80024db,2,529,Guy Pearce,0,77
+1,5,Natalie,52fe4214c3a36847f80024df,1,530,Carrie-Anne Moss,1,77
+2,6,Teddy Gammell,52fe4214c3a36847f80024e3,2,532,Joe Pantoliano,2,77
+3,7,Burt,52fe4214c3a36847f80024e7,2,534,Mark Boone Junior,3,77
+4,10,Sammy,52fe4214c3a36847f80024f3,2,537,Stephen Tobolowsky,4,77
+5,11,Mrs. Jankis,52fe4214c3a36847f80024f7,1,538,Harriet Sansom Harris,5,77
+6,13,Dodd,52fe4214c3a36847f80024ff,2,540,Callum Keith Rennie,6,77
+7,16,Jimmy,52fe4214c3a36847f800250b,2,544,Larry Holden,7,77
+8,9,Leonard's Wife,52fe4214c3a36847f80024ef,1,536,Jorja Fox,8,77
+9,8,Waiter,52fe4214c3a36847f80024eb,2,535,Russ Fega,9,77
+10,12,Doctor,52fe4214c3a36847f80024fb,2,539,Thomas Lennon,10,77
+11,14,Blonde,52fe4214c3a36847f8002503,1,542,Kimberly Campbell,11,77
+12,15,Tattooist,52fe4214c3a36847f8002507,1,543,Marianne Muellerleile,12,77
+0,6,Rick Deckard,52fe4214c3a36847f800259f,2,3,Harrison Ford,0,78
+1,7,Roy Batty,52fe4214c3a36847f80025a3,2,585,Rutger Hauer,1,78
+2,8,Rachael,52fe4214c3a36847f80025a7,1,586,Sean Young,2,78
+3,9,Gaff,52fe4214c3a36847f80025ab,2,587,Edward James Olmos,3,78
+4,42,Bryant,5402bd1bc3a3684360004649,2,588,M. Emmet Walsh,4,78
+5,11,Pris,52fe4214c3a36847f80025b3,1,589,Daryl Hannah,5,78
+6,12,J.F. Sebastian,52fe4214c3a36847f80025b7,2,590,William Sanderson,6,78
+7,13,Leon Kowalski,52fe4214c3a36847f80025bb,2,591,Brion James,7,78
+8,14,Eldon Tyrell,52fe4214c3a36847f80025bf,0,592,Joe Turkel,8,78
+9,15,Zhora,52fe4214c3a36847f80025c3,1,593,Joanna Cassidy,9,78
+10,29,Hannibal Chew,52fe4214c3a36847f8002615,2,20904,James Hong,10,78
+11,33,Holden,52fe4214c3a36847f8002625,2,58495,Morgan Paull,11,78
+12,34,Bear,52fe4214c3a36847f8002629,2,53760,Kevin Thompson,12,78
+13,35,Kaiser,52fe4214c3a36847f800262d,2,943481,John Edward Allen,13,78
+14,36,Taffey Lewis,52fe4214c3a36847f8002631,0,107074,Hy Pyke,14,78
+15,37,Cambodian Lady,52fe4214c3a36847f8002635,1,951333,Kimiko Hiroshige,15,78
+16,41,Howie Lee,52fe4214c3a36847f8002643,0,1221198,Bob Okazaki,16,78
+17,39,Saleslady,52fe4214c3a36847f8002639,1,949610,Carolyn DeMirjian,17,78
+18,65,Abdul Ben Hassan,59c32a68c3a368146100661f,2,112965,Ben Astar,18,78
+0,6,Nameless,52fe4214c3a36847f8002697,2,1336,Jet Li,0,79
+1,7,Broken Sword,52fe4214c3a36847f800269b,2,1337,Tony Leung Chiu-Wai,1,79
+2,32,Flying Snow,56f10ad9925141184a00263e,1,1338,Maggie Cheung,2,79
+3,11,Sky,52fe4214c3a36847f80026ab,2,1341,Donnie Yen,3,79
+4,9,Moon,52fe4214c3a36847f80026a3,1,1339,Zhang Ziyi,4,79
+5,10,King of Qin,52fe4214c3a36847f80026a7,2,1340,Chen Dao-Ming,5,79
+6,12,Old Scholar,52fe4214c3a36847f80026af,0,1342,Liu Zhong Yuan,6,79
+7,13,Old Servant,52fe4214c3a36847f80026b3,0,1343,Zheng Tia Yong,7,79
+8,14,Prime Minister,52fe4214c3a36847f80026b7,0,1344,Yan Qin,8,79
+9,15,General,52fe4214c3a36847f80026bb,0,1345,Chang Xiao Yang,9,79
+10,30,Qin Emperor (voice),549af481c3a3680b27001556,2,20904,James Hong,10,79
+11,31,Qin Guard #4,549af4c2925141311f001d2d,0,1403596,Xia Bin,11,79
+12,33,Qin Guard #2,56f10d0fc3a368718e00266b,0,1594111,Hua Cao,12,79
+13,34,Qin Guard #1,56f10d20c3a3687189002b86,0,1258371,Heizi,13,79
+14,35,Head Eunuch,56f10d88c3a368060d001250,0,1594112,Ma Wen Hua,14,79
+15,36,Pianist,56f10d95c3a3687177002675,0,1594113,Xu Kuang Hua,15,79
+16,37,Qin Guard #3,56f10dac925141183d002469,0,1594114,Li Lei,16,79
+17,38,Nameless (voice),56f10dbec3a3687182002891,0,1594115,Emil Lin,17,79
+18,39,Qin Guard #6,56f10dd6c3a368060d00125a,0,74033,Liu Jie,18,79
+19,40,Sky (voice),56f10de5c3a3687189002b98,0,35244,Bruce Locke,19,79
+20,41,Eunuch,56f10e15c3a368718e002699,0,1594117,Jin Ming,20,79
+21,42,Moon (voice),56f10e239251417d54000bed,1,78578,Angela Oh,21,79
+22,43,Qin Guard #5,56f10e30c3a36871820028a2,0,1594118,Peng Qiang,22,79
+23,44,Broken Sword (voice),56f10e439251417d54000bf1,2,154657,James Sie,23,79
+24,45,Flying Snow (voice),56f10e50c3a368060d00126a,1,19861,Elizabeth Sung,24,79
+25,46,Musician,56f10e5cc3a368060d00126e,0,1594119,Shou Xin Wang,25,79
+26,48,The Qin guards' commander,56f10f2ec3a3687189002bde,0,1594123,Yakun Zhang,26,79
+0,8,Jesse,52fe4214c3a36847f800276b,2,569,Ethan Hawke,0,80
+1,13,Céline,52fe4214c3a36847f800276f,1,1146,Julie Delpy,1,80
+2,26,Bookstore Manager,52fe4214c3a36847f80027a3,2,649,Vernon Dobtcheff,2,80
+3,27,Journalist #1,52fe4214c3a36847f80027a7,1,651,Louise Lemoine Torrès,3,80
+4,29,Waitress,52fe4215c3a36847f80027af,1,657,Mariane Plasteig,5,80
+5,30,Philippe,52fe4215c3a36847f80027b3,0,3728,Diabolo,6,80
+6,31,Boat Attendant,52fe4215c3a36847f80027b7,0,3729,Denis Evrard,7,80
+7,32,Man at Grill,52fe4215c3a36847f80027bb,2,3730,Albert Delpy,8,80
+8,33,Woman in Courtyard,52fe4215c3a36847f80027bf,1,3731,Marie Pillet,9,80
+9,34,Journalist #2,57e342e6c3a3687587001662,2,654,Rodolphe Pauly,10,80
+0,3,Susan Watkins,52fe4215c3a36847f800299b,1,644,Blanchard Ryan,0,83
+1,4,Daniel Kintner,52fe4215c3a36847f800299f,2,646,Daniel Travis,1,83
+2,9,Seth,52fe4215c3a36847f80029bb,2,1187,Saul Stein,2,83
+3,10,Davis,54ca2ea0c3a36879df00b911,2,1420204,Michael E. Williamson,3,83
+4,11,Linda,55567e17c3a368776f0040eb,0,590483,Christina Zenato,4,83
+5,12,Junior,55567e2c9251412ff9002136,0,64101,John Charles,5,83
+0,2,Indy,52fe4215c3a36847f8002a05,2,3,Harrison Ford,0,85
+1,3,Marion Ravenwood,52fe4215c3a36847f8002a09,1,650,Karen Allen,1,85
+2,4,Dr. René Belloq,52fe4215c3a36847f8002a0d,0,652,Paul Freeman,2,85
+3,5,Major Arnold Toht,52fe4215c3a36847f8002a11,2,653,Ronald Lacey,3,85
+4,6,Sallah,52fe4215c3a36847f8002a15,2,655,John Rhys-Davies,4,85
+5,7,Dr. Marcus Brody,52fe4215c3a36847f8002a19,2,656,Denholm Elliott,5,85
+6,8,Colonel Dietrich,52fe4215c3a36847f8002a1d,2,659,Wolf Kahler,6,85
+7,9,Gobler,52fe4215c3a36847f8002a21,2,660,Anthony Higgins,7,85
+8,10,Barranca / Monkey Man,52fe4215c3a36847f8002a25,0,661,Vic Tablian,8,85
+9,11,Col. Musgrove,52fe4215c3a36847f8002a29,0,662,Don Fellows,9,85
+10,12,Major Eaton,52fe4215c3a36847f8002a2d,2,663,William Hootkins,10,85
+11,13,Satipo,52fe4215c3a36847f8002a31,2,658,Alfred Molina,11,85
+12,30,Messenger Pirate,52fe4215c3a36847f8002a95,0,55909,Eddie Tagoe,12,85
+13,31,Katanga,52fe4215c3a36847f8002a99,2,2247,George Harris,13,85
+14,32,Bureaucrat,54982fa29251417315003497,0,1402694,Bill Reimbold,14,85
+15,33,Jock,549830409251415447001607,0,1402695,Fred Sorenson,15,85
+16,34,Australian Climber,5498313b9251416e1e0079c2,0,1402696,Patrick Durkin,16,85
+17,35,2nd. Nazi,5498537292514130fc006f20,2,134116,Matthew Scurfield,17,85
+18,36,Ratty Nepalese,54985429c3a3680ff50071e9,0,1402756,Malcolm Weaver,18,85
+19,37,Mean Mongolian,54985531c3a3680ff50071fd,0,1230490,Sonny Caldinez,19,85
+20,38,Mohan,5498965492514150330002e7,0,1211876,Anthony Chinn,20,85
+21,39,Giant Sherpa / 1st Mechanic,549896c5c3a3681cff00024b,2,10942,Pat Roach,21,85
+22,40,Otto,5498982492514150360002ef,0,1402807,Christopher Frederick,22,85
+23,41,Imam,5498996cc3a3681ce9000357,2,1231662,Tutte Lemkow,23,85
+24,42,Omar,54989ab0c3a3681ce900036a,0,1220322,Ishaq Bux,24,85
+25,43,Abu,54989b9c92514150390002f8,2,5531,Kiran Shah,25,85
+26,44,Fayah,54989c3f9251415036000326,0,1402821,Souad Messaoudi,26,85
+27,45,Arab Swordsman,54989e6f9251415033000360,2,1229106,Terry Richards,27,85
+28,46,German Agent,54989ef2c3a3681cef0003d1,0,1402823,Steve Hanson,28,85
+29,47,Pilot,5498a2439251415039000389,2,664,Frank Marshall,29,85
+30,48,Young Soldier,5498a2ee925141502d000351,0,1402828,Martin Kreidt,30,85
+31,49,Sergeant,5498a6cd925141502600041d,0,145876,John Rees,31,85
+32,50,Tall Captain,5498a7b4c3a3681cef000477,0,24714,Tony Vogel,32,85
+33,51,Peruvian Porter,5498a8f492514150390003e0,0,8591,Ted Grossman,33,85
+34,55,German Soldier (uncredited),5716c14f925141695b00088d,2,15358,Vic Armstrong,34,85
+35,57,German Soldier (uncredited),5716c187c3a3685378017c1f,2,53587,Peter Diamond,35,85
+36,59,German Soldier (uncredited),5716c1c19251414e7c000afa,2,7024,Nick Gillard,36,85
+37,60,German Soldier (uncredited),5716c1e9c3a3684122015c36,0,1469629,Romo Gorrara,37,85
+38,62,German Soldier (uncredited),5716c2249251413d30000c6b,0,1401306,Rick Lester,38,85
+39,64,German Soldier (uncredited),5716c26092514161f300083f,2,40740,Rocky Taylor,39,85
+40,66,German Lieutenant (uncredited),5716c2b9c3a3685eb8000bb7,0,1271078,Reg Harding,40,85
+41,68,German (uncredited),5716c2ee9251413d30000c7d,2,202402,Harry Fielder,41,85
+42,69,Archivist (uncredited),5716c327c3a3684122015c50,0,1473724,Barrie Holland,42,85
+43,70,Gobler's Gunner (uncredited),5716c376c3a3684122015c5b,2,1608123,Billy Horrigan,43,85
+44,72,Driver of German Truck (uncredited),5716c3c6c3a3684122015c67,0,19567,Terry Leonard,44,85
+45,74,Driver of German Truck (uncredited),5716c3fec3a3682e65005545,0,589874,Sergio Mioni,45,85
+46,76,Nazi Spy on the Airplane (uncredited),5716c44b9251413d30000ca9,2,3993,Dennis Muren,46,85
+47,77,Flying Wing Mechanic (uncredited),5716c4b2c3a3685e54000b79,0,9974,Glenn Randall Jr.,47,85
+48,79,U-Boat Captain (uncredited),5716c4fec3a3682f450053b8,2,70417,Michael Sheard,48,85
+49,80,Special Vocal Effects (voice) (uncredited),5716c522c3a3685e54000b88,2,15831,Frank Welker,49,85
+0,4,Indiana Jones,52fe4215c3a36847f8002c09,2,3,Harrison Ford,0,87
+1,5,Willie Scott,52fe4215c3a36847f8002c0d,1,689,Kate Capshaw,1,87
+2,6,Short Round,52fe4215c3a36847f8002c11,0,690,Jonathan Ke Quan,2,87
+3,7,Mola Ram,52fe4215c3a36847f8002c15,0,691,Amrish Puri,3,87
+4,8,Chattar Lal,52fe4215c3a36847f8002c19,0,693,Roshan Seth,4,87
+5,9,Captain Blumburtt,52fe4215c3a36847f8002c1d,2,694,Philip Stone,5,87
+6,10,Lao Che,52fe4215c3a36847f8002c21,0,695,Roy Chiao,6,87
+7,11,Wu Han,52fe4215c3a36847f8002c25,0,696,David Yip,7,87
+8,12,Kao Kan,52fe4215c3a36847f8002c29,2,11397,Ric Young,8,87
+9,13,Chen,52fe4215c3a36847f8002c2d,0,699,Chua Kah Joo,9,87
+10,14,Maitre d',52fe4215c3a36847f8002c31,0,701,Rex Ngui,10,87
+11,15,Chief Henchman,52fe4215c3a36847f8002c35,2,702,Philip Tan,11,87
+12,16,Weber,52fe4215c3a36847f8002c39,2,707,Dan Aykroyd,12,87
+13,32,Chinese Pilot,5496e97f9251417315001633,0,1402218,Akio Mitamura,13,87
+14,33,Chinese Co-Pilot,5496eb479251416e2b006625,2,80123,Michael Yama,14,87
+15,34,Shaman,5496f4c4c3a368115300450b,0,1055317,D.R. Nanayakkara,15,87
+16,35,Chieftain,5496f51192514130fc004f7f,0,1402258,Dharmadasa Kuruppu,16,87
+17,36,Sajnu,5496f55c92514130fc004f89,0,1402260,Stany De Silva,17,87
+18,37,Village Woman,5496f5ef925141731500177c,0,1402261,Ruby de Mel,18,87
+19,38,Village Woman,5496f6d89251416e2b0067ac,0,1402263,Denavaka Hamine,19,87
+20,39,Village Woman,5496f81392514171620016bb,0,1402266,Iranganie Serasinghe,20,87
+21,40,Village Child,5496f92bc3a3686ae900680b,0,1402267,Dharshana Panangala,21,87
+22,41,Little Maharaja,549707fbc3a3686ae1006eb7,0,1402268,Raj Singh,22,87
+23,42,Merchant #1,549709f09251413f75004b98,2,977657,Frank Olegario,23,87
+24,43,Merchant #2,54970a3692514132ed004ba6,0,1402269,Ahmed El Shenawi,24,87
+25,44,Eel Eater,5497f1319251416e2b007e9b,2,735,Arthur F. Repola,25,87
+26,45,Sacrifice Victim,5497f1e0c3a3680fc6005cd4,0,213391,Nizwar Karanj,26,87
+27,46,Chief Guard,5497f351c3a3686af3007337,2,10942,Pat Roach,27,87
+28,47,Guard,5497f3e2c3a3686af3007342,0,1402504,Moti Makan,28,87
+29,48,Temple Guard,5497f4fdc3a3680511001102,0,215400,Mellan Mitchell,29,87
+30,49,Temple Guard,5497f6b3c3a3680fc6005d4d,2,119792,Bhasker Patel,30,87
+31,50,1st Boy in Cell,5497f6e3c3a368054b001224,0,1402509,Arjun Pandher,31,87
+32,51,2nd Boy in Cell,5497f776c3a3681153005b2a,0,1402514,Zia Gelani,32,87
+33,52,Dancer,5497f8519251417a810058ca,0,1402517,Debbie Astell,33,87
+34,53,Dancer,5497f8ef9251415447001055,0,1402521,Maureen Bacchus,34,87
+35,54,Dancer,5497f93ac3a368054b00126a,0,1402523,Corinne Barton,35,87
+36,55,Dancer,5497f9b69251416e2b007f96,0,1402527,Carol Beddington,36,87
+37,56,Dancer,5497fa35c3a36802a9000f30,0,1402528,Sharon Boone,37,87
+38,57,Dancer,54980f109251413f75006298,0,1402609,Elizabeth Burville,38,87
+39,58,Dancer,54980f8092514130fc0068f6,0,1402610,Marisa Campbell,39,87
+40,59,Dancer,54981215c3a3686ae900840a,0,1402613,Christine Cartwright,40,87
+41,60,Dancer,5498127092514132ed00636b,0,1402614,Andrea Chance,41,87
+42,61,Dancer,549812cd92514132ed006379,0,1402615,Jan Colton,42,87
+43,62,Dancer,54981328c3a36802a90011a2,0,1402616,Louise Dalgleish,43,87
+44,63,Dancer,549813fc925141544700135b,0,563900,Lorraine Doyle,44,87
+45,64,Dancer,5498143a9251417315003222,0,1402617,Vanessa Fieldwright,45,87
+46,65,Dancer,54981490c3a368051100146b,0,1402618,Brenda Glassman,46,87
+47,66,Dancer,549814d8c3a3680511001477,0,1402619,Elaine Gough,47,87
+48,67,Dancer,5498153b92514132ed0063ae,0,1402620,Sue Hadleigh,48,87
+49,68,Dancer,549815fa9251417a81005ba6,0,1402632,Sarah-Jane Hassell,49,87
+50,69,Dancer,549816bbc3a36805110014af,0,1402641,Samantha Hughes,50,87
+51,70,Dancer,549817db9251413f75006372,0,1402664,Julie Kirk,51,87
+52,71,Dancer,54981853c3a3680fc60060b6,0,1402666,Deirdre Laird,52,87
+53,72,Dancer,549818afc3a3680fc60060c0,0,1402669,Vicki McDonald,53,87
+54,73,Dancer,549818fb92514132ed006415,0,1402670,Nina McMahon,54,87
+55,74,Dancer,54981948c3a3680ff5006ce4,0,1402672,Julia Marstand,55,87
+56,75,Dancer,549819fe9251417a81005c14,0,1402675,Gaynor Martine,56,87
+57,76,Dancer,54981a6ac3a3680fc60060f7,0,1402676,Lisa Mulidore,57,87
+58,77,Dancer,54981ac292514132ed006443,0,1402677,Dawn Reddall,58,87
+59,78,Dancer,54981b00c3a3680fc600610b,0,1402678,Rebekkah Sekyi,59,87
+60,79,Dancer,54981b7cc3a368054b001671,0,1402682,Clare Smalley,60,87
+61,80,Dancer,54981be5c3a3680fc6006122,0,1402684,Lee Sprintall,61,87
+62,81,Dancer,54981c24c3a3681153005ef2,0,1402685,Jenny Turnock,62,87
+63,82,Dancer,54981c68c3a3681153005f04,0,1402686,Ruth Welby,63,87
+64,86,Thuggee in Railway Chase / Thuggee Knocked Off Ledge / Thuggee on Bridge (uncredited),5895b30dc3a3686222003e9b,2,1495190,Dickey Beer,64,87
+65,87,Missionary (uncredited),5895b3219251415a5b003ef1,2,20820,Sid Ganis,65,87
+66,88,Missionary (uncredited),5895b352c3a36822e0004ad5,2,1,George Lucas,66,87
+67,89,Tourist at Airport (uncredited),5895b372c3a36808ab00874c,2,664,Frank Marshall,67,87
+68,90,Tourist at Airport (uncredited),5895b37e9251415a5b003f39,2,488,Steven Spielberg,68,87
+0,8,Indiana Jones,52fe4216c3a36847f8002e1d,2,3,Harrison Ford,0,89
+1,9,Professor Henry Jones,52fe4216c3a36847f8002e21,2,738,Sean Connery,1,89
+2,10,Dr. Marcus Brody,52fe4216c3a36847f8002e25,2,656,Denholm Elliott,2,89
+3,11,Dr. Elsa Schneider,52fe4216c3a36847f8002e29,1,739,Alison Doody,3,89
+4,12,Sallah,52fe4216c3a36847f8002e2d,2,655,John Rhys-Davies,4,89
+5,13,Walter Donovan,52fe4216c3a36847f8002e31,2,740,Julian Glover,5,89
+6,14,Indiana Jones (young),52fe4216c3a36847f8002e35,2,741,River Phoenix,6,89
+7,15,Vogel,52fe4216c3a36847f8002e39,2,742,Michael Byrne,7,89
+8,16,Kazim,52fe4216c3a36847f8002e3d,2,743,Kevork Malikyan,8,89
+9,17,Grail Knight,52fe4216c3a36847f8002e41,2,744,Robert Eddison,9,89
+10,18,Fedora,52fe4216c3a36847f8002e45,2,745,Richard Young,10,89
+11,19,Sultan,52fe4216c3a36847f8002e49,2,746,Alexei Sayle,11,89
+12,20,Panama Hat,52fe4216c3a36847f8002e4d,2,748,Paul Maxwell,12,89
+13,21,Mrs. Donovan,52fe4216c3a36847f8002e51,1,749,Isla Blair,13,89
+14,33,Butler,52fe4216c3a36847f8002e97,2,649,Vernon Dobtcheff,14,89
+15,36,Young Henry,549936699251411f400008bc,0,747,Alex Hyde-White,15,89
+16,37,Herman,54993af79251411f4300095c,0,1402876,J. J. Hardy,16,89
+17,38,Roscoe,54993c9ec3a368270a000943,2,3039,Bradley Gregg,17,89
+18,39,Half Breed,54993e09c3a3682703000902,2,1020340,Jeff O'Haco,18,89
+19,40,Rough Rider,54994086c3a368270a0009a0,2,1402879,Vince Deadrick Sr.,19,89
+20,41,Sheriff,549942979251411f400009ca,2,1402887,Marc Miles,20,89
+21,42,Deputy Sheriff,549943629251411f400009e2,0,8591,Ted Grossman,21,89
+22,43,Young Panama Hat,549944019251411f450009d0,0,1402890,Tim Hiser,22,89
+23,44,Scout Master,549944ce9251411f40000a03,0,1402891,Larry Sanders,23,89
+24,45,Scout #1,549945789251411f5400098a,0,1402892,Will Miles,24,89
+25,46,Scout #2,5499464cc3a36826f8000b47,0,1402893,David Murray,25,89
+26,48,Professor Stanton,54994d0a9251411f43000aed,0,1270880,Jerry Harte,27,89
+27,49,Dr. Mulbray,54994e259251411f54000a2b,0,55911,Billy J. Mitchell,28,89
+28,50,Man at Hitler Rally,54994f179251411f45000a9f,0,1402913,Martin Gordon,29,89
+29,51,German Officer at Hitler Rally,549950519251411f40000ab3,0,158674,Paul Humpoletz,30,89
+30,52,Hatay Soldier in Temple,549950c0c3a3682703000a7f,0,1402917,Tom Branch,31,89
+31,53,Zeppelin Crewman,5499518fc3a36826f8000c22,0,1402919,Graeme Crowther,32,89
+32,54,Principal SS Officer at Castle,549952679251411f43000b60,0,1402922,Luke Hanson,33,89
+33,55,Officer at Castle,549952fb9251411f52000b48,0,1402925,Chris Jenkinson,34,89
+34,56,Female Officer at Castle,549961a59251411f43000ce0,0,1402957,Nicola Scott,35,89
+35,57,Young Officer at Castle,5499627a9251411f45000c54,0,1402960,Louis Sheldon,36,89
+36,58,Hatay Tank Gunner,549964e39251411f54000c2e,2,25079,Stefan Kalipha,37,89
+37,59,Hatay Tank Driver,5499673dc3a368270e000bbc,0,81030,Peter Pacey,38,89
+38,60,Gestapo,5499677a9251411f43000d89,2,10942,Pat Roach,39,89
+39,61,Film Director,549968649251411f4b000cd6,1,43496,Suzanne Roquette,40,89
+40,62,G-Man,54996a4bc3a36826f8000e69,2,28871,Eugene Lipinski,41,89
+41,63,Man on Zeppelin,54996cc09251411f54000cde,2,1229130,George Malpas,42,89
+42,64,Irene,54996d069251411f4b000d5a,0,1402970,Julie Eccles,43,89
+43,65,Flower Girl,54996e31c3a3682707000c58,0,1032068,Nina Armstrong,44,89
+44,67,Gestapo,571811829251411b090021d5,2,653,Ronald Lacey,45,89
+45,68,Tank Crewman Hit by Periscope (uncredited),571811b09251412b37001f17,2,7024,Nick Gillard,46,89
+46,70,German Soldier (uncredited),571811e4c3a3686c830024e6,2,1271092,Derek Lyons,47,89
+47,71,Passenger on Airship (uncredited),571812189251411b090021e9,1,1228240,Lee Richards,48,89
+48,72,Adolf Hitler (uncredited),57181239c3a3687c2c002166,2,70417,Michael Sheard,49,89
+49,73,Tank Crewman (uncredited),5718125f9251413d30003c1a,2,10213,Tip Tipping,50,89
+50,99,World War One Ace,58887b77c3a36859e900d76b,2,184862,Frederick Jaeger,51,89
+0,6,Det. Axel Foley,52fe4216c3a36847f8002f03,2,776,Eddie Murphy,0,90
+1,7,Det. William 'Billy' Rosewood,52fe4216c3a36847f8002f07,2,777,Judge Reinhold,1,90
+2,8,Det. Sgt. John Taggart,52fe4216c3a36847f8002f0b,2,778,John Ashton,2,90
+3,10,Lt. Andrew Bogomil,52fe4216c3a36847f8002f13,2,780,Ronny Cox,3,90
+4,11,Jeffrey,52fe4216c3a36847f8002f17,2,781,Paul Reiser,4,90
+5,17,Insp. Douglas Todd,52fe4216c3a36847f8002f2f,2,787,Gilbert R. Hill,5,90
+6,9,Jeannette 'Jenny' Summers,52fe4216c3a36847f8002f0f,1,779,Lisa Eilbacher,6,90
+7,12,Victor Maitland,52fe4216c3a36847f8002f1b,2,782,Steven Berkoff,7,90
+8,15,Mikey Tandino,52fe4216c3a36847f8002f27,2,785,James Russo,8,90
+9,13,"Zack, Maitland's Thug",52fe4216c3a36847f8002f1f,2,783,Jonathan Banks,9,90
+10,16,Police Chief Hubbard,52fe4216c3a36847f8002f2b,2,786,Stephen Elliott,10,90
+11,14,Serge,52fe4216c3a36847f8002f23,2,4689,Bronson Pinchot,11,90
+12,20,Casey,52fe4216c3a36847f8002f3b,2,790,Michael Champion,12,90
+13,38,Hotel Manager,57bc804ec3a368227c007a8c,2,59221,Michael Gregory,13,90
+14,39,Bonded Warehouse Night Supervisor,57bc8119c3a368301300ac0f,2,1539,Rick Overton,14,90
+15,40,Banana Man,57bc812ac3a36822f20078f9,2,22675,Damon Wayans,15,90
+16,18,Det. Foster,52fe4216c3a36847f8002f33,0,788,Art Kimbro,16,90
+17,19,Det. McCabe,52fe4216c3a36847f8002f37,0,789,Joel Bailey,17,90
+0,7,Harry S. Stamper,52fe4216c3a36847f800316b,2,62,Bruce Willis,0,95
+1,8,"Dan Truman, NASA Administrator",52fe4216c3a36847f800316f,2,879,Billy Bob Thornton,1,95
+2,9,A.J. Frost,52fe4216c3a36847f8003173,2,880,Ben Affleck,2,95
+3,10,Grace Stamper,52fe4216c3a36847f8003177,1,882,Liv Tyler,3,95
+4,11,Charles 'Chick' Chapple,52fe4216c3a36847f800317b,2,883,Will Patton,4,95
+5,12,Rockhound,52fe4216c3a36847f800317f,2,884,Steve Buscemi,5,95
+6,13,"Colonel William Sharp, Shuttle Freedom Pilot",52fe4216c3a36847f8003183,2,886,William Fichtner,6,95
+7,15,Jayotis 'Bear' Kurleenbear,52fe4216c3a36847f8003187,2,61981,Michael Clarke Duncan,7,95
+8,16,"Lev Andropov, Russian Cosmonaut",52fe4216c3a36847f800318b,2,53,Peter Stormare,8,95
+9,31,Oscar Choi,52fe4216c3a36847f80031e3,2,887,Owen Wilson,9,95
+10,32,Max,52fe4216c3a36847f80031e7,2,236327,Ken Hudson Campbell,10,95
+11,33,Co-Pilot Jennifer Watts,52fe4216c3a36847f80031eb,1,42707,Jessica Steen,11,95
+12,34,Flight Director Clark,52fe4216c3a36847f80031ef,2,8191,Chris Ellis,12,95
+13,35,General Kimsey,52fe4216c3a36847f80031f3,2,65827,Keith David,13,95
+14,36,Ronald Quincy,52fe4216c3a36847f80031f7,2,11355,Jason Isaacs,14,95
+15,42,Colonel Davis,539824c50e0a266db400c7ec,2,63941,Marshall R. Teague,15,95
+16,43,General Boffer,5398251d0e0a266db700c72e,2,93958,J. Patrick McCormack,16,95
+17,44,Astronaut Pete Shelby,539825660e0a266dbf00c5f7,0,1329760,Ian Quinn,17,95
+18,45,Narrator,53ead48cc3a36868a0000546,2,10017,Charlton Heston,18,95
+19,46,Bike Messenger,53ead4a1c3a3686891000576,2,62842,Eddie Griffin,19,95
+20,143,Max's Mom,56ad4d14c3a3681c540072eb,0,1232170,Sage Allen,20,95
+21,117,Dottie,5492a342c3a36860680006a2,1,6465,Grace Zabriskie,21,95
+22,146,Gruber,57b20ab49251411a78000db3,2,42373,Grayson McCouch,22,95
+23,147,Noonan,57b20b5e92514147e000352e,2,230726,Clark Heathcliffe Brolly,23,95
+24,149,Halsey,57b20edd9251414e1a0000a1,2,58950,Greg Collins,24,95
+25,150,Karl,57b2109cc3a36831660000ef,2,43978,John Mahon,25,95
+26,151,Samoan,57b214f4c3a3686a21001033,2,1666701,K.C. Leomiti,26,95
+27,118,President,5492a371925141090e0012ea,2,15253,Stanley Anderson,27,95
+28,119,Admiral Kelso,5492a3f0925141090c001364,2,167178,James Harper,28,95
+29,158,Chuck Jr.,57b21fc2c3a36830a100059e,2,1554033,Harry Humphries,29,95
+30,120,Helga the Nurse,5492a41192514118f2001196,0,1232807,Ellen Cleghorne,30,95
+31,121,Psychologist,5492a428c3a3683cf800121f,2,1646,Udo Kier,31,95
+32,148,Co-Pilot Tucker,57b20d499251411a78000e66,2,42731,Anthony Guidera,32,95
+33,159,Tommy,57b22083c3a36830f00006c7,2,1219216,Dyllan Christopher,33,95
+34,160,Denise,57b220a1c3a3683534005653,1,45041,Judith Hoag,34,95
+35,152,Client #1,57b216e09251410e92004a60,1,1666702,Deborah Nishimura,35,95
+36,153,Client #2,57b21747c3a3683534005349,2,1666703,Albert Wong,36,95
+37,154,Client #3,57b21829c3a36830db0003de,2,1217015,Jim Ishida,37,95
+38,155,Dr. Banks,57b219d8c3a36830f000045d,2,103833,John Aylward,38,95
+39,156,Stu the Cabbie,57b21bb5c3a3686a21001269,2,181975,Mark Curry,39,95
+40,157,Asian Tourist - Female,57b21c98c3a36830a10004a4,1,120528,Seiko Matsuda,40,95
+41,161,Nuke Tech,57b222709251414e4d000738,2,9258,Steven Ford,41,95
+42,162,Droning Guy,57b222ab9251414e9e00071b,2,41517,Christian Clemenson,42,95
+43,163,Redhead,57b22d53c3a36830f0000b84,1,2138,Shawnee Smith,43,95
+44,164,Math Guy,57b22d83c3a3686a2100184e,2,154883,Bodhi Elfman,44,95
+45,165,Italian Newscaster,57b22de29251411a780018df,1,41129,Dina Morrone,45,95
+46,181,British Newscaster,57b23bd9c3a3683136000db8,2,1666730,Patrick Lander,46,95
+47,180,Dr. Nerd,57b23aed9251414e9e000ef6,2,123686,Brian Mulligan,47,95
+48,179,Dr. Nerd,57b23ad99251414e1a000eb1,2,31471,Patrick Richwood,48,95
+49,171,NASA Planner #1,57b2337ec3a36830f0000dea,2,1583767,Frank Van Keeken,49,95
+50,170,NASA Techs,57b2324c9251410e92005228,2,93846,Googy Gress,50,95
+51,168,NASA Techs,57b232219251414e4d000ca9,2,143017,Frederick Weller,51,95
+52,169,NASA Techs,57b232339251414784004139,0,1212471,Jeff Austin,52,95
+53,172,NASA Techs,57b2351f9251414e4d000da1,2,19208,Matt Malloy,53,95
+54,173,NASA Techs,57b235319251414784004221,2,157426,H. Richard Greene,54,95
+55,174,NASA Techs,57b236eac3a3683166000d03,2,48587,Brian Brophy,55,95
+56,175,NASA Techs,57b2378e9251410e920053b3,2,95233,Peter Murnik,56,95
+57,176,NASA Techs,57b23880c3a36830db000e75,2,1557939,Brian Hayes Currie,57,95
+58,177,NASA Techs,57b239bd9251414e7a000ed8,2,1043304,Andy Milder,58,95
+59,178,NASA Techs,57b23a48c3a3686a21001c45,2,605,Michael Kaplan,59,95
+60,184,Roughneck #1,594e79b9925141315503a86c,0,1390113,Duke Valenti,60,95
+61,185,Roughneck #2,594e79ce925141314b0389c7,2,87360,Michael Taliferro,61,95
+62,183,Roughneck #3,594e7987c3a36832bd038184,2,1838353,Billy Devlin,62,95
+63,167,NASA Techs (uncredited),57b231939251411a45001adf,1,1666727,Michele Edison,63,95
+64,122,NASA Scientist (uncredited),551b911a9251413f6f0010ea,2,865,Michael Bay,64,95
+65,145,Injured Girl (uncredited),57266df89251413309003b91,1,106243,Mary Ann Schmidt,65,95
+66,166,Presidential Cabinet Member (uncredited),57b2317e9251414e7a000c57,0,167755,Judi Beecher,66,95
+0,17,Det. Axel Foley,52fe4217c3a36847f80032a9,2,776,Eddie Murphy,0,96
+1,18,Det. William 'Billy' Rosewood,52fe4217c3a36847f80032ad,2,777,Judge Reinhold,1,96
+2,19,Det. Sgt. John Taggart,52fe4217c3a36847f80032b1,2,778,John Ashton,2,96
+3,21,Capt./Chief Andrew Bogomil,52fe4217c3a36847f80032b9,2,780,Ronny Cox,3,96
+4,24,Det. Jeffrey Friedman,52fe4217c3a36847f80032c5,2,781,Paul Reiser,4,96
+5,25,Insp. Douglas Todd,52fe4217c3a36847f80032c9,2,787,Gilbert R. Hill,5,96
+6,22,Karla Fry,52fe4217c3a36847f80032bd,1,921,Brigitte Nielsen,6,96
+7,23,Charles 'Chip' Cain,52fe4217c3a36847f80032c1,2,923,Dean Stockwell,7,96
+8,20,Maxwell Dent,52fe4217c3a36847f80032b5,2,920,Jürgen Prochnow,8,96
+9,29,Police Chief Harold Lutz,52fe4217c3a36847f80032d9,2,922,Allen Garfield,9,96
+10,26,Nikos Thomopolis,52fe4217c3a36847f80032cd,2,925,Paul Guilfoyle,10,96
+11,46,Mayor Egan,575f0bcbc3a3684e460002de,2,25626,Robert Ridgely,11,96
+12,30,Playboy Mansion Valet,52fe4217c3a36847f80032dd,2,2632,Chris Rock,12,96
+13,52,Sidney Bernstein,575f0e12c3a3684e22000330,2,15832,Gilbert Gottfried,13,96
+14,47,Biddle,575f0c76c3a3684e41000302,0,101279,Brian O'Connor,14,96
+15,48,Jan Bogomil,575f0cce9251417dd400030c,0,1590786,Alice Adair,15,96
+16,49,May,575f0cebc3a3684e3e000302,2,87479,Eugene Butler,16,96
+17,54,Stripper,575f0ee7c3a3684e3e000349,0,95428,Peggy McIntaggart,17,96
+18,45,Maitre d' at 385,572668c49251411e9f00428d,2,1379424,Darryl Henriques,18,96
+19,55,Orvis,575f0f6e9251417dda000346,2,8396,Tom Lister Jr.,19,96
+20,28,Playboy Playmate,52fe4217c3a36847f80032d5,0,928,Rebecca Ferratti,20,96
+21,58,Playboy Playmate,57c07dddc3a3687332002412,1,175055,Kymberly Herrin,21,96
+22,50,Himself,575f0d9cc3a3684e25000335,2,31309,Hugh M. Hefner,22,96
+23,51,Herself,575f0de89251417dd7000317,0,1416801,Carrie Leigh,23,96
+24,53,Stripper,575f0ed09251417dd100033a,0,106798,Teal Roberts,24,96
+25,27,Playboy Playmate,52fe4217c3a36847f80032d1,1,926,Ola Ray,25,96
+26,59,Barkeep,59592367c3a36828a102bb96,0,122076,Kopi Sotiropulos,26,96
+0,8,Maximus,52fe4217c3a36847f8003435,2,934,Russell Crowe,0,98
+1,9,Commodus,52fe4217c3a36847f8003439,2,73421,Joaquin Phoenix,1,98
+2,10,Lucilla,52fe4217c3a36847f800343d,1,935,Connie Nielsen,2,98
+3,11,Proximo,52fe4217c3a36847f8003441,2,936,Oliver Reed,3,98
+4,12,Marcus Aurelius,52fe4217c3a36847f8003445,2,194,Richard Harris,4,98
+5,13,Gracchus,52fe4217c3a36847f8003449,2,937,Derek Jacobi,5,98
+6,14,Juba,52fe4217c3a36847f800344d,2,938,Djimon Hounsou,6,98
+7,15,Falco,52fe4217c3a36847f8003451,0,939,David Schofield,7,98
+8,16,Gaius,52fe4217c3a36847f8003455,2,940,John Shrapnel,8,98
+9,17,Quintus,52fe4217c3a36847f8003459,2,941,Tomas Arana,9,98
+10,18,Hagen,52fe4217c3a36847f800345d,2,942,Ralf Moeller,10,98
+11,28,Cicero,52fe4217c3a36847f8003491,2,2478,Tommy Flanagan,11,98
+12,29,Lucius,52fe4217c3a36847f8003495,2,4012,Spencer Treat Clark,12,98
+13,30,Cassius,52fe4217c3a36847f8003499,2,15196,David Hemmings,13,98
+14,31,Tigris,52fe4217c3a36847f800349d,2,20761,Sven-Ole Thorsen,14,98
+15,33,Maximus' Wife,52fe4217c3a36847f80034a5,1,58787,Giannina Facio,15,98
+16,32,Praetorian Guard #1,52fe4217c3a36847f80034a1,2,1052482,Alun Raglan,16,98
+17,106,Maximus' Son,55338bc39251415295004f7b,0,9236,Giorgio Cantarini,17,98
+18,107,Engineer,55338c25c3a368221f004b9c,2,1715,David Bailie,18,98
+19,108,Slave Trader,55338c68925141101400343c,2,41379,Omid Djalili,19,98
+20,109,Praetorian Officer,569fc6719251415e5e00a3b2,2,80368,Nicholas McGaughey,20,98
+21,110,Assassin #1,569fc6aa925141095800674c,2,2220,Tony Curran,21,98
+22,111,Assassin #2,569fc91ac3a36858dc00a2bd,2,27408,Mark Lewis,22,98
+23,112,Valerius,569fc97a925141370b002b9a,2,200689,John Quinn,23,98
+24,146,Rome Trainer #1,58a9b2b7c3a3680b8d008e04,2,124314,Al Hunter Ashton,25,98
+25,114,Trainer 1,569fcc03c3a36858ce00a784,2,78018,Allan Corduner,26,98
+26,115,Trainer 2,569fcc299251413849002b07,2,96993,Michael Mellinger,27,98
+27,116,Proximo's Man,569fcc56c3a36858e500aedb,0,27654,Said Amel,28,98
+28,117,Officer 1,569fcc969251412ec7002d59,2,1376050,Adam Levy,29,98
+29,118,Officer 2,569fcce89251410958006837,0,1475236,Gilly Gilchrist,30,98
+30,119,Centurion (uncredited),569fcd58c3a36858dc00a356,0,1206006,Malcolm Ellul,31,98
+31,120,Centurion (uncredited),569fcd79925141370b002c39,0,1114427,Ray Mangion,32,98
+32,121,Roman Soldier (uncredited),569fcdac92514137d6002ab5,0,1207203,James Fiddy,33,98
+33,122,Roman Soldier (uncredited),569fce21c3a36858c800a084,0,1207207,João Costa Menezes,34,98
+34,123,Fighter (uncredited),569fcf1cc3a36858cb009879,0,168524,Mike Mitchell,35,98
+35,124,Sedan Chair Carrier (uncredited),569fcf9bc3a36858cb00988a,0,1566178,Norman Campbell Rees,36,98
+36,125,German Barbarian (uncredited),569fd03c9251412ec7002df0,0,1566183,Steve Saunders,37,98
+37,126,Coliseum Gladiator (uncredited),569fd0a29251415e6700a586,0,1434599,Brian Smyj,38,98
+0,12,Tom,52fe4217c3a36847f80035fb,2,973,Jason Flemyng,0,100
+1,13,Soap,52fe4217c3a36847f80035ff,2,974,Dexter Fletcher,1,100
+2,14,Eddie,52fe4217c3a36847f8003603,2,975,Nick Moran,2,100
+3,15,Bacon,52fe4217c3a36847f8003607,2,976,Jason Statham,3,100
+4,17,Big Chris,52fe4217c3a36847f800360f,2,980,Vinnie Jones,4,100
+5,18,JD,52fe4217c3a36847f8003613,0,982,Sting,5,100
+6,16,Winston,52fe4217c3a36847f800360b,2,978,Steven Mackintosh,6,100
+7,19,J,52fe4217c3a36847f8003617,2,984,Nicholas Rowe,7,100
+8,22,Barry the Baptist,52fe4217c3a36847f8003623,2,987,Lenny McLean,8,100
+9,24,'Hatchet' Harry Lonsdale,52fe4217c3a36847f800362b,0,989,P.H. Moriarty,9,100
+10,25,Dog,52fe4217c3a36847f800362f,2,990,Frank Harper,10,100
+11,27,Paul,52fe4217c3a36847f8003637,2,992,Huggy Leaver,11,100
+12,29,Nick the Greek,52fe4217c3a36847f800363f,2,994,Stephen Marcus,12,100
+13,23,Little Chris,52fe4217c3a36847f8003627,2,988,Peter McNicholl,13,100
+14,20,Charles,52fe4217c3a36847f800361b,0,985,Nick Marcq,14,100
+15,28,John,52fe4217c3a36847f800363b,2,993,Tony McMahon,15,100
+16,26,Plank,52fe4217c3a36847f8003633,2,991,Steve Sweeney,16,100
+17,21,Willie,52fe4217c3a36847f800361f,2,986,Charles Forbes,17,100
+18,30,Rory Breaker,52fe4217c3a36847f8003643,2,995,Vas Blackwood,18,100
+19,31,Dean,52fe4217c3a36847f8003647,2,4317,Jake Abraham,19,100
+20,32,Gary,52fe4217c3a36847f800364b,2,4318,Victor McGuire,20,100
+21,35,Barfly Jack,550c8bc89251413443001cbb,0,115787,Danny John-Jules,21,100
+22,36,Nathan,56d9cf72c3a36870ac0109c2,2,1473866,Elwin 'Chopper' David,22,100
+23,37,Tanya,57676387c3a36840b4000d4a,1,236388,Vera Day,23,100
+24,38,Traffic Warden,588289d5925141303e01291d,2,47632,Rob Brydon,24,100
+25,39,Alan / Narrator,588289e9c3a368146701265e,2,1116,Alan Ford,25,100
+26,40,Man in Pub,588289fd925141303a012ecb,2,17290,Andrew Tiernan,26,100
+0,5,Travis Bickle,52fe4218c3a36847f80037d7,2,380,Robert De Niro,0,103
+1,6,Betsy,52fe4218c3a36847f80037db,1,1036,Cybill Shepherd,1,103
+2,7,'Sport' Matthew,52fe4218c3a36847f80037df,2,1037,Harvey Keitel,2,103
+3,8,Iris Steensma,52fe4218c3a36847f80037e3,1,1038,Jodie Foster,3,103
+4,9,Wizard,52fe4218c3a36847f80037e7,2,1039,Peter Boyle,4,103
+5,10,Senator Charles Palantine,52fe4218c3a36847f80037eb,2,1040,Leonard Harris,5,103
+6,11,Tom,52fe4218c3a36847f80037ef,2,13,Albert Brooks,6,103
+7,12,Concession Girl,52fe4218c3a36847f80037f3,1,1041,Diahnne Abbott,7,103
+8,14,Policeman al rally,52fe4218c3a36847f80037f7,0,1043,Gino Ardito,8,103
+9,29,Man in cab,52fe4218c3a36847f800384f,2,1032,Martin Scorsese,9,103
+10,30,Iris' Time Keeper,52fe4218c3a36847f8003853,2,77255,Murray Moston,10,103
+11,31,Secret Service Agent,52fe4218c3a36847f8003857,0,1274408,Richard Higgs,11,103
+12,33,Tom's Assistant,52fe4218c3a36847f800385b,0,1274409,Bill Minkin,12,103
+13,34,Mafioso,52fe4218c3a36847f800385f,0,169093,Bob Maroff,13,103
+14,39,"Melio, Delicatessen Owner",52fe4218c3a36847f8003863,2,2561,Victor Argo,14,103
+15,40,Personell Officer,53bb26ac0e0a2619780006b7,2,16525,Joe Spinell,15,103
+16,46,Angry Black Man,56018aae925141754c0006a1,2,1042,Frank Adu,16,103
+17,47,Soap Opera Woman,56018b34c3a3685620001c55,0,101977,Brenda Dickson,17,103
+18,48,Charlie T,56018bc1925141775d0017df,0,84684,Norman Matlock,18,103
+19,49,Doughboy,56018bf1c3a3685618001d7c,2,127738,Harry Northup,19,103
+20,50,Campaign Worker,56018c2f9251412296001c21,0,954132,Harlan Cary Poe,20,103
+21,51,Andy - Gun Salesman,56018c579251412285001bee,2,76155,Steven Prince,21,103
+22,52,The John,56018c95c3a3685625001c79,0,1422613,Peter Savage,22,103
+23,53,Palantine's Aide,56018d28c3a3685620001ca7,2,194066,Nicholas Shields,23,103
+24,54,T.V. Interviewer,56018d4c9251412290001c7d,2,18855,Ralph S. Singleton,24,103
+25,55,Campaign Worker (uncredited),56018dd1c3a3685618001dc0,1,170830,Annie Gagen,25,103
+26,56,Political rallier (uncredited),56018e13c3a3685618001dd2,2,71813,Carson Grant,26,103
+27,57,Campaign Aide (uncredited),56018e47925141754c00071d,1,1213088,Mary-Pat Green,27,103
+28,58,Girl at Columbus Circle (uncredited),56018ea3c3a36856100023d5,1,88161,Debbi Morgan,28,103
+29,59,Policeman (uncredited),56018ed8c3a36856100023e1,2,69494,Don Stroud,29,103
+0,11,Lola,52fe4218c3a36847f80038df,1,679,Franka Potente,0,104
+1,12,Manni,52fe4218c3a36847f80038e3,2,677,Moritz Bleibtreu,1,104
+2,13,Lola's Father,52fe4218c3a36847f80038e7,2,1081,Herbert Knaup,2,104
+3,14,Frau Hansen,52fe4218c3a36847f80038eb,0,1082,Nina Petri,3,104
+4,15,Herr Schuster,52fe4218c3a36847f80038ef,2,1083,Armin Rohde,4,104
+5,16,Homeless Man,52fe4218c3a36847f80038f3,2,1084,Joachim Król,5,104
+6,18,Ronnie,52fe4218c3a36847f80038f7,2,1086,Heino Ferch,6,104
+7,19,Herr Kruse,52fe4218c3a36847f80038fb,0,1087,Lars Rudolph,7,104
+8,20,Herr Meier,52fe4218c3a36847f80038ff,2,1088,Ludger Pistor,8,104
+9,25,Mike,52fe4218c3a36847f8003915,0,3702,Sebastian Schipper,10,104
+10,26,Mother,52fe4218c3a36847f8003919,0,3703,Ute Lubosch,11,104
+11,27,Doris,52fe4218c3a36847f800391d,1,3704,Julia Lindig,12,104
+12,28,Cleaning Person,52fe4218c3a36847f8003921,0,3705,Andreas Petri,13,104
+13,29,Croupier,52fe4218c3a36847f8003925,0,3706,Klaus Müller,14,104
+14,30,Casino Manager,52fe4218c3a36847f8003929,0,3707,Utz Krause,15,104
+15,31,Ambulance Driver,52fe4218c3a36847f800392d,2,3708,Volkhart Buff,16,104
+16,33,Blind Woman,52fe4218c3a36847f8003937,1,16782,Monica Bleibtreu,17,104
+17,35,Frau Jäger,52fe4218c3a36847f8003941,0,142653,Suzanne von Borsody,18,104
+18,36,Polizist (uncredited),55df3d45c3a368346e0000e4,0,1194754,Marc Bischoff,19,104
+19,37,Casino-Kassiererin (uncredited),55df3d81c3a36834700000f3,0,1032959,Beate Finckh,20,104
+20,38,Erzähler (voice) (uncredited),55df3dd992514128110000c9,2,46198,Hans Paetsch,21,104
+21,39,Wachmann Supermarkt (uncredited),55df3e1ac3a36834700000fd,2,13741,Peter Pauli,22,104
+22,40,Man on picture (uncredited),569eddd8c3a36858c8007b62,2,4780,Wolfgang Becker,23,104
+0,14,Marty McFly,52fe4218c3a36847f8003a13,2,521,Michael J. Fox,0,105
+1,15,Dr. Emmett Brown,52fe4218c3a36847f8003a17,2,1062,Christopher Lloyd,1,105
+2,16,Lorraine Baines,52fe4218c3a36847f8003a1b,1,1063,Lea Thompson,2,105
+3,17,George McFly,52fe4218c3a36847f8003a1f,2,1064,Crispin Glover,3,105
+4,18,Biff Tannen,52fe4218c3a36847f8003a23,2,1065,Thomas F. Wilson,4,105
+5,19,Jennifer Parker,52fe4218c3a36847f8003a27,1,1066,Claudia Wells,5,105
+6,20,Dave McFly,52fe4218c3a36847f8003a2b,2,1067,Marc McClure,6,105
+7,21,Linda McFly,52fe4218c3a36847f8003a2f,1,1068,Wendie Jo Sperber,7,105
+8,22,Sam Baines,52fe4218c3a36847f8003a33,0,1069,George DiCenzo,8,105
+9,23,Stella Baines,52fe4218c3a36847f8003a37,1,1070,Frances Lee McCain,9,105
+10,24,Mr. Strickland,52fe4218c3a36847f8003a3b,2,1072,James Tolkan,10,105
+11,25,Marvin Berry,52fe4218c3a36847f8003a3f,0,1074,"Harry Waters, Jr.",11,105
+12,26,Match,52fe4218c3a36847f8003a43,2,1954,Billy Zane,12,105
+13,27,Skinhead,52fe4218c3a36847f8003a47,2,11673,J.J. Cohen,13,105
+14,28,3-D,52fe4218c3a36847f8003a4b,2,1953,Casey Siemaszko,14,105
+15,29,Goldie Wilson,52fe4218c3a36847f8003a4f,0,84494,Donald Fullilove,15,105
+16,30,Babs,52fe4218c3a36847f8003a53,0,97708,Lisa Freeman,16,105
+17,31,Betty,52fe4218c3a36847f8003a57,1,1116544,Cristen Kauffman,17,105
+18,32,Clocktower Lady,52fe4218c3a36847f8003a5b,1,172280,Elsa Raven,18,105
+19,33,Pa Peabody,52fe4218c3a36847f8003a5f,2,97718,Will Hare,19,105
+20,34,Ma Peabody,52fe4218c3a36847f8003a63,1,129319,Ivy Bethune,20,105
+21,35,Sherman Peabody,52fe4218c3a36847f8003a67,2,184030,Jason Marin,21,105
+22,36,Daughter Peabody,52fe4218c3a36847f8003a6b,0,1200788,Katherine Britton,22,105
+23,37,Milton Baines,52fe4218c3a36847f8003a6f,2,94500,Jason Hervey,23,105
+24,38,Sally Baines,52fe4218c3a36847f8003a73,0,139044,Maia Brewton,24,105
+25,39,Dixon,52fe4218c3a36847f8003a77,2,18708,Courtney Gains,25,105
+26,40,Terrorist,52fe4218c3a36847f8003a7b,0,238572,Richard L. Duran,26,105
+27,41,Terrorist Van Driver,52fe4218c3a36847f8003a7f,2,1020340,Jeff O'Haco,27,105
+28,42,Scooter Kid #1,52fe4218c3a36847f8003a83,2,21065,Johnny Green,28,105
+29,43,Scooter Kid #2,52fe4218c3a36847f8003a87,0,158713,Jamie Abbott,29,105
+30,64,Lou,530a6612c3a36863b1003f64,2,7139,Norman Alden,30,105
+31,45,Cop,52fe4218c3a36847f8003a8f,2,99725,Read Morgan,31,105
+32,46,Bystander #1,52fe4218c3a36847f8003a93,1,77874,Sachi Parker,32,105
+33,47,Bystander #2,52fe4218c3a36847f8003a97,2,160343,Robert Krantz,33,105
+34,48,Guy #1,52fe4218c3a36847f8003a9b,0,3038,Gary Riley,34,105
+35,49,Girl #1,52fe4218c3a36847f8003a9f,0,175060,Karen Petrasek,35,105
+36,97,Red Thomas - The Bum,5860223592514115c0021e98,2,54564,George Buck Flower,36,105
+37,51,Starlighter,52fe4218c3a36847f8003aa7,0,1200791,Tommy Thomas,37,105
+38,52,Starlighter,52fe4218c3a36847f8003aab,0,1200792,Granville 'Danny' Young,38,105
+39,53,Starlighter,52fe4218c3a36847f8003aaf,0,1200793,David Harold Brown,39,105
+40,54,Starlighter,52fe4218c3a36847f8003ab3,0,1200794,Lloyd L. Tolbert,40,105
+41,55,Pinhead,52fe4218c3a36847f8003ab7,2,964124,Paul Hanson,41,105
+42,56,Pinhead,52fe4218c3a36847f8003abb,0,1200796,Lee Brownfield,42,105
+43,57,Pinhead,52fe4218c3a36847f8003abf,0,180468,Robert DeLapp,43,105
+44,58,Man driving jeep - 1985 (uncredited),52fe4218c3a36847f8003ac3,2,16474,Walter Scott,44,105
+45,59,1955 Radio Announcer (voice) (uncredited),52fe4218c3a36847f8003ac7,2,9971,Charles L. Campbell,45,105
+46,60,TV Newscaster (uncredited),52fe4218c3a36847f8003acb,1,100600,Deborah Harmon,46,105
+47,61,High School Girl (uncredited),52fe4218c3a36847f8003acf,0,1200797,Janine King,47,105
+48,62,High School Band Audition Judge (uncredited),52fe4218c3a36847f8003ad3,2,168702,Huey Lewis,48,105
+49,63,Student (uncredited),52fe4218c3a36847f8003ad7,0,553735,Tom Tangen,49,105
+50,75,Wilbur (uncredited),55d2a8dcc3a368696a0009c8,0,1208039,Arthur Tovey,50,105
+0,13,Major Alan 'Dutch' Schaeffer,52fe4218c3a36847f8003b53,2,1100,Arnold Schwarzenegger,0,106
+1,14,Major George Dillon,52fe4218c3a36847f8003b57,0,1101,Carl Weathers,1,106
+2,15,Anna,52fe4218c3a36847f8003b5b,1,1102,Elpidia Carrillo,2,106
+3,16,Sergeant 'Mac' Eliot,52fe4218c3a36847f8003b5f,2,1103,Bill Duke,3,106
+4,17,Blain,52fe4218c3a36847f8003b63,2,1104,Jesse Ventura,4,106
+5,18,Billy,52fe4218c3a36847f8003b67,2,1105,Sonny Landham,5,106
+6,19,Poncho Ramirez,52fe4218c3a36847f8003b6b,2,1106,Richard Chaves,6,106
+7,20,General Phillips,52fe4218c3a36847f8003b6f,2,1107,R. G. Armstrong,7,106
+8,21,Hawkins,52fe4218c3a36847f8003b73,2,1108,Shane Black,8,106
+9,23,Helicopter Pilot / Predator,52fe4218c3a36847f8003b7b,2,1109,Kevin Peter Hall,10,106
+10,25,Russian Officer (uncredited),5742adfe9251416ce6002052,2,20761,Sven-Ole Thorsen,11,106
+0,10,Turkish,52fe4218c3a36847f8003be1,2,976,Jason Statham,0,107
+1,11,Mickey O'Neil,52fe4218c3a36847f8003be5,2,287,Brad Pitt,1,107
+2,13,Bullet Tooth Tony,52fe4218c3a36847f8003bed,2,980,Vinnie Jones,2,107
+3,15,Abraham 'Cousin Avi' Denovitz,52fe4219c3a36847f8003bf5,2,1117,Dennis Farina,3,107
+4,19,Franky Four Fingers,52fe4219c3a36847f8003c05,2,1121,Benicio del Toro,4,107
+5,12,Tommy,52fe4218c3a36847f8003be9,2,1115,Stephen Graham,5,107
+6,14,Brick Top Polford,52fe4218c3a36847f8003bf1,2,1116,Alan Ford,6,107
+7,16,Boris 'The Blade' Yurinov,52fe4219c3a36847f8003bf9,2,1118,Rade Serbedzija,7,107
+8,17,Vincent,52fe4219c3a36847f8003bfd,0,1119,Robbie Gee,8,107
+9,18,Sol,52fe4219c3a36847f8003c01,2,1120,Lennie James,9,107
+10,20,Doug 'The Head' Denovitz,52fe4219c3a36847f8003c09,2,1122,Mike Reid,10,107
+11,21,Darren,52fe4219c3a36847f8003c0d,2,973,Jason Flemyng,11,107
+12,22,Errol,52fe4219c3a36847f8003c11,0,1123,Andy Beckwith,12,107
+13,23,Neil,52fe4219c3a36847f8003c15,0,1124,William Beck,13,107
+14,24,Mullet,52fe4219c3a36847f8003c19,2,1125,Ewen Bremner,14,107
+15,26,Gorgeous George,52fe4219c3a36847f8003c21,2,2302,Adam Fogerty,15,107
+16,27,Tyrone,52fe4219c3a36847f8003c25,2,2627,Ade,16,107
+17,43,Bomber Harris,578e2b6cc3a3686ecc008d56,2,1340211,Trevor Steedman,17,107
+18,25,Man Reading Newspaper (uncredited),52fe4219c3a36847f8003c1d,2,956,Guy Ritchie,18,107
+19,42,Boxer (uncredited),56d9d1f6c3a36870ac010a30,2,1473866,Elwin 'Chopper' David,19,107
+20,89,Mum O'Neil,588f8ecc92514101ad00af53,0,1221763,Sorcha Cusack,20,107
+21,90,The Russian,588f8ef992514101a300b1b8,2,34515,Velibor Topic,21,107
+22,91,Policeman,58a135b69251410754000e33,0,30323,Tim Faraday,22,107
+23,92,hırsız,58a45a8392514165b0003865,2,976,Jason Statham,23,107
+0,9,Tony Montana,52fe4219c3a36847f8003e47,2,1158,Al Pacino,0,111
+1,10,Manny Ribera,52fe4219c3a36847f8003e4b,2,1159,Steven Bauer,1,111
+2,11,Elvira Hancock,52fe4219c3a36847f8003e4f,1,1160,Michelle Pfeiffer,2,111
+3,12,Gina Montana,52fe4219c3a36847f8003e53,1,1161,Mary Elizabeth Mastrantonio,3,111
+4,13,Frank Lopez,52fe4219c3a36847f8003e57,2,1162,Robert Loggia,4,111
+5,14,Mama Montana,52fe4219c3a36847f8003e5b,1,1163,Miriam Colón,5,111
+6,15,Omar Suarez,52fe4219c3a36847f8003e5f,2,1164,F. Murray Abraham,6,111
+7,16,Alejandro Sosa,52fe4219c3a36847f8003e63,2,1165,Paul Shenar,7,111
+8,17,Mel Bernstein,52fe4219c3a36847f8003e67,2,1166,Harris Yulin,8,111
+9,18,Chi Chi,52fe4219c3a36847f8003e6b,2,1167,Ángel Salazar,9,111
+10,19,Ernie,52fe4219c3a36847f8003e6f,0,1168,Arnaldo Santana,10,111
+11,20,Angel,52fe4219c3a36847f8003e73,1,1169,Pepe Serna,11,111
+12,21,Nick The Pig,52fe4219c3a36847f8003e77,2,1170,Michael P. Moran,12,111
+13,22,Hector The Toad,52fe4219c3a36847f8003e7b,2,1171,Al Israel,13,111
+14,23,Jerry The Banker,52fe4219c3a36847f8003e7f,2,1172,Dennis Holahan,14,111
+15,24,Alberto The Shadow,52fe4219c3a36847f8003e83,2,1173,Mark Margolis,15,111
+16,110,Vic Phillips,58811c31925141303a0016ea,2,60196,John Carter,16,111
+17,78,Sheffield,55f544b3c3a3686cfd0056c6,2,1216866,Michael Alldredge,17,111
+18,33,Seidelbaum,55f44f049251417f76002cdc,0,932922,Ted Beniades,18,111
+19,34,M.C. at Babylon Club,55f44f1c9251414a5600327b,2,32396,Richard Belzer,19,111
+20,35,Immigration Officer #3,55f44f66c3a36871ec003342,2,88965,John Brandon,20,111
+21,36,Immigration Officer #2,55f44f7ec3a3686d27003035,2,78498,Tony Perez,21,111
+22,37,Immigration Officer #1,55f44f96c3a3686d180030ad,0,1225345,Garnett Smith,22,111
+23,38,Cuban Refugee,55f44fc09251414a6700309e,0,139931,Gil Barreto,23,111
+24,39,Ronnie Echevierra,55f4501b9251417cfc002928,2,152704,Victor Campos,24,111
+25,40,Shooter,55f450589251414a670030b3,0,156019,Rene Carrasco,25,111
+26,79,Pedro Quinn,55f949b89251410818001fc7,2,153686,Albert Carrier,26,111
+27,42,Shooter #1,55f450d19251413a96002710,2,48136,Gary Carlos Cervantes,27,111
+28,43,Matos,55f4511ac3a3680a0d003879,2,1360853,Carlos Augusto Cestero,28,111
+29,44,Rebenga,55f4514dc3a3680a0d003882,2,103795,Roberto Contreras,29,111
+30,45,Shooter #2,55f4519d9251413a96002734,2,66585,Gregory Cruz,30,111
+31,46,General Strasser,55f451c59251417f76002d33,0,152888,Dante D'Andre,31,111
+32,47,Male Patron,55f45203c3a3686d0b003780,0,152706,Ben Frommer,32,111
+33,48,Car Salesman,55f4522fc3a3686cfd0033db,2,107982,Ronald G. Joseph,33,111
+34,49,Interviewer,55f4524fc3a3686d0b00378c,2,44050,Mario Machado,34,111
+35,50,Bank Spokesman,55f452aa9251414a670030f5,2,160335,John McCann,35,111
+36,51,Ariel Bleyer,55f4531cc3a3686cfd0033f7,0,94893,Victor Millan,36,111
+37,52,Waldo,55f453359251413a9600275d,2,47463,Santos Morales,37,111
+38,53,Gaspar's Bodyguard,55f4534892514131af000173,2,100260,Mike Moroff,38,111
+39,54,Kid #2,55f45364925141666a000b8a,2,12411,Manuel Padilla Jr.,39,111
+40,55,Monsignor,55f4539ac3a3686cfd003400,0,194092,Michael Rougas,40,111
+41,56,The Skull,55f453b79251413a96002769,2,54864,Geno Silva,41,111
+42,57,Helicopter Pilot,55f453e4c3a3686d07003773,0,16563,Charles A. Tamburro,42,111
+43,58,Woman at Babylon Club,55f4541bc3a3686d0b0037cf,1,45463,Angela Aames,43,111
+44,59,Woman at Babylon Club,55f4543dc3a3686d03003582,1,160253,Lee Benton,44,111
+45,60,Woman at Babylon Club,55f45479c3a3686d1800313a,1,52144,Lana Clarkson,45,111
+46,61,Woman at Babylon Club,55f4549dc3a3686d1800313c,1,1217468,Ava Lazar,46,111
+47,77,Woman at Babylon Club,55f53ccc92514103b6000a04,1,1178618,Shelley Taylor Morgan,47,111
+48,62,Woman at Babylon Club,55f454b49251414a67003123,0,538318,Emilia Crow,48,111
+49,64,Woman at Babylon Club,55f45575c3a3680a0d003901,0,1228412,Margaret Michaels,49,111
+50,65,Woman at Babylon Club,55f4558f9251417cfc0029dc,1,102634,Katt Shea,50,111
+51,66,Ambassador's Daughter (uncredited),55f455f0c3a36871ec0033e6,0,1378434,Barclay DeVeau,51,111
+52,67,Immigration Officer (voice) (uncredited),55f4560c9251414a5600333d,2,1466,Charles Durning,52,111
+53,68,Immigration Officer (voice) (uncredited),55f4561cc3a3680a0d003910,2,11901,Dennis Franz,53,111
+54,69,Voice (uncredited),55f456459251417cfc0029f7,1,198980,Linda Gillen,54,111
+55,70,Charles Goodson (uncredited),55f4565992514131af0001c2,2,2518,Gregg Henry,55,111
+56,71,Extra (uncredited),55f456ffc3a3686d070037e7,0,8657,Kevyn Major Howard,56,111
+57,72,Colombian Hitman (uncredited),55f4573ac3a3686d030035eb,2,24969,Henry Kingi,57,111
+58,73,Sasso (uncredited),55f45773c3a36871ec003407,2,47772,Jorge Porcel,58,111
+59,74,Boy Lying on Raft in Pool (uncredited),55f457bfc3a3686cfd00347f,2,11091,Brett Ratner,59,111
+60,75,Boy at Pool (uncredited),55f457eb9251414a67003182,0,1228651,Marcus Shirock,60,111
+61,76,Dancer - LaLa (uncredited),55f457ffc3a3686d0b003874,0,163459,Maxine Wasa,61,111
+62,105,Mrs. Gutierrez,579654739251416c4e000317,1,1614584,Ilka Tanya Payán,62,111
+0,5,Vivian Ward,52fe4219c3a36847f8004051,1,1204,Julia Roberts,0,114
+1,6,Edward Lewis,52fe4219c3a36847f8004055,2,1205,Richard Gere,1,114
+2,8,James Morse,52fe4219c3a36847f800405d,2,1208,Ralph Bellamy,2,114
+3,7,Philip Stuckey,52fe4219c3a36847f8004059,2,1206,Jason Alexander,3,114
+4,9,Barney Thompson,52fe4219c3a36847f8004061,2,1210,Héctor Elizondo,4,114
+5,10,Mr. Hollister,52fe4219c3a36847f8004065,2,1211,Larry Miller,5,114
+6,11,Kit De Luca,52fe4219c3a36847f8004069,1,1212,Laura San Giacomo,6,114
+7,16,David Morse,52fe4219c3a36847f8004085,0,747,Alex Hyde-White,7,114
+8,17,Bridget,52fe4219c3a36847f8004089,1,1209,Elinor Donahue,8,114
+9,18,Elizabeth Stuckey,52fe4219c3a36847f800408d,1,1219,Amy Yasbeck,9,114
+10,19,Susan,52fe4219c3a36847f8004091,1,1220,Judith Baldwin,10,114
+11,22,Detective,52fe4219c3a36847f80040a1,2,5587,Hank Azaria,11,114
+12,23,Mark,52fe4219c3a36847f80040a5,2,42162,John David Carson,12,114
+13,24,Maitre D',58ce9836c3a36850f30229ef,0,1779786,Michael French,13,114
+14,25,Waiter,58ce98439251415a3d0245a7,0,1708724,Allan Kent,14,114
+15,26,Senator Adams,58ce98549251415a3902346c,0,1211994,"Stacy Keach, Sr.",15,114
+16,27,Skateboard Kid,591124019251414e8003b524,2,166393,Scott Marshall,16,114
+0,12,The Dude,52fe421ac3a36847f8004131,2,1229,Jeff Bridges,0,115
+1,13,Walter Sobchak,52fe421ac3a36847f8004135,2,1230,John Goodman,1,115
+2,14,Maude Lebowski,52fe421ac3a36847f8004139,1,1231,Julianne Moore,2,115
+3,15,"Theodore Donald ""Donny"" Kerabatsos",52fe421ac3a36847f800413d,2,884,Steve Buscemi,3,115
+4,17,Brandt,52fe421ac3a36847f8004145,2,1233,Philip Seymour Hoffman,4,115
+5,16,Jeffrey Lebowski - The Big Lebowski,52fe421ac3a36847f8004141,2,1232,David Huddleston,5,115
+6,26,Jesus Quintana,52fe421ac3a36847f8004169,2,1241,John Turturro,6,115
+7,18,Bunny Lebowski,52fe421ac3a36847f8004149,1,1234,Tara Reid,7,115
+8,30,The Stranger,52fe421ac3a36847f800417b,2,16431,Sam Elliott,8,115
+9,28,Jackie Treehorn,52fe421ac3a36847f8004171,2,856,Ben Gazzara,9,115
+10,21,"Nihilist #1, Uli Kunkel/'Karl Hungus'",52fe421ac3a36847f8004155,2,53,Peter Stormare,10,115
+11,23,"Nihilist #3, Franz",52fe421ac3a36847f800415d,2,1238,Torsten Voges,11,115
+12,22,"Nihilist #2, Kieffer",52fe421ac3a36847f8004159,2,1237,Flea,12,115
+13,80,"Nihilist Woman, Franz's Girlfriend",568efcf6c3a368590200400d,1,4771,Aimee Mann,13,115
+14,19,"Woo, Treehorn Thug",52fe421ac3a36847f800414d,2,1235,Philip Moon,14,115
+15,20,Blond Treehorn Thug,52fe421ac3a36847f8004151,2,1236,Mark Pellegrino,15,115
+16,24,Smokey,52fe421ac3a36847f8004161,0,1239,Jimmie Dale Gilmore,16,115
+17,25,Marty,52fe421ac3a36847f8004165,2,1240,Jack Kehler,17,115
+18,27,"Liam O'Brien, Quintana's Partner",52fe421ac3a36847f800416d,0,1242,James G. Hoosier,18,115
+19,38,Knox Harrington,54dae86ac3a368123b000e88,2,11207,David Thewlis,19,115
+20,66,Da Fino,56832218c3a3685f890016e9,2,4253,Jon Polito,20,115
+21,67,Maude's Thug #1,568ef9eac3a36858f0003ba9,2,58565,Carlos Leon,21,115
+22,68,Older Cop,568efa1cc3a3685906003f3b,2,16662,Richard Gant,22,115
+23,69,Younger Cop,568efa40c3a36858f4003966,2,41517,Christian Clemenson,23,115
+24,70,Tony the Chauffeur,568efa74c3a3685902003f5e,2,60275,Dom Irrera,24,115
+25,71,Coffee Shop Waitress,568efabfc3a36858f400397a,0,1433893,Lu Elrod,25,115
+26,72,Auto Circus Cop,568efaeb9251416b45003d64,2,162235,Mike Gomez,26,115
+27,73,Gary the Bartender,568efb1fc3a3685902003f74,2,154693,Peter Siragusa,27,115
+28,74,Doctor,568efbab9251416b4e003cd4,2,116907,Marshall Manesh,28,115
+29,75,Arthur Digby Sellers,568efbd0c3a36858f9003d1d,0,4510,Harry Bugin,29,115
+30,76,"Pilar, Sellers' Housekeeper",568efc099251416b47003b4b,1,6329,Irene Olga López,30,115
+31,77,Corvette Owner,568efc31c3a36858f9003d46,2,66210,Luis Colina,31,115
+32,78,Malibu Police Chief,568efc589251416b45003de4,2,169920,Leon Russom,32,115
+33,79,Cab Driver,568efcc79251416b47003ba0,0,1325966,Ajgie Kirkland,33,115
+34,81,Saddam Hussein,568efd20c3a368590600400c,2,1000228,Jerry Haleva,34,115
+35,82,Pancake Waitress,568efd5e9251416b4e003d8b,1,1559637,Jennifer Lamb,35,115
+36,105,Little Larry Sellers,57b60ab592514119a1003a2e,2,1667649,Jesse Flanagan,36,115
+37,83,Chorine Dancer (uncredited),568efda6c3a36858f0003ccc,1,177164,Wendy Braun,37,115
+38,84,Sherry in 'Logjammin' (uncredited),568efdde9251416b47003c18,1,132232,Asia Carrera,38,115
+39,85,Dancer (uncredited),568efe029251416b40003daa,1,154207,Kiva Dawson,39,115
+40,86,Cook (uncredited),568efe6cc3a36859020040a9,2,1451618,Anthony J. Sacco,40,115
+0,16,Chris Wilton,530633d692514134912c121e,2,1244,Jonathan Rhys Meyers,0,116
+1,17,Nola Rice,5306347792514134972b7868,1,1245,Scarlett Johansson,1,116
+2,18,Chloe Hewett Wilton,530634b3925141348b2dd441,1,1246,Emily Mortimer,2,116
+3,19,Alec Hewett,530634cf92514134972b89f1,2,1248,Brian Cox,3,116
+4,21,Eleanor Hewett,5306357192514134942b82ca,1,1249,Penelope Wilton,4,116
+5,23,Detective Banner,5306371a925141348528300b,2,34715,James Nesbitt,5,116
+6,24,Inspector Dowd,5306379292514134912c7e4b,2,1125,Ewen Bremner,6,116
+7,22,Heather,530636ff92514134a2286ae9,1,195525,Miranda Raison,7,116
+8,25,Mrs. Eastby,53063905c3a3685a8f294651,1,250,Margaret Tyzack,8,116
+9,26,Henry,530b670f92514168dc000f90,2,42276,Rupert Penry-Jones,9,116
+10,27,Policeman,530b6754925141111700508e,2,20286,Toby Kebbell,10,116
+11,28,Mr. Townsend,530b677c925141111a004c90,2,1250,Alexander Armstrong,11,116
+12,29,Tom Hewett,532897609251413d860002b9,2,1247,Matthew Goode,12,116
+13,30,Estate Agent,56395b1bc3a3681b4b01e773,2,71281,Paul Kaye,13,116
+14,33,Ping-Pong Player,56395c389251414ab701e765,2,34546,Mark Gatiss,14,116
+15,34,Rod Carver,56395c7a9251414ab701e778,2,10701,Simon Kunz,15,116
+16,36,Alan Sinclair,56395cc392514129fe012899,2,80420,Geoffrey Streatfeild,16,116
+17,37,John the Chauffeur,56395d309251416d52012105,0,24272,John Fortune,17,116
+18,38,Custodian,56395d7fc3a3681b5c02247d,2,47944,Anthony O'Donnell,18,116
+19,39,Carol,56395dbb9251414ab701e7af,1,141355,Rose Keegan,19,116
+20,40,Samantha,56395e21c3a3681b4b01e7ed,1,25655,Zoe Telford,20,116
+21,41,Hewetts' Friend,56395e4ac3a3681b4b01e7f7,0,32559,Scott Handy,21,116
+22,43,Margaret,56395e8e925141439c001176,1,4573,Selina Cadell,22,116
+23,44,Nola Co-Worker,56395f00c3a3681b520203d0,1,41547,Georgina Chapman,23,116
+24,45,Ian,56395f229251414ab701e7ea,2,5414,Colin Salmon,24,116
+25,46,Detective Parry,56395f64c3a3681b61021608,2,28485,Steve Pemberton,25,116
+26,31,'La Traviata' Performer,56395b74c3a3681b4d0233c4,1,1143403,Janis Kelly,26,116
+27,32,'La Traviata' Performer,56395bfa9251413b13002280,0,1471825,Alan Oke,27,116
+28,42,Hewetts' Friend,56395e689251414cc900046a,0,55345,Emily Gilchrist,28,116
+29,78,Office Worker (uncredited),5887dc2d9251416306004e52,2,1665,Eddie Marsan,29,116
+0,14,Eliot Ness,52fe421ac3a36847f800427d,2,1269,Kevin Costner,0,117
+1,15,Jim Malone,52fe421ac3a36847f8004281,2,738,Sean Connery,1,117
+2,16,Agent Oscar Wallace,52fe421ac3a36847f8004285,2,1270,Charles Martin Smith,2,117
+3,17,Agent George Stone/Giuseppe Petri,52fe421ac3a36847f8004289,2,1271,Andy García,3,117
+4,18,Al Capone,52fe421ac3a36847f800428d,2,380,Robert De Niro,4,117
+5,19,Police Chief Mike Dorsett,52fe421ac3a36847f8004291,2,1272,Richard Bradford,5,117
+6,20,Walter Payne,52fe421ac3a36847f8004295,2,1273,Jack Kehoe,6,117
+7,21,George,52fe421ac3a36847f8004299,0,1274,Brad Sullivan,7,117
+8,22,Frank Nitti,52fe421ac3a36847f800429d,2,1275,Billy Drago,8,117
+9,23,Catherine Ness,52fe421ac3a36847f80042a1,1,1276,Patricia Clarkson,9,117
+10,24,Bowtie Driver,52fe421ac3a36847f80042a5,2,1277,Vito D'Ambrosio,10,117
+11,25,Scoop,52fe421ac3a36847f80042a9,0,1278,Steven Goldstein,11,117
+12,26,Lt. Anderson,52fe421ac3a36847f80042ad,0,1279,Peter Aylward,12,117
+13,27,Officer Preseuski,52fe421ac3a36847f80042b1,2,1280,Don Harvey,13,117
+14,29,Mountie Captain,55d5350d92514102cf0031c0,0,3217,Robert Swan,14,117
+15,69,Bartender,59b790c9c3a368157b009a1d,0,1886571,John J. Walsh,15,117
+16,30,Alderman,55d5352f92514102c3002eab,2,119230,Del Close,16,117
+17,70,Mrs. Blackmer,59b791cdc3a368156c00b370,0,1886574,Colleen Bade,17,117
+18,71,Shooting Range Master,59b792a192514167a100a892,0,1802887,Greg Noonan,18,117
+19,72,Cop Cousin,59b792b5c3a368159f00945f,0,1886575,Sean Grennan,19,117
+20,73,Italian Waiter,59b7930a92514167cd00a7ac,0,1886576,Larry Viverito Sr.,20,117
+21,74,Williamson,59b7932a925141677f00a406,0,1886577,Kevin Michael Doyle,21,117
+22,31,Overcoat Hood,55d535a2c3a3687b99002910,2,141417,Mike Bacarella,22,117
+23,75,Ness' Clerk,59b793fcc3a368159f009565,0,1886578,Michael P. Byrne,23,117
+24,76,Ness' Daughter,59b79416c3a36815ac00adc3,0,1886579,Kaitlin Montgomery,24,117
+25,77,Blackmer Girl,59b7943bc3a36815cc00ab8a,0,1886580,Aditra Kohl,25,117
+26,78,Reporter,59b7945dc3a368157b009cde,0,1886581,Charles Keller Watson,26,117
+27,32,Reporter,55d535fbc3a3684d9e00081d,2,92119,Larry Brandenburg,27,117
+28,33,Reporter,55d5362192514102c6003036,2,10486,Chelcie Ross,28,117
+29,34,Reporter,55d53641925141154e002794,2,987357,Tim Gamble,29,117
+30,80,Bailif,59b7948692514167cd00a8bb,0,1886582,Pat Billingsley,30,117
+31,79,Bailiff,59b7947092514167d800af22,0,1504098,Sam Smiley,31,117
+32,81,Fat Man,59b79538c3a368159f009683,0,1886583,John Bracci,32,117
+33,35,Woman in Elevator,55d5369dc3a368507a003332,1,59574,Jennifer Anglin,33,117
+34,82,Butler,59b79557925141678300aa1e,0,1886584,Eddie Minasian,34,117
+35,36,Judge,55d536c3925141154e0027ac,0,83197,Anthony Mockus Sr.,35,117
+36,90,Barber,59b79752c3a368159f0097f6,0,1886590,Louie Lanciloti,36,117
+37,37,Defense Attorney,55d536df92514102c600305e,0,1226696,Will Zahrn,37,117
+38,67,Bodyguard,5996e69bc3a368172b00a1bd,0,1512293,Vince Viverito,38,117
+39,68,Bodyguard,5996e6cdc3a36813de003b71,0,1758644,Valentino Cimo,39,117
+40,38,Bodyguard,55d5378792514102d50032a1,0,1228768,Joe Greco,40,117
+41,39,Bodyguard,55d537b0c3a3685abc001285,0,17921,Clem Caserta,41,117
+42,83,Bodyguard,59b795f6c3a36815cc00ad19,0,1178011,Bob Martana,42,117
+43,84,Bodyguard,59b7960bc3a36815ba00a0f7,0,1886585,Joseph Scianablo,43,117
+44,85,Bodyguard,59b79625c3a368157b009e41,0,1886586,George S. Spataro,44,117
+45,86,Union Station Woman,59b79639c3a368153900b1e9,0,1886587,Melody Rae,45,117
+46,40,Gunned Head,55d5380392514102c6003098,2,20625,Robert Miranda,46,117
+47,88,Pagliacci,59b79683c3a36815ba00a14f,0,1886588,James Guthrie,47,117
+48,89,Hotel Clerk,59b7968e925141678700a961,0,1886589,Basil Reale,48,117
+49,42,District Attorney (uncredited),55d5384992514102c8002f87,2,10224,Clifton James,49,117
+50,43,Hoodlum (uncredited),56e9a7e7925141763600149f,2,203907,Stephen Burrows,50,117
+51,48,Gangster (uncredited),56e9a9fd92514176360014f4,0,1591740,William Rossman,51,117
+52,47,Bit (uncredited),56e9a9ae9251417bb9003fbe,0,236495,Robert Minkoff,52,117
+53,41,Street Person (uncredited),55d53832c3a368507f003409,2,182287,John Barrowman,53,117
+54,44,Train Announcer (uncredited),56e9a82bc3a3682d65004247,0,6852,Jack Fitzstephens,54,117
+55,45,Union Station Bodyguard (uncredited),56e9a965c3a3682d69003fb8,0,1591739,Matt Johnston,55,117
