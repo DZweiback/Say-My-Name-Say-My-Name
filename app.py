@@ -29,7 +29,7 @@ def home():
     """Render Home Page."""
     return render_template("test.html")
 
-@app.route("/baby_names_by_state")
+@app.route("/api/baby_names_by_state")
 def baby_names_by_state():
     """Return baby names by state"""
 
@@ -43,6 +43,21 @@ def baby_names_by_state():
     #baby_names_df = baby_names_df.to_dict(orient="records")
 
     return jsonify(baby_names_df)
+
+@app.route("/api/popular_names")
+def popular_names():
+    """Return baby names by state"""
+
+    conn = engine.connect()
+
+    # THE HARDCODING IS TEMPORARY
+    popular_df = pd.read_sql("select Name,count(*) as Name_Count from baby_names_by_state where State = 'IL' and Year in (2015,2016,2017) group by Name", con=conn)
+    # THE HARDCODING IS TEMPORARY
+
+    popular_df =popular_df.to_dict()
+    #baby_names_df = baby_names_df.to_dict(orient="records")
+
+    return jsonify(popular_df)
 
 if __name__ == '__main__':
     app.run(debug=True)
