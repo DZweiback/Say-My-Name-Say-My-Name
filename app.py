@@ -54,8 +54,7 @@ def popular_names():
     popular_df = pd.read_sql("select Name,count(*) as Name_Count from baby_names_by_state where State = 'IL' and Year in (2015,2016,2017) group by Name", con=conn)
     # THE HARDCODING IS TEMPORARY
 
-    popular_df =popular_df.to_dict()
-    #baby_names_df = baby_names_df.to_dict(orient="records")
+    popular_df =popular_df.to_dict(orient="records")
 
     return jsonify(popular_df)
 
