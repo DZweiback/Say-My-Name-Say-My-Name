@@ -51,7 +51,7 @@ def popular_names():
     conn = engine.connect()
 
     # THE HARDCODING IS TEMPORARY
-    popular_df = pd.read_sql("select Name,count(*) as Name_Count from baby_names_by_state where State = 'IL' and Year in (2015,2016,2017) group by Name", con=conn)
+    popular_df = pd.read_sql("select  State,Name,count(*) as Name_Count from baby_names_by_state where State = 'IL' and Year in (2015,2016,2017) group by Name", con=conn)
     # THE HARDCODING IS TEMPORARY
 
     popular_df =popular_df.to_dict(orient="records")
