@@ -34,14 +34,14 @@ local_gwsis_dbpwd = 'djzBootCamp2019!'
 # mongodb://USERNAME:PASSWORD@HOST:PORT. Since the default local host does not have a username or password set,
 # the string for local instances of MongoDB is mongodb://localhost:27017. 27017 is the default port used by
 # MongoDB
-import pymongo
-import datetime
-conn = 'mongodb://localhost:2017'
-client = pymongo.MongoClient(conn)
+#import pymongo
+#import datetime
+#conn = 'mongodb://localhost:2017'
+#client = pymongo.MongoClient(conn)
 # Define or Declare the database in Mongo; This syntax creates the db as a Mongodb
-db = client.DATABASENAME_db
+#db = client.DATABASENAME_db
 # Declare the collection; This syntax creates the document/table
-collection = db.DATABASENAME_db
+#collection = db.DATABASENAME_db
 
 # Local AWS Database Info
 gwsis_dbname = 'gwsis'
