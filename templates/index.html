@@ -1,22 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Flask Plotlyjs Example</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Say My Name Sample</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
+
 <body>
-    <div id="bar"></div>
-    <select id="selDataset" onchange="getData(this.value)">
-        <option value="emoji_char">Emoji Char</option>
-        <option value="emoji_id">Emoji ID</option>
-        <option value="emoji_name">Emoji Name</option>
-    </select>
+  <div id="line"></div>
+  <script>
+    
+    
+    d3.json('https://saymynameproject.herokuapp.com/api/popular_names').then(function(data) {
+      var layout = { margin: { t: 0 } }
+      var LINE = document.getElementById('line');
+      Plotly.plot(LINE, data)
+    })
 
-    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
 
+  </script>
 </body>
+
 </html>
