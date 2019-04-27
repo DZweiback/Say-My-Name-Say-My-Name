@@ -27,7 +27,7 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     """Render Home Page."""
-    return render_template("test.html")
+    return render_template("index.html")
 
 @app.route("/api/baby_names_by_state")
 def baby_names_by_state():
