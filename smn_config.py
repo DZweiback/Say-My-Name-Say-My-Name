@@ -1,7 +1,6 @@
-# Cloud AWS Database Info - for Say-My-Name-Say-My-Name
-remote_db_endpoint = 'endpoint'
-remote_db_port = 'xxxx'
-remote_dbname = 'saymyname'
-remote_dbuser = 'me'
-remote_dbpwd = 'password'
-
+# Cloud AWS Database Info
+remote_db_endpoint = 'codingbootcamp.cypd6auw3ehl.us-east-2.rds.amazonaws.com'
+remote_db_port = '3306'
+remote_gwsis_dbname = 'saymyname'
+remote_gwsis_dbuser = 'DZweiback'
+remote_gwsis_dbpwd = 'SayMyName!'
