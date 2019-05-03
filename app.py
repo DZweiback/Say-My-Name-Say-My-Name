@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 
 from flask import (
@@ -7,7 +8,17 @@ from flask import (
 
 from flask_sqlalchemy import SQLAlchemy
 
-from config import remote_db_endpoint, remote_db_port, remote_dbname, remote_dbuser, remote_dbpwd 
+
+is_heroku = os.environ.get('IS_HEROKU', None)
+
+if is_heroku:
+    remote_db_endpoint = os.environ.get('remote_db_endpoint')
+    remote_db_port = os.environ.get('remote_db_port')
+    remote_dbname = os.environ.get('remote_dbname')
+    remote_dbuser = os.environ.get('remote_dbuser')
+    remote_dbpwd = os.environ.get('remote_dbpwd')
+else:
+    from smn_config import remote_db_endpoint, remote_db_port, remote_dbname, remote_dbuser, remote_dbpwd 
 
 # SQL Alchemy
 from sqlalchemy import create_engine
