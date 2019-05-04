@@ -18,7 +18,7 @@ if is_heroku:
     remote_dbuser = os.environ.get('remote_dbuser')
     remote_dbpwd = os.environ.get('remote_dbpwd')
 else:
-    from smn_config import remote_db_endpoint, remote_db_port, remote_dbname, remote_dbuser, remote_dbpwd 
+    from smn_config import remote_db_endpoint, remote_db_port, remote_dbname, remote_dbuser,remote_dbpwd 
 
 # SQL Alchemy
 from sqlalchemy import create_engine
@@ -46,12 +46,12 @@ def baby_names_by_state():
 
     conn = engine.connect()
 
-    # THE LIMIT IS TEMPORARY
-    baby_names_df = pd.read_sql('select * from baby_names_by_state limit 1000', con=conn)
-    # THE LIMIT IS TEMPORARY
+    State = request.args.get('State')
+    popular_df = pd.read_sql(f"SELECT * FROM view_baby_names WHERE State = {State}",
+    con=conn)
 
     baby_names_df = baby_names_df.to_dict()
-    #baby_names_df = baby_names_df.to_dict(orient="records")
+    baby_names_df = baby_names_df.to_dict(orient="records")
 
     return jsonify(baby_names_df)
 
@@ -73,12 +73,11 @@ def popular_names():
 @app.route("/api/movie_characters")
 def movie_characters():
     """Return movie characters by year"""
-
     conn = engine.connect()
+
     year = request.args.get('movieyear')
     popular_df = pd.read_sql(f"SELECT * FROM movie_characters WHERE release_year = {year}",
     con=conn)
-    
 
     popular_df =popular_df.to_dict(orient="records")
 
