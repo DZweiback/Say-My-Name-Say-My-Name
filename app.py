@@ -7,7 +7,7 @@ from flask import (
     jsonify)
 
 from flask_sqlalchemy import SQLAlchemy
-
+from flask import request
 
 is_heroku = os.environ.get('IS_HEROKU', None)
 
@@ -69,5 +69,20 @@ def popular_names():
 
     return jsonify(popular_df)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+
+@app.route("/api/movie_characters")
+def movie_characters():
+    """Return movie characters"""
+
+    year = request.args.get('year')
+
+    conn = engine.connect()
+
+    char_df = pd.read_sql(f"select * from movie_characters where year = '{year}'", con=conn)
+
+    char_df = char_df.to_dict(orient="records")
+
+    return jsonify(char_df)
+
+#if __name__ == '__main__':
+    #app.run(debug=True)
