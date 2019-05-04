@@ -75,8 +75,8 @@ def movie_characters():
     """Return movie characters by year"""
 
     conn = engine.connect()
-
-    popular_df = pd.read_sql("select `m`.`title` AS `movie_title`, `c`.`character` AS `character_name`, `c`.`name` AS `actor_name`, `m`.`year` AS `release_year` FROM        (`characters` `c` JOIN `movies` `m` ON ((`c`.`movie_id` = `m`.`id`)))",    
+    year = request.args.get('movieyear')
+    popular_df = pd.read_sql(f"SELECT * FROM movie_characters WHERE release_year = {year}",
     con=conn)
     
 
