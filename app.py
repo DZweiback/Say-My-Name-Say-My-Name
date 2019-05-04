@@ -40,7 +40,7 @@ def home():
     """Render Home Page."""
     return render_template("index.html")
 
-@app.route("/api/baby_names_by_state")
+@app.route("/api/view_baby_names")
 def baby_names_by_state():
     """Return baby names by state"""
 
