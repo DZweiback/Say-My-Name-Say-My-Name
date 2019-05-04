@@ -78,7 +78,7 @@ def movie_characters():
 
     conn = engine.connect()
 
-    char_df = pd.read_sql(f"select * from movie_characters where year = '{year}'", con=conn)
+    char_df = pd.read_sql(f"select * from movie_characters where release_year = '{year}'", con=conn)
 
     char_df = char_df.to_dict(orient="records")
 
