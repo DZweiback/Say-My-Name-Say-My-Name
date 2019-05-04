@@ -70,6 +70,21 @@ def popular_names():
     return jsonify(popular_df)
 
 
+@app.route("/api/movie_characters")
+def movie_characters():
+    """Return movie characters by year"""
+
+    conn = engine.connect()
+
+    popular_df = pd.read_sql("select `m`.`title` AS `movie_title`, `c`.`character` AS `character_name`, `c`.`name` AS `actor_name`, `m`.`year` AS `release_year` FROM        (`characters` `c` JOIN `movies` `m` ON ((`c`.`movie_id` = `m`.`id`)))",    
+    con=conn)
+    
+
+    popular_df =popular_df.to_dict(orient="records")
+
+    return jsonify(popular_df)
+
+
 
 #if __name__ == '__main__':
     #app.run(debug=True)
