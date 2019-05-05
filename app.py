@@ -46,17 +46,16 @@ def home():
 @app.route("/api/baby_names")
 def baby_names():
     """Return baby names by state"""
-
     conn = engine.connect()
 
     state = request.args.get('home_state')
-    baby_names_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = {state}",
+    state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = {state}",
     con=conn)
 
     #baby_names_df = baby_names_df.to_dict()
-    baby_names_df = baby_names_df.to_dict(orient="records")
+    state_df = state_df.to_dict(orient="records")
 
-    return jsonify(baby_names_df)
+    return jsonify(state_df)
 
 # USER INPUT FOR BABY NAME, MOVIE, CHARACTER, OR YEAR
 @app.route("/api/movie_characters")
@@ -68,7 +67,7 @@ def movie_characters():
     year_df = pd.read_sql(f"SELECT * FROM movie_characters WHERE release_year = {year}",
     con=conn)
 
-    year_df =year_df.to_dict(orient="records")
+    year_df = year_df.to_dict(orient="records")
 
     return jsonify(year_df)
 
