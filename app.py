@@ -44,7 +44,7 @@ def home():
 
 # MAP OF STATES AND BABY NAMES BY STATES
 @app.route("/api/baby_names")
-def baby_names_by_state():
+def baby_names():
     """Return baby names by state"""
 
     conn = engine.connect()
@@ -87,8 +87,6 @@ def popular_names():
     popular_df =popular_df.to_dict(orient="records")
 
     return jsonify(popular_df)
-
-
 
 
 if __name__ == '__main__':
