@@ -107,6 +107,21 @@ def popular_names():
 
     return jsonify(popular_df)
 
+# 5 BABY NAMES BY YOUR_NAME
+@app.route("/api/your_name")
+def your_name():
+    """Return baby names by your name"""
+    conn = engine.connect()
+
+    Name = request.args.get('yourname')
+    yourname_df = pd.read_sql(f"SELECT * FROM baby_names WHERE Name = {Name}",
+    con=conn)
+
+    yourname_df = yourname_df.to_dict(orient="records")
+
+    return jsonify(yourname_df)
+
+
 # Start the development server using the run() method
 if __name__ == '__main__':
     app.run(debug=True)
