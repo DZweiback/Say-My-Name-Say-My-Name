@@ -35,19 +35,22 @@ conn = engine.connect()
 
 app = Flask(__name__)
 
+# WEBSITE HOME PAGE
 @app.route("/")
 def home():
     """Render Home Page."""
     return render_template("index.html")
 
-@app.route("/api/view_baby_names")
+
+# MAP OF STATES AND BABY NAMES BY STATES
+@app.route("/api/baby_names")
 def baby_names_by_state():
     """Return baby names by state"""
 
     conn = engine.connect()
 
-    State = request.args.get('State')
-    popular_df = pd.read_sql(f"SELECT * FROM view_baby_names WHERE State = {State}",
+    state = request.args.get('State')
+    baby_names_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = {state}",
     con=conn)
 
     baby_names_df = baby_names_df.to_dict()
@@ -55,6 +58,22 @@ def baby_names_by_state():
 
     return jsonify(baby_names_df)
 
+# USER INPUT FOR BABY NAME, MOVIE, CHARACTER, OR YEAR
+@app.route("/api/movie_characters")
+def movie_characters():
+    """Return movie characters by year"""
+    conn = engine.connect()
+
+    year = request.args.get('movieyear')
+    year_df = pd.read_sql(f"SELECT * FROM movie_characters WHERE release_year = {year}",
+    con=conn)
+
+    year_df =year_df.to_dict(orient="records")
+
+    return jsonify(year_df)
+
+
+# ADDITIONAL GRAPHS, FUN FACTS AND USER INTERACTIONS
 @app.route("/api/popular_names")
 def popular_names():
     """Return baby names by state"""
@@ -69,19 +88,6 @@ def popular_names():
 
     return jsonify(popular_df)
 
-
-@app.route("/api/movie_characters")
-def movie_characters():
-    """Return movie characters by year"""
-    conn = engine.connect()
-
-    year = request.args.get('movieyear')
-    popular_df = pd.read_sql(f"SELECT * FROM movie_characters WHERE release_year = {year}",
-    con=conn)
-
-    popular_df =popular_df.to_dict(orient="records")
-
-    return jsonify(popular_df)
 
 
 
