@@ -56,6 +56,20 @@ def baby_names():
 
     return jsonify(state_df)
 
+# Test Route for State Specific Connection - runs locally
+@app.route("/api/baby_names_MI")
+def baby_names_MI():
+    """Return baby names by state"""
+    conn = engine.connect()
+
+    #State = request.args.get('home_state')
+    state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = 'MI'",
+    con=conn)
+
+    state_df = state_df.to_dict(orient="records")
+
+    return jsonify(state_df)
+
 
 # TEST ROUTE ON LOCAL 
 @app.route("/default/<name>")
