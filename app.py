@@ -48,13 +48,20 @@ def baby_names():
     """Return baby names by state"""
     conn = engine.connect()
 
-    state = request.args.get('home_state')
-    state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = {state}",
+    State = request.args.get('home_state')
+    state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = {State}",
     con=conn)
 
     state_df = state_df.to_dict(orient="records")
 
     return jsonify(state_df)
+
+
+# TEST ROUTE ON LOCAL 
+@app.route("/default/<name>")
+def default(name):
+    return 'the value is:' + name
+
 
 # 3 USER INPUT FOR BABY NAME, MOVIE, CHARACTER, OR YEAR
 @app.route("/api/movie_characters")
