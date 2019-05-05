@@ -48,9 +48,8 @@ def baby_names():
     """Return baby names by state"""
     conn = engine.connect()
 
-    state = request.args.get('home_state')
-    #state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = {state}",
-    state_df = pd.read_sql(f"SELECT * FROM baby_names_by_state WHERE State = {state}",
+    #state = request.args.get('home_state')
+    state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = 'MI'",
     con=conn)
 
     #baby_names_df = baby_names_df.to_dict()
@@ -88,6 +87,6 @@ def popular_names():
 
     return jsonify(popular_df)
 
-
+# Start the development server using the run() method
 if __name__ == '__main__':
     app.run(debug=True)
