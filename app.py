@@ -52,7 +52,7 @@ def baby_names():
     state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = 'MI'",
     con=conn)
 
-    #baby_names_df = baby_names_df.to_dict()
+    state_df = state_df.to_dict()
     state_df = state_df.to_dict(orient="records")
 
     return jsonify(state_df)
