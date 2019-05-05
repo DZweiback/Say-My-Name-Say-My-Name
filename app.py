@@ -49,11 +49,11 @@ def baby_names_by_state():
 
     conn = engine.connect()
 
-    state = request.args.get('State')
+    state = request.args.get('home_state')
     baby_names_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = {state}",
     con=conn)
 
-    baby_names_df = baby_names_df.to_dict()
+    #baby_names_df = baby_names_df.to_dict()
     baby_names_df = baby_names_df.to_dict(orient="records")
 
     return jsonify(baby_names_df)
