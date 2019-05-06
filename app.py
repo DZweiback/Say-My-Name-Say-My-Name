@@ -49,6 +49,7 @@ def baby_names():
     conn = engine.connect()
 
     State = request.args.get('home_state')
+    #State = request.form['home_state']
     state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = '{State}'",
     con=conn)
 
@@ -72,19 +73,21 @@ def movie_characters():
     return jsonify(year_df)
 
 
-# 4 ADDITIONAL GRAPHS, FUN FACTS AND USER INTERACTIONS
-@app.route("/api/popular_names")
-def popular_names():
+# 4 CHARACTER NAMES IN MOVIES
+@app.route("/api/movie_title")
+def movie_title():
     """Return baby names by state"""
 
     conn = engine.connect()
 
-    popular = request.args.get('popular_name')
-    popular_df = pd.read_sql(f"Select Name,count(*) as Name_Count FROM baby_names WHERE Name  = '{popular}' and Year in (2015,2016,2017) GROUP BY Name", con=conn)
+    title = request.args.get('movie_title')
+    title_df = pd.read_sql(f"SELECT * FROM movie_chracters WHERE title = '{title}'")
+     
+    # title_df = pd.read_sql(f"Select Name,count(*) as Name_Count FROM baby_names WHERE Name  = '{popular}' and Year in (2015,2016,2017) GROUP BY Name", con=conn)
     
-    popular_df =popular_df.to_dict(orient="records")
-
-    return jsonify(popular_df)
+    title_df =title_df.to_dict(orient="records")
+        
+    return jsonify(title_df)
 
 # 5 BABY NAMES BY YOUR_NAME
 @app.route("/api/your_name")
