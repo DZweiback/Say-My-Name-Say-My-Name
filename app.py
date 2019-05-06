@@ -49,7 +49,7 @@ def baby_names():
     conn = engine.connect()
 
     State = request.args.get('home_state')
-    state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = {State}",
+    state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = '{State}'",
     con=conn)
 
     state_df = state_df.to_dict(orient="records")
