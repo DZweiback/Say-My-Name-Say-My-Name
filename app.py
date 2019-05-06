@@ -43,8 +43,8 @@ def home():
 
 
 # 2 MAP OF STATES AND BABY NAMES BY STATES
-@app.route("/api/baby_names/<home_state>")
-def baby_names(home_state):
+@app.route("/api/baby_names")
+def baby_names():
     """Return baby names by state"""
     conn = engine.connect()
 
@@ -55,11 +55,6 @@ def baby_names(home_state):
     state_df = state_df.to_dict(orient="records")
 
     return jsonify(state_df)
-
-# TEST ROUTE ON LOCAL 
-@app.route("/default/<name>")
-def default(name):
-    return 'the value is:' + name
 
 
 # 3 USER INPUT FOR BABY NAME, MOVIE, CHARACTER, OR YEAR
@@ -84,10 +79,9 @@ def popular_names():
 
     conn = engine.connect()
 
-    # THE HARDCODING IS TEMPORARY
-    popular_df = pd.read_sql("select  State,Name,count(*) as Name_Count from baby_names_by_state where State = 'IL' and Year in (2015,2016,2017) group by Name", con=conn)
-    # THE HARDCODING IS TEMPORARY
-
+    popular = request.args.get('popular_name')
+    popular_df = pd.read_sql(f"Select Name,count(*) as Name_Count FROM baby_names WHERE Name  = '{popular}' and Year in (2015,2016,2017) GROUP BY Name", con=conn)
+    
     popular_df =popular_df.to_dict(orient="records")
 
     return jsonify(popular_df)
@@ -99,7 +93,7 @@ def your_name():
     conn = engine.connect()
 
     Name = request.args.get('yourname')
-    yourname_df = pd.read_sql(f"SELECT * FROM baby_names WHERE Name = {Name}",
+    yourname_df = pd.read_sql(f"SELECT * FROM baby_names WHERE Name = '{Name}'",
     con=conn)
 
     yourname_df = yourname_df.to_dict(orient="records")
@@ -121,6 +115,10 @@ def baby_names_MI():
 
     return jsonify(state_df)
 
+# TEST ROUTE ON LOCAL 
+@app.route("/default/<name>")
+def default(name):
+    return 'the value is:' + name
 
 # Start the development server using the run() method
 if __name__ == '__main__':
