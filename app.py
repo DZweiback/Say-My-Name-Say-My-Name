@@ -43,8 +43,8 @@ def home():
 
 
 # 2 MAP OF STATES AND BABY NAMES BY STATES
-@app.route("/api/baby_names")
-def baby_names():
+@app.route("/api/baby_names/<home_state>")
+def baby_names(home_state):
     """Return baby names by state"""
     conn = engine.connect()
 
@@ -55,21 +55,6 @@ def baby_names():
     state_df = state_df.to_dict(orient="records")
 
     return jsonify(state_df)
-
-# Test Route for State Specific Connection - runs locally
-@app.route("/api/baby_names_MI")
-def baby_names_MI():
-    """Return baby names by state"""
-    conn = engine.connect()
-
-    #State = request.args.get('home_state')
-    state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = 'MI'",
-    con=conn)
-
-    state_df = state_df.to_dict(orient="records")
-
-    return jsonify(state_df)
-
 
 # TEST ROUTE ON LOCAL 
 @app.route("/default/<name>")
@@ -120,6 +105,21 @@ def your_name():
     yourname_df = yourname_df.to_dict(orient="records")
 
     return jsonify(yourname_df)
+
+
+# Test Route for State Specific Connection - runs locally
+@app.route("/api/baby_names_MI")
+def baby_names_MI():
+    """Return baby names by state"""
+    conn = engine.connect()
+
+    #State = request.args.get('home_state')
+    state_df = pd.read_sql(f"SELECT * FROM baby_names WHERE State = 'MI'",
+    con=conn)
+
+    state_df = state_df.to_dict(orient="records")
+
+    return jsonify(state_df)
 
 
 # Start the development server using the run() method
