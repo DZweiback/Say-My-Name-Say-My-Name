@@ -79,7 +79,7 @@ def movie_title():
     conn = engine.connect()
 
     title = request.args.get('movie_title')
-    title_df = pd.read_sql(f"SELECT * FROM movie_chracters WHERE title = '{title}'",
+    title_df = pd.read_sql(f"SELECT * FROM movie_characters WHERE title = '{title}'",
     con=conn)
 
     title_df =title_df.to_dict(orient="records")
