@@ -6,6 +6,9 @@ VIEW `movie_characters` AS
     SELECT 
         `m`.`title` AS `movie_title`,
         `c`.`character` AS `character_name`,
+        `c`.`First` AS `First`,
+        `c`.`Second` AS `Second`,
+        `c`.`Third` AS `Third`,
         `c`.`name` AS `actor_name`,
         `m`.`year` AS `release_year`
     FROM
