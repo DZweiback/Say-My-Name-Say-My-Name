@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Say My Name</title>
+    
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" media="screen">
+    <link rel="stylesheet" href="assets/css/main.css">
+
+  </head>
+
+  <body>
+      
+    <div class="layout-foreground">
+        <div id="blurred-image-container">
+            <div class="img-src"></div>
+            <div class="img-src blurred-image"></div>
+        </div>
+        <div class = "typewriter">
+        <h1><b><i>Names and the Films from which they came...</i></b></h1>
+        </div>
+        <div class="content">
+           
+            <blockquote>"Just because you know my name, doesn't mean you know my story " - Morris Mandel</blockquote>
+            <h2>Inspiration for this project</h2>
+           
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+                labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+                laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
+                voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+                    laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
+                    voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </p>
+           
+        
+            <div class="button_cont" align ="center" id = "bt">
+                <a class="button" href="main.html#new_page" target="_blank" rel="nofollow noopener">Analysis</a>
+            </div>
+        </div> 
+        
+    </div>
+<div class = "new_page" id = "new_page">
+    <div id="parallax-films">
+        <section >
+            <div class="title">
+                <h1><b>Analysis</b></h1>
+                <hr>
+                    <div id="mainselection">
+                        <select name = "forma" onchange = "location = this.value;">
+                            <option>Choose an Analysis Option</option>
+                            <option value ="main.html#block_one">Top 10 child names</option>
+                            <option value = "main.html#block_two">Top 10 films</option>
+                            <option value = "main.html#block_three">Year</option>
+                            <option>Bonus: Map</option>
+                        </select>
+                       
+                    </div>
+                </hr>
+            </div>
+        </section>	
+        <section>
+            <div class="parallax-one">
+                <h2>Fantasy</h2>
+            </div>
+        </section>
+        <section>
+            <div class="block" id ="block_one">
+                   <div class = "parent">
+                       <div class = "col_1" id = "col_1">
+                        <form>
+                            <input type = "text" name = "Search" placeholder = "Enter year between 1950-2017">
+                        </form> 
+                       </div> 
+                      
+                       <div class = "col_2">
+                         <h2>Instructions</h2>
+                        
+                        
+
+                       </div>
+                   </div>
+            </div>
+        </section>
+              
+        <section>
+            <div class="parallax-two">
+                  <h2>Adventure</h2>
+            </div>
+        </section>
+        <section>
+                <div class="block" id= "block_two">
+                        <h2>Place holder fo graph</h2>
+                        <div class = "square"></div>
+                </div>
+            </section>
+            <section>
+                    <div class="parallax-three">
+                          <h2>Drama</h2>
+                    </div>
+            </section>
+            <section>
+                    <div class="block" id= "block_three">
+                            <h2>Place holder fo graph</h2>
+                            <div class = "square"></div>
+                    </div>
+                </section>
+    </div>
+</div>
+    
+  </body>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+        <script src = "assets/static/index.js"></script>
+  </html>

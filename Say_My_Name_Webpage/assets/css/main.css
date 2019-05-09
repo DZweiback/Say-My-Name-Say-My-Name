@@ -1,0 +1,337 @@
+body { margin: 0; padding: 0; }
+
+#blurred-image-container {
+    display:block;
+    padding:0;
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    z-index:-1;
+}
+
+.img-src { 
+    position: absolute;
+    background:url(../../images/films.jpg) center center;
+    background-size: 1500px 1000px;
+    top: -10%;
+    bottom: 10%;
+    left: -10%;
+    right: 10%;
+    width:120%;
+    height:120%;
+}
+
+.img-src.blurred-image {
+    opacity:0;
+    -webkit-filter: blur(20px) brightness(0.7);
+    -ms-filter: blur(20px) brightness(0.7);
+    -o-filter: blur(20px) brightness(0.7);
+    filter: blur(20px) brightness(0.7);
+}
+
+.content {
+    padding:150px 50px;
+    color:#fff;
+    text-align:center;
+}
+
+.avatar {
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    border: 5px solid #fff;
+    margin-bottom:50px;
+}
+
+.typewriter h1 {
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid white; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .15em; /* Adjust as needed */
+    animation: 
+      typing 3.5s steps(30, end),
+      blink-caret .5s step-end infinite;
+    
+    padding: 0;
+    margin-top: 25%;
+    font-size: 50px;
+    margin-bottom: 350px;
+    margin-left: 10px;
+
+    
+  }
+  
+  /* The typing effect */
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  /* The typewriter cursor effect */
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange }
+  }
+
+@import "compass/css3";
+
+@include keyframes(bounce) {
+	0%, 20%, 50%, 80%, 100% {
+    @include transform(translateY(0));
+  }
+	40% {
+    @include transform(translateY(-30px));
+  }
+	60% {
+    @include transform(translateY(-15px));
+  }
+}
+
+
+body {
+  background: black;
+}
+
+.arrow {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  margin-left:-20px;
+  width: 40px;
+  height: 40px;
+  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNTEycHgiIGhlaWdodD0iNTEycHgiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yOTMuNzUxLDQ1NS44NjhjLTIwLjE4MSwyMC4xNzktNTMuMTY1LDE5LjkxMy03My42NzMtMC41OTVsMCwwYy0yMC41MDgtMjAuNTA4LTIwLjc3My01My40OTMtMC41OTQtNzMuNjcyICBsMTg5Ljk5OS0xOTBjMjAuMTc4LTIwLjE3OCw1My4xNjQtMTkuOTEzLDczLjY3MiwwLjU5NWwwLDBjMjAuNTA4LDIwLjUwOSwyMC43NzIsNTMuNDkyLDAuNTk1LDczLjY3MUwyOTMuNzUxLDQ1NS44Njh6Ii8+DQo8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjIwLjI0OSw0NTUuODY4YzIwLjE4LDIwLjE3OSw1My4xNjQsMTkuOTEzLDczLjY3Mi0wLjU5NWwwLDBjMjAuNTA5LTIwLjUwOCwyMC43NzQtNTMuNDkzLDAuNTk2LTczLjY3MiAgbC0xOTAtMTkwYy0yMC4xNzgtMjAuMTc4LTUzLjE2NC0xOS45MTMtNzMuNjcxLDAuNTk1bDAsMGMtMjAuNTA4LDIwLjUwOS0yMC43NzIsNTMuNDkyLTAuNTk1LDczLjY3MUwyMjAuMjQ5LDQ1NS44Njh6Ii8+DQo8L3N2Zz4=);
+  background-size: contain;
+}
+
+.bounce {
+@include animation(bounce 2s infinite);
+}
+
+blockquote{
+    font-size: 48px;
+    margin-bottom: 55px;
+    
+
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+}
+@import url(https://fonts.googleapis.com/css?family=Comic Sans:300,400,700);
+@import url(../../images/action_film.jpg);
+
+/* Override UGG site */
+#main {width: 100%; padding:0;}
+.content-asset p {margin:0 auto;}
+.breadcrumb {display:none;}
+
+/* Helpers */
+/**************************/
+.margin-top-10 {padding-top:10px;}
+.margin-bot-10 {padding-bottom:10px;}
+
+/* Typography */
+/**************************/
+#parallax-films h1 {font-family:'Comic Sans MS'; font-size:50px; font-weight:400; text-transform: uppercase; color:white; padding:0; margin:0;}
+#parallax-films h2 {font-family:'Comic Sans', sans-serif; font-size:70px; letter-spacing:10px; text-align:center; color:black; font-weight:400; text-transform:uppercase; z-index:10; opacity:.8;}
+#parallax-films h3 {font-family:'Comic Sans', sans-serif; font-size:14px; line-height:0; font-weight:400; letter-spacing:8px; text-transform: uppercase; color:black;}
+#parallax-films p {font-family:'Source Sans Pro', sans-serif; font-weight:400; font-size:14px; line-height:24px;}
+.first-character {font-weight:400; float: left; font-size: 84px; line-height: 64px; padding-top: 4px; padding-right: 8px; padding-left: 3px; font-family: 'Source Sans Pro', sans-serif;}
+
+.sc {color: #3b8595;}
+.ny {color: #3d3c3a;}
+.atw {color: #c48660;}
+
+/* Section - Title */
+/**************************/
+#parallax-films .title {background: black; padding: 175px; margin:0 auto; text-align:center;}
+#parallax-films .title h1 {font-size:35px; letter-spacing:8px;}
+
+/* Section - Block */
+/**************************/
+#parallax-films .block {background: black; padding: 100px; width:1681px; margin:0 auto; text-align:justify;}
+#parallax-films .block-gray {background: #f2f2f2;padding: 60px;}
+#parallax-films .section-overlay-mask {position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: black; opacity: 0.70;}
+
+/* Section - Parallax */
+/**************************/
+#parallax-films .parallax-one {padding-top: 250px; padding-bottom: 250px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/fantasy.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
+#parallax-films .parallax-two {padding-top: 250px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/adventure.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center;}
+#parallax-films .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/drama.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center;}
+#parallax-films .parallax-four {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://media.nj.com/southjerseyhssports/photo/girls-soccer-roundup-photo-lmn-3200-9037787jpg-a65fde8e9554fd62.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
+
+#parallax-films .parallax-five {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://static.wixstatic.com/media/847c88_c3ce55d312a42b0d1eaea5c9903d1a4f.jpg_1024); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
+
+#parallax-films .parallax-six {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://www.crismanphoto.com/media/original/cc_soccer_023.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
+
+
+/* Extras */
+/**************************/
+#parallax-films .line-break {border-bottom:1px solid black; width: 150px; margin:0 auto;}
+
+/* Media Queries */
+/**************************/
+@media screen and (max-width: 959px) and (min-width: 768px) {
+  #parallax-films .block {padding: 40px; width:620px;}
+}
+@media screen and (max-width: 767px) {
+  #parallax-films .block {padding: 30px; width:420px;}
+  #parallax-films h2 {font-size:30px;}
+  #parallax-films .block {padding: 30px;}
+  #parallax-films .parallax-one, #parallax-films .parallax-two, #parallax-films .parallax-three {padding-top:100px; padding-bottom:100px;}
+}
+@media screen and (max-width: 479px) {
+  #parallax-films .block {padding: 30px 15px; width:290px;}
+}
+
+
+.button {
+    color: #fff !important;
+    text-transform: uppercase;
+    background: #60a3bc;
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    border: none;
+  }
+  .button:hover {
+    text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+-webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+transition: all 0.4s ease 0s;
+  }
+
+  .new_page{
+      background-color: black;
+     
+  }
+  .square{
+      height: 100px;
+      width: 100px;
+      background-color: sienna;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: auto;
+      margin-bottom: auto;
+  }
+
+  
+
+ #mainselection select{
+     border:0;
+     color: black;
+     background: transparent;
+     font-size: 20px;
+     font-weight:bold;
+     padding: 2px 10px;
+     width: 378px;
+     *width: 350px;
+     *background:#58B14C;
+     -webkit-appearance:none;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+ #mainselection{
+     overflow: hidden;
+     width: 350px;
+     -moz-border-radius:9px 9px 9px 9px;
+     -webkit-border-radius: 9px 9px 9px 9px;
+     border-radius: 9px 9px 9px 9px;
+     box-shadow: 1px 1px 11px #330033;
+     background: burlywood url("http://i62.tinypic.com/15xvbd5.png") no-repeat scroll 319px center;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 30px;
+ }
+
+ .parent{
+     display: flex;
+
+ }
+ .col_1{
+     width: 50%;
+     background-color: black;
+     height:200px;
+ }
+ #col_1 h2{
+     color:  wheat;
+ }
+ .col_2{
+     width:50%;
+     background-color: wheat;
+     height: 200px;
+     
+ }
+
+ .search {
+    width: 100%;
+    position: relative;
+    display: flex;
+  }
+  
+  .searchTerm {
+    width: 100%;
+    border: 3px solid #00B4CC;
+    border-right: none;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: #9DBFAF;
+  }
+  
+  .searchTerm:focus{
+    color: #00B4CC;
+  }
+  
+  .searchButton {
+    width: 40px;
+    height: 36px;
+    border: 1px solid #00B4CC;
+    background: #00B4CC;
+    text-align: center;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /*Resize the wrap to see the search bar change!*/
+  .wrap{
+    width: 30%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  input[type = text] {
+      width: 125px;
+      box-sizing: border-box;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+      font-size: 16px;
+      background-color: black;
+     
+      background-position: 10px 10px;
+      background-repeat: no-repeat;
+      padding:12px 20px 12px 12px;
+      -webkit-transition: width 0.4s ease-in-out;
+      transition: width 0.4s ease-in-out;
+      color:wheat;
+  }
+
+  input[type = text]:focus{
+      width: 75%;
+  }
+  form{
+      margin-top: 75px;
+      margin-left: 50px;
+  }
