@@ -9,11 +9,12 @@ body { margin: 0; padding: 0; }
     left:0;
     right:0;
     z-index:-1;
+    height: 1000px;
 }
 
 .img-src { 
     position: absolute;
-    background:url(../../images/films.jpg) center center;
+    background:url(../images/films.jpg) center center;
     background-size: 1500px 1000px;
     top: -10%;
     bottom: 10%;
@@ -124,7 +125,7 @@ p{
     margin-top: 30px;
 }
 @import url(https://fonts.googleapis.com/css?family=Comic Sans:300,400,700);
-@import url(../../images/action_film.jpg);
+@import url(../images/action_film.jpg);
 
 /* Override UGG site */
 #main {width: 100%; padding:0;}
@@ -161,10 +162,10 @@ p{
 
 /* Section - Parallax */
 /**************************/
-#parallax-films .parallax-one {padding-top: 250px; padding-bottom: 250px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/fantasy.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center; opacity: 0.5;}
-#parallax-films .parallax-two {padding-top: 250px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/adventure.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
-#parallax-films .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/drama.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
-#parallax-films .parallax-four {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://media.nj.com/southjerseyhssports/photo/girls-soccer-roundup-photo-lmn-3200-9037787jpg-a65fde8e9554fd62.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
+#parallax-films .parallax-one {padding-top: 250px; padding-bottom: 250px; overflow: hidden; position: relative; width: 100%; background-image: url(../images/fantasy.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center; opacity: 0.5;}
+#parallax-films .parallax-two {padding-top: 250px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../images/adventure.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
+#parallax-films .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../images/drama.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
+#parallax-films .parallax-four {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../images/comedy.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center; opacity:0.5;}
 
 #parallax-films .parallax-five {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://static.wixstatic.com/media/847c88_c3ce55d312a42b0d1eaea5c9903d1a4f.jpg_1024); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
 
@@ -374,3 +375,58 @@ transition: all 0.4s ease 0s;
 #block_one{
     height: 600px;
 }
+
+#bt{
+  margin-bottom: 25px;
+}
+
+
+.dropbtn {
+  background-color: darkgoldenrod;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  size:5;
+  height: 200px;
+  overflow:scroll;
+  
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: goldenrod}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: black;
+  color:white;
+}
+
+#col_2_2 h3{
+color: darkgoldenrod;
+}
+

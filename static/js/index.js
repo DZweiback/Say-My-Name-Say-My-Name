@@ -22,3 +22,8 @@ $(function() {
       x.className = x.className.replace(" w3-show", "");
     }
   }
+
+  document.getElementById("myBtn").addEventListener("click", myFunction1)
+  function myFunction1() {
+    document.getElementById("demo").innerHTML = "Hello World";
+  }
