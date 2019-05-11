@@ -60,7 +60,7 @@ body { margin: 0; padding: 0; }
     padding: 0;
     margin-top: 25%;
     font-size: 50px;
-    margin-bottom: 350px;
+    margin-bottom: 475px;
     margin-left: 10px;
 
     
@@ -108,7 +108,7 @@ body {
   background-size: contain;
 }
 
-.bounce {
+.bounce{
 @include animation(bounce 2s infinite);
 }
 
@@ -139,7 +139,7 @@ p{
 /* Typography */
 /**************************/
 #parallax-films h1 {font-family:'Comic Sans MS'; font-size:50px; font-weight:400; text-transform: uppercase; color:white; padding:0; margin:0;}
-#parallax-films h2 {font-family:'Comic Sans', sans-serif; font-size:70px; letter-spacing:10px; text-align:center; color:black; font-weight:400; text-transform:uppercase; z-index:10; opacity:.8;}
+#parallax-films h2 {font-family:'Comic Sans', sans-serif; font-size:70px; letter-spacing:10px; text-align:center; color:darkgoldenrod; font-weight:400; text-transform:uppercase; z-index:10; opacity:.8;}
 #parallax-films h3 {font-family:'Comic Sans', sans-serif; font-size:14px; line-height:0; font-weight:400; letter-spacing:8px; text-transform: uppercase; color:black;}
 #parallax-films p {font-family:'Source Sans Pro', sans-serif; font-weight:400; font-size:14px; line-height:24px;}
 .first-character {font-weight:400; float: left; font-size: 84px; line-height: 64px; padding-top: 4px; padding-right: 8px; padding-left: 3px; font-family: 'Source Sans Pro', sans-serif;}
@@ -161,9 +161,9 @@ p{
 
 /* Section - Parallax */
 /**************************/
-#parallax-films .parallax-one {padding-top: 250px; padding-bottom: 250px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/fantasy.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
-#parallax-films .parallax-two {padding-top: 250px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/adventure.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center;}
-#parallax-films .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/drama.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center;}
+#parallax-films .parallax-one {padding-top: 250px; padding-bottom: 250px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/fantasy.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center; opacity: 0.5;}
+#parallax-films .parallax-two {padding-top: 250px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/adventure.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
+#parallax-films .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../../images/drama.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
 #parallax-films .parallax-four {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://media.nj.com/southjerseyhssports/photo/girls-soccer-roundup-photo-lmn-3200-9037787jpg-a65fde8e9554fd62.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
 
 #parallax-films .parallax-five {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://static.wixstatic.com/media/847c88_c3ce55d312a42b0d1eaea5c9903d1a4f.jpg_1024); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
@@ -265,7 +265,7 @@ transition: all 0.4s ease 0s;
  }
  .col_2{
      width:50%;
-     background-color: wheat;
+     background-color: black;
      height: 200px;
      
  }
@@ -335,3 +335,42 @@ transition: all 0.4s ease 0s;
       margin-top: 75px;
       margin-left: 50px;
   }
+
+  #block_title h1{
+      position: center;
+     margin-left:450px;
+     margin-right: auto;
+     margin-bottom: 50px;
+
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    color: white;
+    border-collapse: collapse;
+    border-color: white;
+    width: 100%;
+    background-color: darkgoldenrod;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    border-color:white;
+  }
+  
+ th {
+    background-color: black;
+  }
+#col_1_1 h3{
+    color: white;
+}
+
+#col_2_2 table{
+    margin-top: 30px;
+}
+
+#block_one{
+    height: 600px;
+}
