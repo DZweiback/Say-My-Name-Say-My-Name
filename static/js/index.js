@@ -23,7 +23,27 @@ $(function() {
     }
   }
 
-  document.getElementById("myBtn").addEventListener("click", myFunction1)
-  function myFunction1() {
-    document.getElementById("demo").innerHTML = "Hello World";
-  }
+  $("#first-choice").change(function(){
+    var $dropdown = $(this);
+    $.getJSON("../html.json", function(data){
+      var key = $dropdown.val();
+      var vals = [];
+      switch(key){
+        case 'Top_Boy_Names':
+          vals = data.Top_Boy_Names.split(",");
+          break;
+          case 'Top_Girl_Names':
+            vals = data.Top_Girl_Names.split(",");
+            break;
+            case 'base':
+            vals = ['Please choose from above'];
+      } 
+
+      var $secondChoice = $("#second-choice");
+      $secondChoice.empty();
+      $.each(vals, function(index, value){
+        $secondChoice.append("<option>" + value + "</option>");
+      });
+    });
+   
+  });
