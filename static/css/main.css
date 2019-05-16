@@ -466,5 +466,9 @@ button{
 table {
   text-align: center;
   margin: auto;
+  display: block;
+  height: 500px;
+  overflow-y: scroll;
 }
+
 
