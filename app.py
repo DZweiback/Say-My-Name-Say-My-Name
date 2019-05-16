@@ -39,7 +39,7 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     """Render Home Page."""
-    return render_template("main2.html")
+    return render_template("main.html")
 
 # 2 FOR STATE = returns POPULAR BABY NAMES for the STATE
 @app.route("/api/home_state")
