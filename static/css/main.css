@@ -185,7 +185,7 @@ p{
   #parallax-films .block {padding: 40px; width:620px;}
 }
 @media screen and (max-width: 767px) {
-  #parallax-films .block {padding: 30px; width:400px;}
+  #parallax-films .block {padding: 30px; width:400px; height: 400px;}
   #parallax-films h2 {font-size:30px;}
   #parallax-films .block {padding: 30px;}
   #parallax-films .parallax-one, #parallax-films .parallax-two, #parallax-films .parallax-three {padding-top:100px; padding-bottom:100px;}
