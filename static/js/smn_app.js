@@ -150,3 +150,20 @@ rbutton.on("click", function() {
         //row.append("td").text(entry.comments);
     });
 });
+
+
+
+
+
+
+
+submit_button.on("click", function() {
+    d3.event.preventDefault();
+    
+    var yearinputElement = d3.select("#inputYear");
+    var year = yearinputElement.property("value");
+
+
+    alert(year);
+    
+    });

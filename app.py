@@ -100,6 +100,15 @@ def your_name():
 
     return jsonify(yourname_df)
 
+#6 for YEAR return top boy name and top girl name
+@app.route("/api/top_boy_name")
+def top_b_name():
+    """Return baby names by your name using baby_names view"""
+    conn = engine.connect()
+    Year = request.args.get('top_b_name')
+    boy_name_df = pd.read_sql(f"Select Name from baby_names Where (Gender = 'M' AND Year = '{Year}') Group By Name  Order by Count(Name) DESC Limit 1", con=conn)
+    boy_name_df = boy_name_df.to_dict(orient = "records")
+    return jsonify(boy_name_df)
 
 # Test Route for State Specific Connection - runs locally
 @app.route("/api/baby_names_MI")
