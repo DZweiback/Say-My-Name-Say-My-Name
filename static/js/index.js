@@ -1,4 +1,4 @@
-/*
+
 $(document).ready(function() {
     $(window).scroll(function(e) {
         var s = $(window).scrollTop(),
@@ -8,7 +8,7 @@ $(document).ready(function() {
     });
 });
 
-
+/*
 $(function() {
     $("#bt").click(function() {
       $(".layout_foreground").toggleClass("next-page");

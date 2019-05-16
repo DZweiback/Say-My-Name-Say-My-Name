@@ -13,7 +13,7 @@ body { margin: 0; padding: 0; }
 
 .img-src { 
     position: absolute;
-    background:url(../images/films.jpg) center center;
+    background:url(../static/images/films.jpg) center center;
     background-size: 1500px 1000px;
     top: -10%;
     bottom: 10%;
@@ -123,8 +123,8 @@ p{
     font-size: 20px;
     margin-top: 30px;
 }
-@import url(https://fonts.googleapis.com/css?family=Comic Sans:300,400,700);
-@import url(../../images/action_film.jpg);
+@import url(https://fonts.googleapis.com/css?family=ComicSans:300,400,700);
+@import url(../../static/images/action_film.jpg);
 
 /* Override UGG site */
 #main {width: 100%; padding:0;}
@@ -165,9 +165,9 @@ p{
 
 
 
-#parallax-films .parallax-one {padding-top: 250px; padding-bottom: 250px; overflow: hidden; position: relative; width: 100%; background-image: url(../images/fantasy.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center; opacity: 0.5;}
-#parallax-films .parallax-two {padding-top: 250px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../images/adventure.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
-#parallax-films .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../images/drama.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
+#parallax-films .parallax-one {padding-top: 250px; padding-bottom: 250px; overflow: hidden; position: relative; width: 100%; background-image: url(../static/images/fantasy.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center; opacity: 0.5;}
+#parallax-films .parallax-two {padding-top: 250px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../static/images/adventure.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
+#parallax-films .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../static/images/drama.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
 #parallax-films .parallax-four {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://media.nj.com/southjerseyhssports/photo/girls-soccer-roundup-photo-lmn-3200-9037787jpg-a65fde8e9554fd62.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
 
 #parallax-films .parallax-five {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://static.wixstatic.com/media/847c88_c3ce55d312a42b0d1eaea5c9903d1a4f.jpg_1024); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
@@ -376,11 +376,7 @@ transition: all 0.4s ease 0s;
 }
 
 #block_one{
-<<<<<<< master:Say_My_Name_Webpage/assets/css/main.css
-    height: 600px;
-}
-=======
-    height: 650px;
+ height: 650px;
     width: auto;
 }
 #block_two{
@@ -472,4 +468,6 @@ table {
   margin: auto;
 }
 
->>>>>>> local:static/css/main.css
+#mainselection{
+  background-color: black;
+}
