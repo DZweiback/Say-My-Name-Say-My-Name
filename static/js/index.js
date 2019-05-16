@@ -8,7 +8,7 @@ $(document).ready(function() {
     });
 });
 
-/*
+
 $(function() {
     $("#bt").click(function() {
       $(".layout_foreground").toggleClass("next-page");
@@ -23,7 +23,7 @@ $(function() {
       x.className = x.className.replace(" w3-show", "");
     }
   }
-
+/*
   $("#first-choice").change(function(){
     var $dropdown = $(this);
     $.getJSON("../html.json", function(data){
@@ -50,7 +50,7 @@ $(function() {
   });
 */
 
-submit_button = d3.select("#submit_button");
+var submit_button = d3.select("#submit_button");
 submit_button.on("click", function() {
     d3.event.preventDefault();
     //alert("test");

@@ -13,7 +13,7 @@ body { margin: 0; padding: 0; }
 
 .img-src { 
     position: absolute;
-    background:url(../static/images/films.jpg) center center;
+    background:url(../images/films.jpg) center center;
     background-size: 1500px 1000px;
     top: -10%;
     bottom: 10%;
@@ -124,7 +124,7 @@ p{
     margin-top: 30px;
 }
 @import url(https://fonts.googleapis.com/css?family=ComicSans:300,400,700);
-@import url(../../static/images/action_film.jpg);
+@import url(../../images/action_film.jpg);
 
 /* Override UGG site */
 #main {width: 100%; padding:0;}
@@ -165,12 +165,12 @@ p{
 
 
 
-#parallax-films .parallax-one {padding-top: 250px; padding-bottom: 250px; overflow: hidden; position: relative; width: 100%; background-image: url(../static/images/fantasy.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center; opacity: 0.5;}
-#parallax-films .parallax-two {padding-top: 250px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../static/images/adventure.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
-#parallax-films .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../static/images/drama.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
+#parallax-films .parallax-one {padding-top: 250px; padding-bottom: 250px; overflow: hidden; position: relative; width: 100%; background-image: url(../images/fantasy.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center; opacity: 0.5;}
+#parallax-films .parallax-two {padding-top: 250px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../images/adventure.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
+#parallax-films .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(../images/drama.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center; opacity: 0.5;}
 #parallax-films .parallax-four {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://media.nj.com/southjerseyhssports/photo/girls-soccer-roundup-photo-lmn-3200-9037787jpg-a65fde8e9554fd62.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
 
-#parallax-films .parallax-five {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://static.wixstatic.com/media/847c88_c3ce55d312a42b0d1eaea5c9903d1a4f.jpg_1024); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
+#parallax-films .parallax-five {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http:/.wixstatic.com/media/847c88_c3ce55d312a42b0d1eaea5c9903d1a4f.jpg_1024); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
 
 #parallax-films .parallax-six {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(http://www.crismanphoto.com/media/original/cc_soccer_023.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
 
@@ -185,7 +185,7 @@ p{
   #parallax-films .block {padding: 40px; width:620px;}
 }
 @media screen and (max-width: 767px) {
-  #parallax-films .block {padding: 30px; width:420px;}
+  #parallax-films .block {padding: 30px; width:400px;}
   #parallax-films h2 {font-size:30px;}
   #parallax-films .block {padding: 30px;}
   #parallax-films .parallax-one, #parallax-films .parallax-two, #parallax-films .parallax-three {padding-top:100px; padding-bottom:100px;}
@@ -468,6 +468,3 @@ table {
   margin: auto;
 }
 
-#mainselection{
-  background-color: black;
-}

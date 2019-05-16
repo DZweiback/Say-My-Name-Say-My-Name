@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Say My Name</title>
+    
+    <link rel="stylesheet" href="static/css/bootstrap.min.css" media="screen">
+    <link rel="stylesheet" href="static/css/main.css">
+
+  </head>
+
+  <body>
+    <div class = "container">
+    <div class="layout-foreground">
+        <div id="blurred-image-container">
+            <div class="img-src"></div>
+            <div class="img-src blurred-image"></div>
+        </div>
+        <div class = "typewriter">
+        <h1><b><i>Names and the Films from which they came...</i></b></h1>
+        </div>
+        <div class="content">
+           
+            <blockquote>"Just because you know my name, doesn't mean you know my story " - Morris Mandel</blockquote>
+            <h2>Inspiration for this project</h2>
+           
+            <p>The purpose of this project, “Say My Name” is to show the correlation between popular 
+                baby names by year and popular movie character’s, with a focus on the top 10. The goal 
+                is to provide an interactive website that will display and separate data by:
+                <li>Name</li>
+                <li>Year</li>
+                <li>Gender</li>
+                <li>Count( This selection will show the number of baby names by state from most popular to most common.)</li>
+            </p>
+            <p>The data sources were retrieved from two datasets:  Baby Names from Social Security Card 
+                Applications – National Level Data with years from 1879-2017 <a href src = "https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data"></a>
+                </p>
+           
+        
+            
+        </div> 
+        
+    </div>
+<div class = "new_page" id = "new_page">
+    <div id="parallax-films">
+        <section >
+            <div class="title">
+                <h1><b>Analysis</b></h1>
+                <hr>
+                    <div id="mainselection">
+                        <select name = "forma" onchange = "updateViz(this.value)">
+                            <option>Choose an Analysis Option</option>
+                            <option value = "top_10_child_names">Top 10 child names</option>
+                            <option value = "top_10_films">Top 10 films</option>
+                            <option value = "by_year">Year</option>
+                            <option>Bonus: Map</option>
+                        </select>
+                       
+                    </div>
+
+                    <div id="lineviz">
+                            <div class='tableauPlaceholder' id='viz1557962879519' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CQ&#47;CQ3H3PS7H&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;CQ3H3PS7H' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CQ&#47;CQ3H3PS7H&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1557962879519');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+                    </div>
+
+                    <div id="mapviz">
+                            <div class='tableauPlaceholder' id='viz1557962956567' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Map_15579620905300&#47;Map&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Map_15579620905300&#47;Map' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;Map_15579620905300&#47;Map&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1557962956567');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+                    </div>
+
+                    <div id="barviz">
+                            <div class='tableauPlaceholder' id='viz1557962922616' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BarGraph_15579585053760&#47;BarGraph&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BarGraph_15579585053760&#47;BarGraph' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ba&#47;BarGraph_15579585053760&#47;BarGraph&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1557962922616');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+                    </div>
+
+                    
+
+                </hr>
+            </div>
+        </section>	
+        <section>
+            <div class="parallax-one">
+                <h2>Fantasy</h2>
+            </div>
+        </section>
+        <section>
+            <div class="block" id ="block_one">
+                <div class="block_title" id = "block_title"><h1><u>Analysis by Year</u></h1></div>
+                   <div class = "parent">
+                       <div class = "col_1" id = "col_1">
+                        <h3>Enter a Year below</h3>
+                        <form method="POST" role="form", name="babynameform" target = "_self">
+                            <div class="form-group">
+                                    <label for="inputName">Enter Year Below</label>
+                                    <input type="text" class="form-control" id="inputYear" name="Year" placeholder="Enter year between 1950-2017">
+                            </div>
+                            
+                        </form> 
+                        <input type="button" id="submit_button" value="submit">
+                       </div> 
+                      
+                       <div class = "col_2">
+                        <table id= "col_2_3">
+                            <tr>
+                                <th>Movie Name</th>
+                                <th>Characters</th>
+                                <th>Actors</th>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Here goes the film names
+                                </td>
+                                <td>
+                                    Here goes the fil characters
+                                </td>
+                                <td>
+                                    Here goes the actor names
+                                </td>
+                            </tr>
+                            <tr>
+                                    <td>
+                                        Here goes the film names
+                                    </td>
+                                    <td>
+                                        Here goes the fil characters
+                                    </td>
+                                    <td>
+                                        Here goes the actor names
+                                    </td>
+                                </tr>
+                                <tr>
+                                        <td>
+                                            Here goes the film names
+                                        </td>
+                                        <td>
+                                            Here goes the fil characters
+                                        </td>
+                                        <td>
+                                            Here goes the actor names
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                            <td>
+                                                Here goes the film names
+                                            </td>
+                                            <td>
+                                                Here goes the fil characters
+                                            </td>
+                                            <td>
+                                                Here goes the actor names
+                                            </td>
+                                        </tr>
+                        </table>
+                        <div class = "parent" id = "col_bottom">
+                            <div class = "col_1" id = "col_1_1">
+                            
+                             
+                             <h3>Top Boy Name: </h3>
+                             <text id="demo">Hello</text>
+                           
+                             <h3>Top Girl Name: </h3>
+                             
+                            </div> 
+                           
+                            <div class = "col_2" id = "col_2_1">
+                              <table>
+                                  <tr>
+                                      <th>Name</th>
+                                      <th>
+                                        Year
+                                      </th>
+                                      <th>
+                                          year - 1
+                                      </th>
+                                      <th>
+                                          year-2
+                                      </th>
+                                      <th>
+                                          year-3
+                                      </th>
+                                  </tr>
+                                  <tr>
+                                      <th>Boy Name</th>
+                                      <td>
+                                          Boy current year
+                                      </td>
+                                      <td>
+                                          Boy year - 1
+                                      </td>
+                                      <td>
+                                          Boy year -2
+                                      </td>
+                                      <td>
+                                            Boy year -3
+                                        </td>
+                                  </tr>
+                                  <tr>
+                                      <th>Girl Name</th>
+                                        <td>
+                                            Girl current year
+                                        </td>
+                                        <td>
+                                            Girl year - 1
+                                        </td>
+                                        <td>
+                                            Girl year -2
+                                        </td>
+                                        <td>
+                                              Girl year -3
+                                          </td>
+                                    </tr>
+
+                              </table>
+                             
+                             
+     
+                            </div>
+                        </div>
+                       </div>
+                       
+                   </div>
+                   
+            </div>
+        </section>
+              
+        <section>
+            <div class="parallax-two">
+                  <h2>Adventure</h2>
+            </div>
+        </section>
+        <section>
+                <div class="block" id= "block_two">
+                        <div class="block_title" id = "block_title"><h1><u>Analysis by Film</u></h1></div>
+                        <div class = "parent">
+                                <div class = "col_1" id = "col_1">
+                                 <h3>Select a Top Film</h3>
+                                 <div class="dropdown">
+                                    <button class="dropbtn">Select a Top Film</button>
+                                    <div class="dropdown-content">
+                                    <a href="#">The Godfather</a>
+                                    <a href="#">The Shawshank Redemption</a>
+                                    <a href="#">Raging Bull</a>
+                                    <a href="#">Casablanca</a>
+                                    <a href="#">Gladiator</a>
+                                    <a href="#">Titanic</a>
+                                    <a href="#">Saving Private Ryan</a>
+                                    <a href="#">Raiders of the Lost Ark</a>
+                                    <a href="#">Rocky</a>
+                                    <a href="#">My Fair Lady</a>
+                                    <a href="#">Jaws</a>
+                                    <a href="#">Butch Cassidy and the Sundance Kid</a>
+                                    <a href="#">Braveheart</a>
+                                    <a href="#">Dances With Wolves</a>
+                                    <a href="#">Jurassic Park</a>
+                                    <a href="#">Star Wars</a>
+                                    <a href="#">Goodfellas</a>
+                                    <a href="#">Rain Man</a>
+                                    <a href="#">The Green Mile</a>
+                                    <a href="#">Pulp Fiction</a>
+                                    </div>
+                                  </div>
+                                </div> 
+                               
+                                <div class = "col_2" id= "col_2_2">
+                                 <h3>Year: </h3>
+                                 <h3>Characters:</h3>
+                                 <h3>Actors</h3>
+                                 <table>
+                                        <tr>
+                                            <th>Name</th>
+                                            <th>
+                                              Year
+                                            </th>
+                                            <th>
+                                                year - 1
+                                            </th>
+                                            <th>
+                                                year-2
+                                            </th>
+                                            <th>
+                                                year-3
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <th>Boy Name</th>
+                                            <td>
+                                                Boy current year
+                                            </td>
+                                            <td>
+                                                Boy year - 1
+                                            </td>
+                                            <td>
+                                                Boy year -2
+                                            </td>
+                                            <td>
+                                                  Boy year -3
+                                              </td>
+                                        </tr>
+                                        <tr>
+                                            <th>Girl Name</th>
+                                              <td>
+                                                  Girl current year
+                                              </td>
+                                              <td>
+                                                  Girl year - 1
+                                              </td>
+                                              <td>
+                                                  Girl year -2
+                                              </td>
+                                              <td>
+                                                    Girl year -3
+                                                </td>
+                                          </tr>
+      
+                                    </table>
+
+                                 
+                                 
+         
+                                </div>
+                            </div>
+                </div>
+            </section>
+            <section>
+                    <div class="parallax-three">
+                          <h2>Drama</h2>
+                    </div>
+            </section>
+            <section>
+                    <div class="block" id= "block_three">
+                            <div class="block_title" id = "block_title"><h1><u>Analysis by Name</u></h1></div>
+                            <div class = "parent">
+                                    <div class = "col_1" id = "col_1_4">
+                                    <select id = "first-choice">
+                                        <option selected value = "base">Please Select</option>
+                                        <option value = "Top_Boy_Names">Top Boy Names</option>
+                                        <option value = "Top_Girl_Names">Top Girl Names</option>
+                                    </select>
+                                    <br>
+                                    <select id = "second-choice">
+                                        <option> Please choose from above</option>
+                                    </select>
+                                    </div> 
+                                   
+                                    <div class = "col_2"  >
+                     
+                                    </div>
+                                    
+                                </div>
+                    </div>
+                </section>
+                <section>
+                        <div class="parallax-four">
+                              <h2>Comedy</h2>
+                        </div>
+                </section>
+                <section>
+                        <div class="block" id= "block_four">
+                                <h2>Place holder fo graph</h2>
+                                <div class = "square"></div>
+                        </div>
+                    </section>
+    </div>
+</div>
+  </div>  
+  </body>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+        <script src = "https://d3js.org/d3.v4.js"></script>
+         <script src="../static/js/index.js"></script>
+         <script src="../static/smn_app.js"></script>
+       
+
+  </html>
