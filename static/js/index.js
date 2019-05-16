@@ -53,7 +53,7 @@ $(function() {
 submit_button = d3.select("#submit_button");
 submit_button.on("click", function() {
     d3.event.preventDefault();
-    
+    alert("test");
     var yearinputElement = d3.select("#inputYear");
     var year = yearinputElement.property("value");
 
